@@ -28,6 +28,12 @@ main#content.main-content {
     font-size: 1.1rem;
 }
 
+@media (max-width:700px){
+    main#content.main-content {
+        padding: 0 0;
+    }
+}
+
 body{
     background-color: floralwhite;
 }
