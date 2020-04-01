@@ -13,4 +13,4 @@ Tuesdays at 3pm GMT.
 
 ## Contact
 
-Björn Hagströmer ([Twitter](https://twitter.com/bjornhagstromer)) for general queries and Cameron Pfiffer ([Twitter](*https://twitter.com/cameron_pfiffer)) for website or logistics issues.
+Björn Hagströmer ([twitter](https://twitter.com/bjornhagstromer)) for general queries and Cameron Pfiffer ([twitter](*https://twitter.com/cameron_pfiffer) or [email](mailto:cpfiffer@uoregon.edu)) for website or logistics issues.
