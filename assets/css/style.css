@@ -10,7 +10,7 @@ h2.site-tagline {
     text-align: center;
 }
 
-a:link {
+a {
     color: black;
     background-color: transparent;
     text-decoration: underline;
