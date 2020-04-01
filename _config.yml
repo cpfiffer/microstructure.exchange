@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: The Microstructure Exchange
+site:
+  description: Something
+  title: The Microstructure Exchange
+
+# theme: jekyll-theme-cayman
+github: 
+  repository_url: https://github.com/cpfiffer/microstructure.exchange
+  repository_name: microstructure.exchange
+  owner_url: https://github.com/cpfiffer
+  owner_name: Cameron Pfiffer

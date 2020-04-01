@@ -1,0 +1,59 @@
+h1.site-title {
+    font-family: 'Viaoda Libre', 'Abril Fatface', cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2.site-tagline {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+p, h1, h2, h3, h4, h5, h6, li {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.5em;
+}
+
+main#content.main-content {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+
+body{
+    background-color: floralwhite;
+}
+
+span.site-footer-owner {
+    font-family: 'Crimson Text', serif;
+    font-size: 1em;
+    text-align: right;
+    float: right;
+}
+
+hr {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+    width: 50%;
+}
+hr:after {
+    content: "∘";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: floralwhite;
+}
