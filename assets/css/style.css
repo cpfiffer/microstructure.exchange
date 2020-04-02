@@ -10,6 +10,13 @@ h2.site-tagline {
     text-align: center;
 }
 
+h3.main-links {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.5rem;
+    text-align: center;
+    font-style: normal !important; 
+}
+
 a {
     color: black;
     background-color: transparent;
@@ -23,7 +30,7 @@ p, h1, h2, h3, h4, h5, h6, li {
 
 main#content.main-content {
     max-width: 64rem;
-    padding: 2rem 6rem;
+    padding: 0rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
 }
@@ -62,4 +69,8 @@ hr:after {
     font-size: 1.5em;
     padding: 0 0.25em;
     background: floralwhite;
+}
+
+iframe {
+    padding: inherit;
 }
