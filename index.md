@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Microstructure Exchange is a virtual academic market microstructure research seminar of indefinite length, intended to foster discussion and to continue the sharing of ideas between researchers.
+The Microstructure Exchange is a virtual academic market microstructure research seminar of indefinite length, intended to continue the sharing of ideas between researchers.
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session.
 
@@ -19,8 +19,13 @@ To receive the Zoom link for the seminar, you must subscribe the [the mailing li
 ## Organizing committee
 
 - Björn Hagströmer -- Stockholm University ([twitter](https://twitter.com/bjornhagstromer) or [email](mailto:bjh@sbs.su.se))
+- Katya Malinova -- McMaster University ([email](mailto:malinovk@mcmaster.ca))
+- Andreas Park -- University of Toronto ([email](mailto:andreas.park@rotman.utoronto.ca))
 - Cameron Pfiffer -- University of Oregon ([twitter](https://twitter.com/cameron_pfiffer) or [email](mailto:cpfiffer@uoregon.edu))
+- Andriy Shkilko -- Wilfred Laurier University ([email](ashkilko@wlu.ca))
 
 ## Contact
 
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
+
+There is a Telegram channel, available [here](https://t.me/joinchat/HsE1ORwVqqFsOdtNMgv7vA).
