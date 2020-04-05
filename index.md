@@ -11,7 +11,9 @@ The first speakers are well-established in the field. To ensure that junior rese
 ## Upcoming talk
 
 April 14, 11 am (EST)
+
 Thierry Foucault, HEC Paris 
+
 Equilibrium Data Mining and Data Abundance (with Jérôme Dugast)
 
 ## Calendar 
