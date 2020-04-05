@@ -28,8 +28,8 @@ To receive the Zoom link and the paper for upcoming seminars, please subscribe t
 
 - Björn Hagströmer -- Stockholm University ([website](https://hagstromer.org/) or [email](mailto:bjh@sbs.su.se))
 - Katya Malinova -- McMaster University ([website](https://sites.google.com/site/katyamalinova/) or [email](mailto:malinovk@mcmaster.ca))
-- Andreas Park -- University of Toronto ([email](mailto:andreas.park@rotman.utoronto.ca))
-- Cameron Pfiffer -- University of Oregon ([twitter](https://twitter.com/cameron_pfiffer) or [email](mailto:cpfiffer@uoregon.edu))
+- Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
+- Cameron Pfiffer -- University of Oregon ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@uoregon.edu))
 - Andriy Shkilko -- Wilfrid Laurier University ([email](ashkilko@wlu.ca))
 
 ## Contact
