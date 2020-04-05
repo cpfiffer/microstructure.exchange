@@ -35,11 +35,7 @@ main#content.main-content {
     font-size: 1.1rem;
 }
 
-@media (max-width:700px){
-    main#content.main-content {
-        padding: 0 0;
-    }
-}
+
 
 body{
     background-color: floralwhite;
@@ -72,5 +68,55 @@ hr:after {
 }
 
 iframe {
-    padding: inherit;
+    padding-left: 6rem;
+}
+
+div.upcoming-talk {
+    font-size: 1.5rem;
+    font-family:  'Crimson Text', serif;
+}
+
+span.upcoming-speaker {
+    max-width: 80%;
+    padding: 0rem 2rem;
+    margin: 0 auto;
+    /* font-size: 1.1rem; */
+    /* font-weight: bold; */
+}
+
+span.upcoming-paper {
+    max-width: 80%;
+    padding: 0rem 2rem;
+    margin: 0 auto;
+    /* font-size: 1.1rem; */
+    /* font-weight: bold; */
+    font-style: italic;
+}
+
+span.upcoming-date {
+    max-width: 80%;
+    padding: 0rem 2rem;
+    margin: 0 auto;
+    /* font-size: 1.1rem; */
+    /* font-weight: bold; */
+}
+
+@media (max-width:700px){
+    p, h1, h2, h3, h4, h5, h6, li, div.upcoming-talk {
+        font-size: 1.2em;
+    }
+
+    main#content.main-content {
+        padding: 0 0;
+    }
+
+    span.upcoming-speaker, span.upcoming-paper, span.upcoming-date {
+        max-width: 100%;
+        padding: 0 5%;
+    }
+
+    iframe{
+        padding: 0 0;
+        max-width: 100%;
+    }
 }

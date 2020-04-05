@@ -9,3 +9,9 @@ github:
   repository_name: microstructure.exchange
   owner_url: https://github.com/cpfiffer
   owner_name: Cameron Pfiffer
+
+speaker-info:
+  speaker-name: Thierry Foucault, HEC Paris
+  speaker-paper: Equilibrium Data Mining and Data Abundance (with Jérôme Dugast) 
+  speaker-date: April 14, 11 am (EST) 
+  
