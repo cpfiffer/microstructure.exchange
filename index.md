@@ -30,7 +30,7 @@ To receive the Zoom link and the paper for upcoming seminars, please subscribe t
 - Katya Malinova -- McMaster University ([website](https://sites.google.com/site/katyamalinova/) or [email](mailto:malinovk@mcmaster.ca))
 - Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
 - Cameron Pfiffer -- University of Oregon ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@uoregon.edu))
-- Andriy Shkilko -- Wilfrid Laurier University ([email](ashkilko@wlu.ca))
+- Andriy Shkilko -- Wilfrid Laurier University ([website](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/andriy-shkilko/index.html), [twitter](https://twitter.com/AndriyShkilko), or [email](ashkilko@wlu.ca))
 
 ## Contact
 
