@@ -12,6 +12,10 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 {% include upcoming-speaker.html %}
 
+## Video abstract
+
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/-4ZiSoHkkPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Calendar 
 
 Seminars will take place on Tuesdays. The first seminar is at 11am EDT (i.e. New York time), but times may vary to accomodate a broader global audience.
