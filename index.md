@@ -12,6 +12,8 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 {% include upcoming-speaker.html %}
 
+> __Abstract__: We analyze how information processing power and data abundance affect speculators' search for predictors. Speculators optimally search for a predictor whose signal-to-noise ratio exceeds an endogenous threshold. Greater computing power raises this threshold, and therefore price informativeness, because it reduces the cost of search. In contrast, data abundance can lower this threshold because (i) it intensifies competition among speculators, which reduces the benefit of finding a good predictor and (ii) it increases the total expected cost of finding a predictor. In the former (latter) case, price informativeness increases (decreases) with data abundance. We present additional testable implications of these effects.
+
 ## Video abstract
 
 <iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/-4ZiSoHkkPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
