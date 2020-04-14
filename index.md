@@ -12,15 +12,9 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 {% include upcoming-speaker.html %}
 
-__Abstract__: We analyze how information processing power and data abundance affect speculators' search for predictors. Speculators optimally search for a predictor whose signal-to-noise ratio exceeds an endogenous threshold. Greater computing power raises this threshold, and therefore price informativeness, because it reduces the cost of search. In contrast, data abundance can lower this threshold because (i) it intensifies competition among speculators, which reduces the benefit of finding a good predictor and (ii) it increases the total expected cost of finding a predictor. In the former (latter) case, price informativeness increases (decreases) with data abundance. We present additional testable implications of these effects.
-
-## Video abstract
-
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/-4ZiSoHkkPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Calendar 
 
-Seminars will take place on Tuesdays. The first seminar is at 11am EDT (i.e. New York time), but times may vary to accomodate a broader global audience.
+Seminars will take place on Tuesdays. Times may vary to accomodate a broader global audience and to meet the speaker's schedule.
 
 The calendar is available as a [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York) or in [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics) format.
 
@@ -41,3 +35,7 @@ To receive the Zoom link and the paper for upcoming seminars, please subscribe t
 ## Contact
 
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
+
+## Past talks
+
+- [Thierry Foucault](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) -- April 14th, 2020
