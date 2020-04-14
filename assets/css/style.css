@@ -76,7 +76,7 @@ div.upcoming-talk {
     font-family:  'Crimson Text', serif;
 }
 
-span.upcoming-speaker, span.upcoming-paper-link {
+span.upcoming-speaker, span.upcoming-paper-link, span.upcoming-webinar-link {
     max-width: 80%;
     padding: 0rem 2rem;
     margin: 0 auto;
@@ -111,7 +111,7 @@ span.upcoming-date {
     }
 
     span.upcoming-speaker, span.upcoming-paper, 
-    span.upcoming-date, span.upcoming-paper-link {
+    span.upcoming-date, span.upcoming-paper-link, span.upcoming-webinar-link {
         max-width: 100%;
         padding: 0 5%;
     }
