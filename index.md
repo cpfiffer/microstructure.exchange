@@ -38,4 +38,4 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- [Thierry Foucault](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) -- April 14th, 2020
+- Thierry Foucault ([video](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) and [slides](slides/DataMining_Slides_MicExchangeApril2.pdf)) -- April 14th, 2020
