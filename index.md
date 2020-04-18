@@ -14,6 +14,10 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 **Abstract**: We study the anatomy of four widely used standardized institutional trading algorithms representing $675 billion in demand from 961 institutions between 2012 and 2016.  The central tradeoff in these algorithms is between the desire to trade and transaction costs.  Large parent orders generate hundreds of child orders which strategically employ the price, time, and display priority rules embodied in market structure to navigate this tradeoff.  The distribution of child orders is non-random, generating strategic runs which oscillate between providing and taking liquidity.  Price impact occurs both at the time an order is submitted to the book (regardless of whether it is filled), and at the time of execution.  Passive child orders have much lower likelihood of execution but still incur substantial price impact.  Conversely, marketable orders, even though immediately executable, do not necessarily guarantee execution and generate even larger price impact.  
 
+## Video abstract
+
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/tcc41xI6vQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Calendar 
 
 Seminars will take place on Tuesdays. Times may vary to accomodate a broader global audience and to meet the speaker's schedule.
