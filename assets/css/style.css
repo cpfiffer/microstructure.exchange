@@ -28,6 +28,11 @@ p, h1, h2, h3, h4, h5, h6, li {
     font-size: 1.5em;
 }
 
+h3 {
+    font-size: 1.4em;
+    font-style: italic;
+}
+
 main#content.main-content {
     max-width: 64rem;
     padding: 0rem 6rem;
