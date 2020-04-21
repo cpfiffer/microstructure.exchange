@@ -12,11 +12,11 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We study the anatomy of four widely used standardized institutional trading algorithms representing $675 billion in demand from 961 institutions between 2012 and 2016.  The central tradeoff in these algorithms is between the desire to trade and transaction costs.  Large parent orders generate hundreds of child orders which strategically employ the price, time, and display priority rules embodied in market structure to navigate this tradeoff.  The distribution of child orders is non-random, generating strategic runs which oscillate between providing and taking liquidity.  Price impact occurs both at the time an order is submitted to the book (regardless of whether it is filled), and at the time of execution.  Passive child orders have much lower likelihood of execution but still incur substantial price impact.  Conversely, marketable orders, even though immediately executable, do not necessarily guarantee execution and generate even larger price impact.  
+**Abstract**: This work studies the information content of trades in the world’s largest over-the-counter (OTC) market, the foreign exchange (FX) market. It analyses a novel, comprehensive order flow dataset, distinguishing amongst different groups of market participants and covering a large cross-section of currency pairs. We find compelling evidence of heterogeneous superior information across agents, time and currency pairs, consistent with the asymmetric information theory and OTC market fragmentation. A trading strategy based on the permanent price impact, capturing asymmetric information risk, generates high returns even after accounting for risk, transaction costs and other common risk factors documented in the FX literature. 
 
 ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/tcc41xI6vQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/3ormJqfCx-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
@@ -44,6 +44,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Sunil Wahal ([video](https://youtu.be/3QiHYYw1zII)) -- April 21st, 2020
 - Thierry Foucault ([video](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) and [slides](slides/DataMining_Slides_MicExchangeApril2.pdf)) -- April 14th, 2020
 
 ## Resources

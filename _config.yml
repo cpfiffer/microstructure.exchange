@@ -11,9 +11,9 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Sunil Wahal, Arizona State University
-  speaker-paper: The Anatomy of Trading Algorithms
-  speaker-date: April 21, 10 am (EDT) 
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_-38_JVNiTB2NyYqXiriHQg
-  slides-link: /slides/AlgoMicroExch.pdf
+  speaker-name: Angelo Ranaldo, University of St. Gallen
+  speaker-paper: Asymmetric Information Risk in FX Markets
+  speaker-date: April 28, 10 am (EDT) 
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_-38_JVNiTB2NyYqXiriHQg
+  # slides-link: /slides/AlgoMicroExch.pdf
