@@ -45,3 +45,15 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 ## Past talks
 
 - Thierry Foucault ([video](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) and [slides](slides/DataMining_Slides_MicExchangeApril2.pdf)) -- April 14th, 2020
+
+## Resources
+
+The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
+
+### Data
+
+- [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data.
+
+### Announcements
+
+- [Call for papers](https://www.journals.elsevier.com/journal-of-banking-and-finance/call-for-papers/special-issue-the-impact-of-global-pandemic) for a _Journal of Banking & Finance_ entitled "The Impact of Global Pandemic on Financial Markets and Institutions". Submission opens on May 1st, 2020, with a deadline of May 31st, 2020.
