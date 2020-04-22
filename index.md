@@ -44,8 +44,8 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- Sunil Wahal ([video](https://youtu.be/3QiHYYw1zII)) -- April 21st, 2020
-- Thierry Foucault ([video](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be) and [slides](slides/DataMining_Slides_MicExchangeApril2.pdf)) -- April 14th, 2020
+- Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)) -- April 21st, 2020
+- Thierry Foucault ([recording](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be), [slides](slides/DataMining_Slides_MicExchangeApril2.pdf), [video abstract](https://www.youtube.com/watch?v=-4ZiSoHkkPI&t=7s), and [paper](/papers/Equi_Data_Mining_maktmicroexchange_seminar.pdf)) -- April 14th, 2020
 
 ## Resources
 
