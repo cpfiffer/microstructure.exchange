@@ -58,3 +58,4 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 ### Announcements
 
 - [Call for papers](https://www.journals.elsevier.com/journal-of-banking-and-finance/call-for-papers/special-issue-the-impact-of-global-pandemic) for a _Journal of Banking & Finance_ entitled "The Impact of Global Pandemic on Financial Markets and Institutions". 
+- The Central Bank Workshop on the Microstructure of Financial Markets has a [call for papers](https://sites.google.com/view/cbconf-microfin/).
