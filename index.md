@@ -12,7 +12,8 @@ The first speakers are well-established in the field. To ensure that junior rese
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: This work studies the information content of trades in the world’s largest over-the-counter (OTC) market, the foreign exchange (FX) market. It analyses a novel, comprehensive order flow dataset, distinguishing amongst different groups of market participants and covering a large cross-section of currency pairs. We find compelling evidence of heterogeneous superior information across agents, time and currency pairs, consistent with the asymmetric information theory and OTC market fragmentation. A trading strategy based on the permanent price impact, capturing asymmetric information risk, generates high returns even after accounting for risk, transaction costs and other common risk factors documented in the FX literature. 
+**Abstract**: Technology transformed the trading of financial assets but has been slower to come to corporate bond trading. Combining proprietary data from MarketAxess with regulatory TRACE data, we investigate how electronic request for quote (RFQ) trading affects bond dealers and trading more generally. We demonstrate that electronic trading remains fairly small and segmented, but has wide-ranging effects on transaction costs and execution quality in both electronic and voice trading, and the inter-dealer market. We identify features particular to bond markets that have and may continue to limit electronic bond trading growth. We provide an intriguing portrait of a market in transition.
+
 
 ## Video abstract
 
@@ -44,6 +45,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279))
 - Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)) -- April 21st, 2020
 - Thierry Foucault ([recording](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be), [slides](slides/DataMining_Slides_MicExchangeApril2.pdf), [video abstract](https://www.youtube.com/watch?v=-4ZiSoHkkPI&t=7s), and [paper](/papers/Equi_Data_Mining_maktmicroexchange_seminar.pdf)) -- April 14th, 2020
 

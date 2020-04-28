@@ -11,9 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Angelo Ranaldo, University of St. Gallen
-  speaker-paper: Asymmetric Information Risk in FX Markets
-  speaker-date: April 28, 10 am (EDT) 
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_1WClo_7qSFS6T-KPeh_eJw
-  slides-link: /slides/RanaldoSomogyi_webinar20200428_slides.pdf
+  speaker-name: Maureen O'Hara, Cornell University
+  speaker-paper: The Electronic Evolution of Corporate Bond Dealers
+  coauthors: "Xing (Alex) Zhou, Federal Reserve Board"
+  speaker-date: May 5, 10 am (EDT) 
+  paper-link: /papers/The Electronic Evolution of Corporate Bond Dealers.pdf
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_1WClo_7qSFS6T-KPeh_eJw
+  # slides-link: /slides/RanaldoSomogyi_webinar20200428_slides.pdf
