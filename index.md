@@ -6,7 +6,9 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
-The first speakers are well-established in the field. To ensure that junior researchers also have ample presentation opportunities, we plan to also reserve presentation slots for tenure-track faculty and senior PhD students.
+<div class="cfp">
+<span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for July 2020. Please visit the <a href="/emerging-scholars">call for papers</a> for more information or <a href="https://www.research.net/r/TME-2020">submit your paper</a>.
+</div>
 
 ## Upcoming talk
 

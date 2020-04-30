@@ -8,9 +8,9 @@ The Microstructure Exchange (website) is soliciting papers in market microstruct
 
 The main goal of the seminars is to provide feedback to early researchers who have difficulty promoting their work due to the ongoing pandemic.
 
-The program committee will choose four papers from the submissions. The seminars will be one hour, with 30 minutes for presentation, 15 minutes for a discussant, and 15 minutes for Q&A.
+A large group of market structure scholars will review the submitted papers and choose four for presentation. The seminars will be one hour, with 30 minutes for presentation, 15 minutes for a discussant, and 15 minutes for Q&A.
 
-Please submit your paper [here](FIXLINK).
+Please submit your paper [here](https://www.research.net/r/TME-2020).
 
 **Submission deadline**: May 11, 2020
 
