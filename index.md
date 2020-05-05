@@ -6,20 +6,22 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
+<hr>
+
 <div class="cfp">
 <span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for July 2020. Please visit the <a href="/emerging-scholars">call for papers</a> for more information or <a href="https://www.research.net/r/TME-2020">submit your paper</a>.
 </div>
+
+<hr>
 
 ## Upcoming talk
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Technology transformed the trading of financial assets but has been slower to come to corporate bond trading. Combining proprietary data from MarketAxess with regulatory TRACE data, we investigate how electronic request for quote (RFQ) trading affects bond dealers and trading more generally. We demonstrate that electronic trading remains fairly small and segmented, but has wide-ranging effects on transaction costs and execution quality in both electronic and voice trading, and the inter-dealer market. We identify features particular to bond markets that have and may continue to limit electronic bond trading growth. We provide an intriguing portrait of a market in transition.
-
-
 ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/9Qtg0ZFDics" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Coming soon.
+<!-- <iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/9Qtg0ZFDics" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Calendar 
 
