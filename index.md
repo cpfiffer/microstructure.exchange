@@ -18,10 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-## Video abstract
-
-Coming soon.
-<!-- <iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/9Qtg0ZFDics" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+**Abstract**: Competition among venues has increased with fragmentation. While some venues rely on a preopening phase leading to an opening call auction, some others start the day without such mechanisms. Using a unique dataset of stocks cross-traded on Euronext (which features a pre-open mechanism) and Chi-X (which does not), we find that preopening orders and indicative clearing prices still contribute to the price discovery process despite a drastic reduction of the opening volume from 10% in the 1990s to 1.5%. Using an accidental glitch on Euronext that delayed both the preopen and the start of the trading session, we show that preopening activity is not only useful for Euronext, but also for Chi-X. Finally, using information on trader speed and account type, we find that the preopen is strategically used by slow brokers to gain time priority. By submitting orders early, especially in stocks characterized by a large tick size and on days with liquidity shocks, they contribute significantly to the preopening price discovery process. 
 
 ## Calendar 
 
