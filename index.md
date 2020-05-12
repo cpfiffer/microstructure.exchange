@@ -50,7 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- Sophie Moinas ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502) and [slides](/slides/Sophie-Moinas-Slides.pdf)). The recorded presentation will be available shortly.
+- Sophie Moinas ([recording](https://www.youtube.com/watch?v=qKvihYW8bEE&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502), and [slides](/slides/Sophie-Moinas-Slides.pdf)).
 - Maureen O'Hara ([video abstract](https://www.youtube.com/watch?v=9Qtg0ZFDics) and [paper](/papers/The Electronic Evolution of Corporate Bond Dealers.pdf)) -- May 5th, 2020. We apologize -- the recording is not available due to a technical issue.
 - Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279)) -- April 28th, 2020.
 - Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)) -- April 21st, 2020
