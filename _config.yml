@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Sophie Moinas, Toulouse School of Economics
-  speaker-paper: Does preopening matter in fragmented markets?
-  coauthors: "Selma Boussetta (University of Bordeaux) and Laurence Lescourret (ESSEC Business School)"
-  speaker-date: May 12, 11 am (EDT) 
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_cfyF32FWQNq3FpjVNdmYfw
-  slides-link: /slides/Sophie-Moinas-Slides.pdf
+  speaker-name: Albert Menkveld, VU Amsterdam
+  speaker-paper: "Large Orders in Small Markets: On Optimal Execution with Endogenous Liquidity Supply"
+  coauthors: "with Agostino Capponi (Colombia University) and Hongzhong Zhang (Columbia University)"
+  speaker-date: May 19th, 11 am (EDT) 
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_cfyF32FWQNq3FpjVNdmYfw
+  slides-link: https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1

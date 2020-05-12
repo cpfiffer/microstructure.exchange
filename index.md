@@ -18,7 +18,11 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Competition among venues has increased with fragmentation. While some venues rely on a preopening phase leading to an opening call auction, some others start the day without such mechanisms. Using a unique dataset of stocks cross-traded on Euronext (which features a pre-open mechanism) and Chi-X (which does not), we find that preopening orders and indicative clearing prices still contribute to the price discovery process despite a drastic reduction of the opening volume from 10% in the 1990s to 1.5%. Using an accidental glitch on Euronext that delayed both the preopen and the start of the trading session, we show that preopening activity is not only useful for Euronext, but also for Chi-X. Finally, using information on trader speed and account type, we find that the preopen is strategically used by slow brokers to gain time priority. By submitting orders early, especially in stocks characterized by a large tick size and on days with liquidity shocks, they contribute significantly to the preopening price discovery process. 
+**Abstract**: We solve a Stackelberg game where a large uninformed seller executes optimally, fully cognizant of the response of Cournot-competitive market makers. The game therefore endogenizes both demand and supply of liquidity. The closed-form solution yields several insights. First, stealth trading is both privately and socially costly because market makers incur additional cost not knowing when execution ends. Second, the presence of a large seller does not unambiguously benefit other participants. Market makers benefit only if there is enough risk-absorption capacity or if the execution period is short. Other investors benefit only when the seller sells at high enough intensity. 
+
+## Video abstract
+
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/mCmWMNn431I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
@@ -46,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Sophie Moinas ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502) and [slides](/slides/Sophie-Moinas-Slides.pdf)). The recorded presentation will be available shortly.
 - Maureen O'Hara ([video abstract](https://www.youtube.com/watch?v=9Qtg0ZFDics) and [paper](/papers/The Electronic Evolution of Corporate Bond Dealers.pdf)) -- May 5th, 2020. We apologize -- the recording is not available due to a technical issue.
 - Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279)) -- April 28th, 2020.
 - Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)) -- April 21st, 2020
