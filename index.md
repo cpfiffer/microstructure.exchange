@@ -28,9 +28,9 @@ Note that Dmitriy's talk is on <span style="color: crimson"> Monday</span>, not 
 </div>
 <hr>
 
-<!-- ## Video abstract
+## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/mCmWMNn431I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/PKTVRVqrQ3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
