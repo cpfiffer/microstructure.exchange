@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Dmitriy Muravyev, Michigan State University
-  speaker-paper: "Should We Use Closing Prices? Institutional Price Pressure at the Close"
-  coauthors: "Vincent Bogousslavsky (Boston College)"
-  speaker-date: May 25th, 11 am (EDT) 
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_sHP30w6OTlqS9JeZ7fZaHg
+  speaker-name: Gideon Saar (Cornell University)
+  speaker-paper: "Limit Order Market under Asymmetric Information"
+  coauthors: "Ayan Bhattacharya (Baruch College)"
+  speaker-date: June 2nd, 11 am (EDT) 
+  # paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_sHP30w6OTlqS9JeZ7fZaHg
   # slides-link: https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1

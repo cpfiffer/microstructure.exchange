@@ -18,19 +18,9 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
+<!-- ## Video abstract
 
-
-**Abstract**: The closing stock price is determined in a special call auction. This single trade accounts for 7.3% of daily volume in 2018 and is strongly associated with ETF ownership and institutional rebalancing. Strikingly, this huge volume contributes little to price discovery. Closing prices frequently and significantly deviate from closing quote midpoints, but these deviations on average fully revert overnight. Half of the reversal occurs shortly after the close. The price deviations matter for ETF mispricing and put-call parity violations and their ability to predict next-day stock returns. Finally, the ratio of closing to total daily volume negatively predicts future stock returns. Our results raise concerns about an overwhelming reliance on closing prices. 
-
-<hr>
-<div class="cfp">
-Note that Dmitriy's talk is on <span style="color: crimson"> Monday</span>, not Tuesday. Later talks will resume their usual place on Tuesday.
-</div>
-<hr>
-
-## Video abstract
-
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/PKTVRVqrQ3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/PKTVRVqrQ3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Calendar 
 
@@ -58,6 +48,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Dmitriy Muravyev ([recording](https://www.youtube.com/watch?v=l17h4UGEueg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840), and [video abstract](https://www.youtube.com/watch?v=PKTVRVqrQ3s))
 - Albert Menkveld ([recording](https://youtu.be/5EY-N4mQ_ng), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313), [slides](https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1), and [video abstract](https://www.youtube.com/watch?v=mCmWMNn431I))
 - Sophie Moinas ([recording](https://www.youtube.com/watch?v=qKvihYW8bEE&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502), and [slides](/slides/Sophie-Moinas-Slides.pdf)).
 - Maureen O'Hara ([video abstract](https://www.youtube.com/watch?v=9Qtg0ZFDics) and [paper](/papers/The Electronic Evolution of Corporate Bond Dealers.pdf)) -- May 5th, 2020. We apologize -- the recording is not available due to a technical issue.
