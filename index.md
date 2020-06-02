@@ -18,13 +18,11 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We develop a model of dynamic limit order markets under asymmetric information that can be solved in analytical form using a novel recursive formulation. Specifically, we adopt the trader arrival and asymmetric information environment of the Glosten-Milgrom-Easley-O’Hara framework but swap the dealer-based trading core of these models with the dynamic limit order book of Rosu (2009).We find that informed traders tend to “make” liquidity in illiquid markets and “take” liquidity from more liquid markets. Time between arrivals of limit or market orders conveys information to the uninformed traders, resulting in update of beliefs about the asset value and revision of limit order prices in the book. Our model generates the frequent cancellation and resubmission of orders that have become a staple of modern electronic limit order markets.
-
-The paper is not yet ready for circulation.
+**Abstract**: One aspect of the structure of rebates and fees (“access fees”) of the three major stock exchange families are volume discounts (pricing tiers) that are intricately designed. We interpret the nature of the design of pricing tiers as well as the connection of pricing tiers to demand and cost considerations, the agency problem in brokerage and the disclosure setting. Rebate pricing tiers are intertwined with the structure of pricing for connectivity and proprietary data services for which an exchange is the unique supplier, highlighting the “fixed” pricing for connectivity and proprietary data, the incentive to cross subsidize exchange trading and differences from traditional price discrimination. We discuss the connection to such policy issues as required disclosures, banning pricing tiers and the underpinning of “best execution.”
 
 ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/rVo8oDmPL30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/jQ3uhEa-5dY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
@@ -52,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Gideon Saar ([recording](https://youtu.be/Mee2SiP32dk), [slides](/slides/BhattacharyaSaarSlides6-1-2020.pdf), and [video abstract](https://youtu.be/rVo8oDmPL30))
 - Dmitriy Muravyev ([recording](https://www.youtube.com/watch?v=l17h4UGEueg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840), and [video abstract](https://www.youtube.com/watch?v=PKTVRVqrQ3s))
 - Albert Menkveld ([recording](https://youtu.be/5EY-N4mQ_ng), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313), [slides](https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1), and [video abstract](https://www.youtube.com/watch?v=mCmWMNn431I))
 - Sophie Moinas ([recording](https://www.youtube.com/watch?v=qKvihYW8bEE&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502), and [slides](/slides/Sophie-Moinas-Slides.pdf)).

@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Gideon Saar (Cornell University)
-  speaker-paper: "Limit Order Market under Asymmetric Information"
-  coauthors: "Ayan Bhattacharya (Baruch College)"
-  speaker-date: June 2nd, 11 am (EDT) 
+  speaker-name: Chester Spatt (Carnegie Mellon University)
+  speaker-paper: "Is Equity Market Exchange Structure Anti-Competitive?"
+  # coauthors: "Ayan Bhattacharya (Baruch College)"
+  speaker-date: June 9th, 11 am (EDT) 
   # paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_hzx4AZ3YTROJ_y48g7NtMQ
-  slides-link: /slides/BhattacharyaSaarSlides6-1-2020.pdf
+  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_Ut628uO3SSia_BBmCeFgFA
+  # slides-link: /slides/BhattacharyaSaarSlides6-1-2020.pdf
