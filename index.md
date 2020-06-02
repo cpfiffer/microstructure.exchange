@@ -20,6 +20,8 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 **Abstract**: We develop a model of dynamic limit order markets under asymmetric information that can be solved in analytical form using a novel recursive formulation. Specifically, we adopt the trader arrival and asymmetric information environment of the Glosten-Milgrom-Easley-O’Hara framework but swap the dealer-based trading core of these models with the dynamic limit order book of Rosu (2009).We find that informed traders tend to “make” liquidity in illiquid markets and “take” liquidity from more liquid markets. Time between arrivals of limit or market orders conveys information to the uninformed traders, resulting in update of beliefs about the asset value and revision of limit order prices in the book. Our model generates the frequent cancellation and resubmission of orders that have become a staple of modern electronic limit order markets.
 
+The paper is not yet ready for circulation.
+
 ## Video abstract
 
 <iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/rVo8oDmPL30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
