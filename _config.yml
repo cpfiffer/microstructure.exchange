@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Chester Spatt (Carnegie Mellon University)
-  speaker-paper: "Is Equity Market Exchange Structure Anti-Competitive?"
-  # coauthors: "Ayan Bhattacharya (Baruch College)"
-  speaker-date: June 9th, 11 am (EDT) 
-  paper-link: /papers/Anti-Competitive Rebates-060920.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_Ut628uO3SSia_BBmCeFgFA
-  slides-link: /slides/Pricing and Competition--microstructure virtual.pptx
+  speaker-name: Eric Budish (University of Chicago)
+  speaker-paper: "Quantifying the High-Frequency Trading 'Arms Race': A new methodology and estimates"
+  coauthors: "Matteo Aquilina (Financial Conduct Authority) and Peter O’Neill (Financial Conduct Authority)"
+  speaker-date: June 16th, 11 am (EDT) 
+  paper-link: https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology
+  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_ZHUj_vV7RTCHJ-DmhuK9Cg
+  # slides-link: /slides/Pricing and Competition--microstructure virtual.pptx

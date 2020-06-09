@@ -18,11 +18,11 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: One aspect of the structure of rebates and fees (“access fees”) of the three major stock exchange families are volume discounts (pricing tiers) that are intricately designed. We interpret the nature of the design of pricing tiers as well as the connection of pricing tiers to demand and cost considerations, the agency problem in brokerage and the disclosure setting. Rebate pricing tiers are intertwined with the structure of pricing for connectivity and proprietary data services for which an exchange is the unique supplier, highlighting the “fixed” pricing for connectivity and proprietary data, the incentive to cross subsidize exchange trading and differences from traditional price discrimination. We discuss the connection to such policy issues as required disclosures, banning pricing tiers and the underpinning of “best execution.”
+**Abstract**: We use stock exchange message data to quantify the negative aspect of high-frequency trading, known as “latency arbitrage.” The key difference between message data and widely-familiar limit order book data is that message data contain attempts to trade or cancel that fail. This allows the researcher to observe both winners and losers in a race, whereas in limit order book data you cannot see the losers, so you cannot directly see the races. We find that latency-arbitrage races are very frequent (one per minute for FTSE 100 stocks), extremely fast (the modal race lasts 5-10 millionths of a second), and account for a large portion of overall trading volume (about 20%). Race participation is concentrated, with the top-3 firms accounting for over half of all race wins and losses. Our main estimates suggest that eliminating latency arbitrage would reduce the cost of trading by 17% and that the total sums at stake are on the order of $5 billion annually in global equity markets.
 
 ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/jQ3uhEa-5dY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/3BKg2t4nsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
@@ -50,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Chester Spatt ([recording](https://youtu.be/1VbyLwu9oPI), [paper](/papers/Anti-Competitive Rebates-060920.pdf), [slides](/slides/Pricing and Competition--microstructure virtual.pptx), [video abstract](https://youtu.be/jQ3uhEa-5dY))
 - Gideon Saar ([recording](https://youtu.be/Mee2SiP32dk), [slides](/slides/BhattacharyaSaarSlides6-1-2020.pdf), and [video abstract](https://youtu.be/rVo8oDmPL30))
 - Dmitriy Muravyev ([recording](https://www.youtube.com/watch?v=l17h4UGEueg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840), and [video abstract](https://www.youtube.com/watch?v=PKTVRVqrQ3s))
 - Albert Menkveld ([recording](https://youtu.be/5EY-N4mQ_ng), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313), [slides](https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1), and [video abstract](https://www.youtube.com/watch?v=mCmWMNn431I))
