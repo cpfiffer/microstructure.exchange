@@ -18,11 +18,11 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We use stock exchange message data to quantify the negative aspect of high-frequency trading, known as “latency arbitrage.” The key difference between message data and widely-familiar limit order book data is that message data contain attempts to trade or cancel that fail. This allows the researcher to observe both winners and losers in a race, whereas in limit order book data you cannot see the losers, so you cannot directly see the races. We find that latency-arbitrage races are very frequent (one per minute for FTSE 100 stocks), extremely fast (the modal race lasts 5-10 millionths of a second), and account for a large portion of overall trading volume (about 20%). Race participation is concentrated, with the top-3 firms accounting for over half of all race wins and losses. Our main estimates suggest that eliminating latency arbitrage would reduce the cost of trading by 17% and that the total sums at stake are on the order of $5 billion annually in global equity markets.
+**Abstract**: In 2016, the Securities and Exchange Commission (SEC) increased tick size for 1,200 randomly selected firms. We find tick-constrained firms reduce repurchase payouts by 45% during the two-year pilot period. Their dividend payouts do not change much, total payouts reduce by 31% and payout structure changes from repurchase-dominating towards half-half. In contrast, unconstrained firms do not experience significant changes in payouts. The conflicts between rule 10b-18 and the newly imposed trade-at rule which restricts dark-pool trading for test group 3 contribute to a larger reduction in repurchases. The effect of the pilot on share repurchases reverts after Pilot ends. 
 
-## Video abstract
+<!-- ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/3BKg2t4nsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/3BKg2t4nsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Calendar 
 
@@ -50,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Eric Budish ([recording](https://youtu.be/-fLo8m_HXCg), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), and [video abstract](https://www.youtube.com/watch?v=3BKg2t4nsnI))
 - Chester Spatt ([recording](https://youtu.be/1VbyLwu9oPI), [paper](/papers/Anti-Competitive Rebates-060920.pdf), [slides](/slides/Pricing and Competition--microstructure virtual.pptx), [video abstract](https://youtu.be/jQ3uhEa-5dY))
 - Gideon Saar ([recording](https://youtu.be/Mee2SiP32dk), [slides](/slides/BhattacharyaSaarSlides6-1-2020.pdf), and [video abstract](https://youtu.be/rVo8oDmPL30))
 - Dmitriy Muravyev ([recording](https://www.youtube.com/watch?v=l17h4UGEueg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840), and [video abstract](https://www.youtube.com/watch?v=PKTVRVqrQ3s))
