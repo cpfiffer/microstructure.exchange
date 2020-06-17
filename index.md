@@ -20,9 +20,9 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 **Abstract**: In 2016, the Securities and Exchange Commission (SEC) increased tick size for 1,200 randomly selected firms. We find tick-constrained firms reduce repurchase payouts by 45% during the two-year pilot period. Their dividend payouts do not change much, total payouts reduce by 31% and payout structure changes from repurchase-dominating towards half-half. In contrast, unconstrained firms do not experience significant changes in payouts. The conflicts between rule 10b-18 and the newly imposed trade-at rule which restricts dark-pool trading for test group 3 contribute to a larger reduction in repurchases. The effect of the pilot on share repurchases reverts after Pilot ends. 
 
-<!-- ## Video abstract
+## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/3BKg2t4nsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/dnxvsvketN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
