@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: In 2016, the Securities and Exchange Commission (SEC) increased tick size for 1,200 randomly selected firms. We find tick-constrained firms reduce repurchase payouts by 45% during the two-year pilot period. Their dividend payouts do not change much, total payouts reduce by 31% and payout structure changes from repurchase-dominating towards half-half. In contrast, unconstrained firms do not experience significant changes in payouts. The conflicts between rule 10b-18 and the newly imposed trade-at rule which restricts dark-pool trading for test group 3 contribute to a larger reduction in repurchases. The effect of the pilot on share repurchases reverts after Pilot ends. 
+**Abstract**: Market structure friction has first-order effects on corporate payouts. The 1994 NASDAQ Manning Rule, the 1997 tick size reduction, the 2001 decimalization, and the jumpstart of NYSE algorithmic trading in 2003 dramatically increased share repurchases, whereas the 2016 Tick Size Pilot, which partially reversed these reforms, significantly reduced share repurchases. Our results provide the first unified interpretation that helps to resolve two puzzles in the payout literature. The dividend puzzle exists because previous research has overlooked the microstructure cost of executing share repurchases. Buybacks increase relative to dividends over time because market structure reforms gradually reduce the cost of repurchases.
 
 ## Video abstract
 
