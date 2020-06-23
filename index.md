@@ -18,11 +18,11 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Market structure friction has first-order effects on corporate payouts. The 1994 NASDAQ Manning Rule, the 1997 tick size reduction, the 2001 decimalization, and the jumpstart of NYSE algorithmic trading in 2003 dramatically increased share repurchases, whereas the 2016 Tick Size Pilot, which partially reversed these reforms, significantly reduced share repurchases. Our results provide the first unified interpretation that helps to resolve two puzzles in the payout literature. The dividend puzzle exists because previous research has overlooked the microstructure cost of executing share repurchases. Buybacks increase relative to dividends over time because market structure reforms gradually reduce the cost of repurchases.
+**Abstract**: We model how ETFs compete and set fees. We show that ETF secondary market liquidity plays a key role in determining fees and leads to liquidity clienteles. More liquid ETFs charge higher fees in equilibrium and attract shorter horizon investors that are more sensitive to liquidity than to fees. The higher turnover of these investors sustains the ETF's high liquidity, allowing the ETF to maintain a higher fee and extract a rent. These liquidity rents create a first-mover advantage among ETFs and impact investor welfare. Our empirical tests confirm the presence of liquidity clienteles and show that ETF fee differentials provide a novel measure of the value of liquidity. Our findings resolve the apparent paradox that ETFs with higher fees than their competitors can not only survive, but flourish in equilibrium due to the value of liquidity.
 
 ## Video abstract
 
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/dnxvsvketN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/yODeOy1NwGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar 
 
@@ -50,16 +50,17 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Mao Ye ([recording](https://youtu.be/bDAFrx4GnUc), [paper](/papers/Market Structure and Corporate Payouts.pdf), and [video abstract](https://youtu.be/dnxvsvketN4))
 - Eric Budish ([recording](https://youtu.be/-fLo8m_HXCg), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), and [video abstract](https://www.youtube.com/watch?v=3BKg2t4nsnI))
 - Chester Spatt ([recording](https://youtu.be/1VbyLwu9oPI), [paper](/papers/Anti-Competitive Rebates-060920.pdf), [slides](/slides/Pricing and Competition--microstructure virtual.pptx), [video abstract](https://youtu.be/jQ3uhEa-5dY))
 - Gideon Saar ([recording](https://youtu.be/Mee2SiP32dk), [slides](/slides/BhattacharyaSaarSlides6-1-2020.pdf), and [video abstract](https://youtu.be/rVo8oDmPL30))
 - Dmitriy Muravyev ([recording](https://www.youtube.com/watch?v=l17h4UGEueg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3485840), and [video abstract](https://www.youtube.com/watch?v=PKTVRVqrQ3s))
 - Albert Menkveld ([recording](https://youtu.be/5EY-N4mQ_ng), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313), [slides](https://albertjmenkveld.com/public/slides/cizg1s/index.html#/1), and [video abstract](https://www.youtube.com/watch?v=mCmWMNn431I))
 - Sophie Moinas ([recording](https://www.youtube.com/watch?v=qKvihYW8bEE&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939502), and [slides](/slides/Sophie-Moinas-Slides.pdf)).
-- Maureen O'Hara ([video abstract](https://www.youtube.com/watch?v=9Qtg0ZFDics) and [paper](/papers/The Electronic Evolution of Corporate Bond Dealers.pdf)) -- May 5th, 2020. We apologize -- the recording is not available due to a technical issue.
-- Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279)) -- April 28th, 2020.
-- Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001)) -- April 21st, 2020
-- Thierry Foucault ([recording](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be), [slides](slides/DataMining_Slides_MicExchangeApril2.pdf), [video abstract](https://www.youtube.com/watch?v=-4ZiSoHkkPI&t=7s), and [paper](/papers/Equi_Data_Mining_maktmicroexchange_seminar.pdf)) -- April 14th, 2020
+- Maureen O'Hara ([video abstract](https://www.youtube.com/watch?v=9Qtg0ZFDics) and [paper](/papers/The Electronic Evolution of Corporate Bond Dealers.pdf)). We apologize -- the recording is not available due to a technical issue.
+- Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279))
+- Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001))
+- Thierry Foucault ([recording](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be), [slides](slides/DataMining_Slides_MicExchangeApril2.pdf), [video abstract](https://www.youtube.com/watch?v=-4ZiSoHkkPI&t=7s), and [paper](/papers/Equi_Data_Mining_maktmicroexchange_seminar.pdf))
 
 ## Resources
 

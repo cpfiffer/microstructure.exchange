@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Mao Ye (University of Illinois at Urbana-Champaign)
-  speaker-paper: "Market Structure and Corporate Payout Policy"
-  coauthors: "Xiongshi Li (Guangxi University) and Miles Zheng (University of Illinois at Urbana-Champaign)"
-  speaker-date: June 23rd, 11 am (EDT) 
-  paper-link: /papers/Market Structure and Corporate Payouts.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_fTZb18FTShuggfsl1ZkVvQ
+  speaker-name: Marius Zoican (University of Toronto)
+  speaker-paper: "The Value of ETF Liquidity"
+  coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
+  speaker-date: June 30th, 11 am (EDT) 
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_fTZb18FTShuggfsl1ZkVvQ
   # slides-link: /slides/Pricing and Competition--microstructure virtual.pptx
