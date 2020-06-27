@@ -70,8 +70,3 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 - [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
-
-### Announcements
-
-- The [Future of Financial Information](https://michaldzielinski.com/futfininfo/2nd-edition/) conference is on May 27th-29th, and will take place virtually.
-- Call for papers for a _Journal of Banking & Finance_ entitled "The Impact of Global Pandemic on Financial Markets and Institutions" ([link](https://www.journals.elsevier.com/journal-of-banking-and-finance/call-for-papers/special-issue-the-impact-of-global-pandemic)). 
