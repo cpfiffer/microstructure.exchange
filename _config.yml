@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Marius Zoican (University of Toronto)
-  speaker-paper: "The Value of ETF Liquidity"
-  coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
-  speaker-date: June 30th, 11 am (EDT) 
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_7PNdn3WDRom_vaP1CwvOGQ
-  slides-link: /slides/ETFLiquidity_Slides_v2 (3).pdf
+  speaker-name: Anthony Lee Zhang (Chicago Booth)
+  speaker-paper: "Competition and Manipulation in Derivative Contract Markets"
+  # coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
+  speaker-date: July 7th, 11 am (EDT) 
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_7PNdn3WDRom_vaP1CwvOGQ
+  # slides-link: /slides/ETFLiquidity_Slides_v2 (3).pdf

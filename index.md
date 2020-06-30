@@ -18,11 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We model how ETFs compete and set fees. We show that ETF secondary market liquidity plays a key role in determining fees and leads to liquidity clienteles. More liquid ETFs charge higher fees in equilibrium and attract shorter horizon investors that are more sensitive to liquidity than to fees. The higher turnover of these investors sustains the ETF's high liquidity, allowing the ETF to maintain a higher fee and extract a rent. These liquidity rents create a first-mover advantage among ETFs and impact investor welfare. Our empirical tests confirm the presence of liquidity clienteles and show that ETF fee differentials provide a novel measure of the value of liquidity. Our findings resolve the apparent paradox that ETFs with higher fees than their competitors can not only survive, but flourish in equilibrium due to the value of liquidity.
-
-## Video abstract
-
-<iframe width="75%" height="400" src="https://www.youtube-nocookie.com/embed/yODeOy1NwGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Abstract**: This paper studies manipulation in cash-settled derivative contract markets. In my model, agents hedge factor risk exposures using derivative contracts tied to the auction price of a spot good. Agents can manipulate contract payoffs by trading the spot good; in equilibrium, manipulation can make all agents worse off. I define two simple measures of manipulation-induced welfare losses: manipulation-induced basis risk and expected manipulation rents. Both can be estimated using data on spot traders' auction bids, and the variances and covariances of traders' contract and inventory positions. Using these measures, I estimate how large manipulation-induced distortions would be if COMEX gold futures were cash-settled using the London Bullion Market Association gold price benchmark. 
 
 ## Calendar 
 
@@ -50,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Marius Zoican ([recording](https://youtu.be/isknOt6GiUc), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531), [slides](/slides/ETFLiquidity_Slides.pdf), and [video abstract](https://www.youtube.com/watch?v=yODeOy1NwGU&t=9s))
 - Mao Ye ([recording](https://youtu.be/bDAFrx4GnUc), [paper](/papers/Market Structure and Corporate Payouts.pdf), and [video abstract](https://youtu.be/dnxvsvketN4))
 - Eric Budish ([recording](https://youtu.be/-fLo8m_HXCg), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), and [video abstract](https://www.youtube.com/watch?v=3BKg2t4nsnI))
 - Chester Spatt ([recording](https://youtu.be/1VbyLwu9oPI), [paper](/papers/Anti-Competitive Rebates-060920.pdf), [slides](/slides/Pricing and Competition--microstructure virtual.pptx), [video abstract](https://youtu.be/jQ3uhEa-5dY))
