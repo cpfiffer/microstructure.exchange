@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: This paper studies manipulation in cash-settled derivative contract markets. In my model, agents hedge factor risk exposures using derivative contracts tied to the auction price of a spot good. Agents can manipulate contract payoffs by trading the spot good; in equilibrium, manipulation can make all agents worse off. I define two simple measures of manipulation-induced welfare losses: manipulation-induced basis risk and expected manipulation rents. Both can be estimated using data on spot traders' auction bids, and the variances and covariances of traders' contract and inventory positions. Using these measures, I estimate how large manipulation-induced distortions would be if COMEX gold futures were cash-settled using the London Bullion Market Association gold price benchmark. 
+**Abstract**: I demonstrate that investors trade U.S. corporate bonds not only for liquidity reasons but also on private information. Bond dealers let less-informed investors provide liquidity to informed traders and are not adversely selected. I obtain these results by contrasting corporate bond price reversals in bonds with different information asymmetry, trading volume, and dealers' capital commitment. I find strong price reversals that become less pronounced following high-trading-volume days. The effect is the strongest for bonds with high information asymmetry, and when dealers' end-of-day inventory does not change. The results suggest that information reveals itself in prices on high-volume days when dealers do not accept overnight inventory risk. The findings are in line with the predictions of a theoretical model in which investors trade both for liquidity reasons and on private news that arrive independently of changes in inventory. I further show that realized bid-ask spreads are not wide enough to negate reversal profits of high-asymmetry bonds. Such reversal portfolios earn 3% per year after trading cost adjustment. By connecting low market transparency with high non-fundamental price volatility, the paper also contributes to the ongoing policy debate. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))
 - Marius Zoican ([recording](https://youtu.be/isknOt6GiUc), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531), [slides](/slides/ETFLiquidity_Slides.pdf), and [video abstract](https://www.youtube.com/watch?v=yODeOy1NwGU&t=9s))
 - Mao Ye ([recording](https://youtu.be/bDAFrx4GnUc), [paper](/papers/Market Structure and Corporate Payouts.pdf), and [video abstract](https://youtu.be/dnxvsvketN4))
 - Eric Budish ([recording](https://youtu.be/-fLo8m_HXCg), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), and [video abstract](https://www.youtube.com/watch?v=3BKg2t4nsnI))
