@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: I demonstrate that investors trade U.S. corporate bonds not only for liquidity reasons but also on private information. Bond dealers let less-informed investors provide liquidity to informed traders and are not adversely selected. I obtain these results by contrasting corporate bond price reversals in bonds with different information asymmetry, trading volume, and dealers' capital commitment. I find strong price reversals that become less pronounced following high-trading-volume days. The effect is the strongest for bonds with high information asymmetry, and when dealers' end-of-day inventory does not change. The results suggest that information reveals itself in prices on high-volume days when dealers do not accept overnight inventory risk. The findings are in line with the predictions of a theoretical model in which investors trade both for liquidity reasons and on private news that arrive independently of changes in inventory. I further show that realized bid-ask spreads are not wide enough to negate reversal profits of high-asymmetry bonds. Such reversal portfolios earn 3% per year after trading cost adjustment. By connecting low market transparency with high non-fundamental price volatility, the paper also contributes to the ongoing policy debate. 
+**Abstract**: Conventional wisdom warns that exchange traded funds (ETFs) harm stock price discovery, either by “stealing” single-stock liquidity or forcing stock prices to co-move.  Contra this belief, I develop a theoretical model and present empirical evidence which demonstrate that investors with stock-specific information trade both single stocks and ETFs.  Single-stock investors can access ETF liquidity by means of this tandem trading, and stock prices can flexibly adjust to ETF  price  movements. Using  high-resolution  data on SPDR  and  the Sector SPDR ETFs, I exploit exchange latencies in order to show that investors place simultaneous, same-direction trades in both a stock and ETF. Consistent with my model predictions, effects are strongest when an individual stock has a large weight in the ETF and a large stock-specific informational asymmetry. I conclude that ETFs can provide single-stock price discovery.
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
 - Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))
 - Marius Zoican ([recording](https://youtu.be/isknOt6GiUc), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531), [slides](/slides/ETFLiquidity_Slides.pdf), and [video abstract](https://www.youtube.com/watch?v=yODeOy1NwGU&t=9s))
 - Mao Ye ([recording](https://youtu.be/bDAFrx4GnUc), [paper](/papers/Market Structure and Corporate Payouts.pdf), and [video abstract](https://youtu.be/dnxvsvketN4))

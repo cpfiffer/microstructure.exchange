@@ -11,11 +11,18 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Alexey Ivashchenko (University of Lausanne, VU Amsterdam)
-  speaker-paper: "Corporate Bond Price Reversals"
+  speaker-name: Thomas Ernst (MIT, University of Maryland)
+  speaker-paper: "Stock-Specific Price Discovery From ETFs"
   # coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
-  speaker-date: July 14th, 11 am (EDT) 
-  discussant: "Edith Hotchkiss (Boston College)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739
-  webinar-link: https://utoronto.zoom.us/webinar/register/WN_lXEagTaASbe3QCrgILdkAQ
-  slides-link: /slides/Slides_MicrEx_AI.pdf
+  speaker-date: July 21st, 11 am (EDT) 
+  discussant: "Thierry Foucault (HEC Paris)"
+  paper-link: https://www.mit.edu/~ternst/docs/jmp.pdf
+  webinar-link: https://utoronto.zoom.us/webinar/register/WN_4hHkWlXlTpqEv_tvGQkc7A
+  # slides-link: /slides/Slides_MicrEx_AI.pdf
+
+# July 7 - Zhang/Moinas
+# July 14 - Ivashchenko/Hotchkiss
+# July 21 - Ernst/Foucault
+# July 28 - Marta/Goldstein
+# August 4 - Wang/Colliard
+# August 11 - Lee/Saar
