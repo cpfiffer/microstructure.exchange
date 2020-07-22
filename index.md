@@ -8,7 +8,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 
-**Notice**: The excellent [Summer School on Market Microstructure](https://microstructure-course.com/) for PhD students, presented by Thierry Foucault and  Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School.
+**Notice**: The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
 
 <!-- <hr>
 
