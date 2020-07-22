@@ -50,7 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- Thomas Ernst ([paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). Recording pending.
+- Thomas Ernst ([recording](https://youtu.be/KL1NzGi6d8w) and [paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). 
 - Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
 - Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))
 - Marius Zoican ([recording](https://youtu.be/isknOt6GiUc), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531), [slides](/slides/ETFLiquidity_Slides.pdf), and [video abstract](https://www.youtube.com/watch?v=yODeOy1NwGU&t=9s))
