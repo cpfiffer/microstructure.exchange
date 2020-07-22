@@ -6,6 +6,10 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
+The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
+
+**Notice**: The excellent [Summer School on Market Microstructure](https://microstructure-course.com/) for PhD students, presented by Thierry Foucault and  Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School.
+
 <!-- <hr>
 
 <div class="cfp">
@@ -18,7 +22,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Conventional wisdom warns that exchange traded funds (ETFs) harm stock price discovery, either by “stealing” single-stock liquidity or forcing stock prices to co-move.  Contra this belief, I develop a theoretical model and present empirical evidence which demonstrate that investors with stock-specific information trade both single stocks and ETFs.  Single-stock investors can access ETF liquidity by means of this tandem trading, and stock prices can flexibly adjust to ETF  price  movements. Using  high-resolution  data on SPDR  and  the Sector SPDR ETFs, I exploit exchange latencies in order to show that investors place simultaneous, same-direction trades in both a stock and ETF. Consistent with my model predictions, effects are strongest when an individual stock has a large weight in the ETF and a large stock-specific informational asymmetry. I conclude that ETFs can provide single-stock price discovery.
+**Abstract**: This paper examines the impact of fixed income Exchange-Traded Funds (ETFs) on corporate bond liquidity. By exploiting two distinct quasi-natural experiments of exogenous changes in ETF eligibility, I find that corporate bonds joining (exiting) ETFs experience a decrease (increase) of their transaction costs compared to similar bonds whose ETF ownership remains stable. Moreover, ETFs do not appear to deteriorate the liquidity of their bonds during market stress and ETF arbitrage events. My findings support the theoretical prediction that ETFs complete the market. 
 
 ## Calendar 
 
@@ -46,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Thomas Ernst ([paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). Recording pending.
 - Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
 - Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))
 - Marius Zoican ([recording](https://youtu.be/isknOt6GiUc), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561531), [slides](/slides/ETFLiquidity_Slides.pdf), and [video abstract](https://www.youtube.com/watch?v=yODeOy1NwGU&t=9s))

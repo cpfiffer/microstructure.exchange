@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Thomas Ernst (MIT, University of Maryland)
-  speaker-paper: "Stock-Specific Price Discovery From ETFs"
+  speaker-name: Thomas Marta (Université Paris-Dauphine)
+  speaker-paper: "Fixed Income ETFs, Bond Liquidity, and Stressed Markets"
   # coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
-  speaker-date: July 21st, 11 am (EDT) 
-  discussant: "Thierry Foucault (HEC Paris)"
-  paper-link: https://www.mit.edu/~ternst/docs/jmp.pdf
-  webinar-link: https://utoronto.zoom.us/webinar/register/WN_4hHkWlXlTpqEv_tvGQkc7A
+  speaker-date: July 28th, 11 am (EDT) 
+  discussant: "Michael Goldstein (Babson College)"
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519
+  webinar-link: https://utoronto.zoom.us/webinar/register/WN_5W34VgMrSWyRz7am53uo0g
   # slides-link: /slides/Slides_MicrEx_AI.pdf
 
 # July 7 - Zhang/Moinas
