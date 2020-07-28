@@ -50,7 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- Thomas Marta ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)). Recording pending.
+- Thomas Marta ([recording](https://youtu.be/EiHhwcnq5GI) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)).
 - Thomas Ernst ([recording](https://youtu.be/KL1NzGi6d8w) and [paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). 
 - Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
 - Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))
