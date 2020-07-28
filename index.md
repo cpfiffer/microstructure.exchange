@@ -22,7 +22,7 @@ The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: This paper examines the impact of fixed income Exchange-Traded Funds (ETFs) on corporate bond liquidity. By exploiting two distinct quasi-natural experiments of exogenous changes in ETF eligibility, I find that corporate bonds joining (exiting) ETFs experience a decrease (increase) of their transaction costs compared to similar bonds whose ETF ownership remains stable. Moreover, ETFs do not appear to deteriorate the liquidity of their bonds during market stress and ETF arbitrage events. My findings support the theoretical prediction that ETFs complete the market. 
+**Abstract**: Contrary to the prediction of the classic adverse selection theory, informed speculative trades receive better pricing relative to uninformed liquidity trades in over-the-counter financial markets. Dealers compete for information by chasing informed orders so as to better position their future price quotes. On a multi-dealer platform, dealers’ incentive of order chasing exactly offsets their fear of adverse selection. Through order chasing, dealers transform adverse selection by the informed into winner’s curse when bidding for the uninformed. As a result, the adverse selection cost is passed on to liquidity traders. Price dispersion and bid-ask spread endogenously arise from winner’s curse. Both price dispersion and price efficiency increase with the mass of liquidity traders. As long as speculators have slightly correlated signals, they trade with the same dealer in equilibrium, giving rise to an information monopolist despite direct competition among the dealers. Post-trade transparency reduces order chasing incentive and thus price efficiency.
 
 ## Calendar 
 
@@ -50,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Thomas Marta ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)). Recording pending.
 - Thomas Ernst ([recording](https://youtu.be/KL1NzGi6d8w) and [paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). 
 - Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
 - Anthony Lee Zhang ([recording](https://youtu.be/M2opJbhev7g) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3413265))

@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Thomas Marta (Université Paris-Dauphine)
-  speaker-paper: "Fixed Income ETFs, Bond Liquidity, and Stressed Markets"
-  # coauthors: "Marta Khomyn (University of Technology Sydney) and Tālis J. Putniņš (University of Technology Sydney)"
-  speaker-date: July 28th, 11 am (EDT) 
-  discussant: "Michael Goldstein (Babson College)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519
-  webinar-link: https://utoronto.zoom.us/webinar/register/WN_5W34VgMrSWyRz7am53uo0g
+  speaker-name: Chaojun Wang (Wharton)
+  speaker-paper: "Information Chasing versus Adverse Selection in Over-the-Counter Markets"
+  coauthors: "Junyuan Zhou (Wharton)"
+  speaker-date: August 4th, 11 am (EDT) 
+  discussant: "Jean-Edouard Colliard (HEC Paris)"
+  # paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519
+  webinar-link: https://utoronto.zoom.us/webinar/register/WN_JC7UUCQ_QdKK9NuqECsq2Q
   # slides-link: /slides/Slides_MicrEx_AI.pdf
 
 # July 7 - Zhang/Moinas
