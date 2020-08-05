@@ -6,10 +6,6 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
-The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
-
-**Notice**: The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
-
 <!-- <hr>
 
 <div class="cfp">
@@ -76,3 +72,8 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 - [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
+
+## Announcements
+
+- The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
+- The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
