@@ -22,7 +22,7 @@ The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Contrary to the prediction of the classic adverse selection theory, informed speculators receive better pricing relative to uninformed liquidity traders in over-the-counter financial markets. Dealers compete for information by chasing informed orders so as to better position their future price quotes. On a multi-dealer platform, dealers' incentive of information chasing exactly offsets their fear of adverse selection. Through information chasing, dealers transform adverse selection by the informed into winner's curse when bidding for the uninformed. As a result, the adverse selection cost is entirely passed on to liquidity traders. Price dispersion and bid-ask spread endogenously arise from winner's curse. Both price dispersion and price efficiency increase with the mass of liquidity traders. As long as speculators have slightly correlated signals, they trade with the same dealer in equilibrium, giving rise to an information monopolist despite direct competition among the dealers. Post-trade transparency reduces information chasing incentive and thus price efficiency. 
+**Abstract**: With a growth of passive investing, more investors participate in the financial market without private information.  The increase in uninformed investments has raised concerns that it may harm price informativeness. In the model, investors optimally choose whether to invest with an informed manager, invest with an uninformed manager, or privately save, and the informed manager trades strategically. I show that decreasing fee for uninformed investments, which leads to more investors choosing uninformed managers, actually makes prices more informative, rather than less informative.  The intuition is that the increase in uninformed investors makes the market more liquid for the informed manager, who responds to the improved liquidity by trading more aggressively, and thus prices become more informative.  The result stands in contrast to the existing literature based on the competitive rational expectations equilibrium framework, in which the growth of uninformed investing makes prices less informative, and is consistent with recent empirical evidence.
 
 ## Calendar 
 
@@ -50,6 +50,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Chaojun Wang ([recording](https://youtu.be/DFxnlwH4Jno) and [paper](http://ssrn.com/abstract=3662566))
 - Thomas Marta ([recording](https://youtu.be/EiHhwcnq5GI) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)).
 - Thomas Ernst ([recording](https://youtu.be/KL1NzGi6d8w) and [paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). 
 - Alexey Ivashchenko ([recording](https://youtu.be/JmbAfq5bhzU), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473739), and [slides](/slides/Slides_MicrEx_AI.pdf))
