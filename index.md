@@ -77,3 +77,5 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 - The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 - The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
+- The Leibniz Institute for Financial Research SAFE is organizing the 4th [SAFE Market Microstructure Conference](https://safe-frankfurt.de/news-media/events/event-view/termin/event/tx_cal_phpicalendar/2020/08/17/call-for-papers-4th-safe-market-microstructure-conference.html) to stimulate the discussion on current developments in the field. The three-day conference will be held on the 17-19 August 2020 online.  
+
