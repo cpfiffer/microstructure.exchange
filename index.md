@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Mina Lee ([recording](https://youtu.be/FnmHAK3K-bk))
 - Chaojun Wang ([recording](https://youtu.be/DFxnlwH4Jno) and [paper](http://ssrn.com/abstract=3662566))
 - Thomas Marta ([recording](https://youtu.be/EiHhwcnq5GI) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)).
 - Thomas Ernst ([recording](https://youtu.be/KL1NzGi6d8w) and [paper](https://www.mit.edu/~ternst/docs/jmp.pdf)). 
