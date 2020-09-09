@@ -11,14 +11,14 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Terrence Hendershott (Berkeley)
-  speaker-paper: "True Cost of Immediacy"
-  coauthors: "Dan Li (Federal Reserve Board), Dmitry Livdan (Berkeley), and Norman Schurhöff (Université de Lausanne)"
-  speaker-date: September 8th, 11 am (EDT) 
+  speaker-name: Yan Xiong (HKUST)
+  speaker-paper: "Secret and Overt Information Acquisition in Financial Markets"
+  coauthors: "Liyan Yang (University of Toronto)"
+  speaker-date: September 22nd, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680035
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_m_w6cBkLTvGumAwFJgebIg
-  slides-link: /slides/TCI_slides.pdf
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_m_w6cBkLTvGumAwFJgebIg
+  # slides-link: /slides/TCI_slides.pdf
 
 # July 7 - Zhang/Moinas
 # July 14 - Ivashchenko/Hotchkiss

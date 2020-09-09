@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Traditional liquidity measures can provide a false impression of the liquidity and stability of financial market trading. Using data on auctions (bids wanted in competition; BWICs) from the collateralized loan obligation (CLO) market, we show that a standard measure of liquidity, the effective bid-ask spread, dramatically underestimates the true cost of immediacy because it does not account for failed attempts to trade. The true cost of immediacy is substantially higher than the observed costs for successful BWICs. This cost gap is higher in lower-rated CLOs and stressful market conditions when failure rates exceed 50%. Across our 2012-2020 sample period for trades in senior CLOs, the observed cost is four basis points (bps) while the true cost of immediacy is 13bps. In stressful periods, such as the COVID-19 pandemic, for junior tranches the observed cost of trading increases from an average of 12bps to 25bps while the true cost of immediacy increases from less than 3% to almost 15%. 
+**Abstract**: We develop a model to study the observability of investors’ information acquisition in financial markets. Relative to observable information acquisition, unobservable information acquisition leads to more information production if and only if the ratio of the information-acquisition cost to noise trading is relatively high. This information-production result has further consequences for market quality. Different information-acquisition models can generate qualitatively different results. When investors endogenously choose the observability of their information-acquisition behavior, their equilibrium choices always feature a prisoner's dilemma. Our analysis has implications for regulations on investors’ private meetings with company management and the practice of tracing investors’ digital footprints. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Terry Hendershott ([recording](https://youtu.be/AyDuHSo-Bg4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680035), and ([slides](/slides/TCI_slides.pdf))
 - Mina Lee ([recording](https://youtu.be/FnmHAK3K-bk))
 - Chaojun Wang ([recording](https://youtu.be/DFxnlwH4Jno) and [paper](http://ssrn.com/abstract=3662566))
 - Thomas Marta ([recording](https://youtu.be/EiHhwcnq5GI) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350519)).
