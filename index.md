@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Yan Xiong ([recording](https://www.youtube.com/watch?v=YAc21XDQmco&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214), and [slides](/slides/Transparency_20200922 .pdf))
 - Terry Hendershott ([recording](https://youtu.be/AyDuHSo-Bg4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680035), and ([slides](/slides/TCI_slides.pdf))
 - Mina Lee ([recording](https://youtu.be/FnmHAK3K-bk))
 - Chaojun Wang ([recording](https://youtu.be/DFxnlwH4Jno) and [paper](http://ssrn.com/abstract=3662566))
