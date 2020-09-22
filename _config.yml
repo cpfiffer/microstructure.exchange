@@ -11,14 +11,14 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Yan Xiong (HKUST)
-  speaker-paper: "Secret and Overt Information Acquisition in Financial Markets"
-  coauthors: "Liyan Yang (University of Toronto)"
-  speaker-date: September 22nd, 11 am (EDT) 
+  speaker-name: Edwin Hu (New York University School of Law)
+  speaker-paper: "Vestigial Tails: Floor Brokers at the Close in Modern Electronic Markets"
+  coauthors: "Demot Murphy (University of Illionis at Chicago)"
+  speaker-date: October 6th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_mQgUmqc2T0W9j83ELhWCgw
-  slides-link: /slides/Transparency_20200922 .pdf
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600230
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_mQgUmqc2T0W9j83ELhWCgw
+  # slides-link: /slides/Transparency_20200922 .pdf
 
 # July 7 - Zhang/Moinas
 # July 14 - Ivashchenko/Hotchkiss
