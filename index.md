@@ -18,8 +18,6 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Closing auction volume is steadily increasing on NYSE and Nasdaq, and now represents over 10% of trading volume. The NYSE closing auction design is highly advantageous to NYSE floor brokers, who have near-exclusive access to the auction from 3:50 pm to 4:00 pm. We show that closing auction quality, as measured by the accuracy of closing auction information feeds and efficiency of closing prices, is significantly worse on NYSE. However, closing auction market quality generally improved when NYSE halted floor trading during the COVID-19 pandemic. We use "triple-witching" days and portfolio-rebalancing days as instruments for auction interest to further show that NYSE closing auction quality is less resilient to liquidity demand shocks.
-
 ## Calendar 
 
 Seminars will take place on Tuesdays. Times may vary to accomodate a broader global audience and to meet the speaker's schedule.
@@ -46,6 +44,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Edwin Hu ([recording](https://www.youtube.com/watch?v=cRQigejq5jg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600230), and [slides](/slides/20201006 Microstructure Exchange - WEB.pdf))
 - Yan Xiong ([recording](https://www.youtube.com/watch?v=YAc21XDQmco&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214), and [slides](/slides/Transparency_20200922 .pdf))
 - Terry Hendershott ([recording](https://youtu.be/AyDuHSo-Bg4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680035), and ([slides](/slides/TCI_slides.pdf))
 - Mina Lee ([recording](https://youtu.be/FnmHAK3K-bk))
