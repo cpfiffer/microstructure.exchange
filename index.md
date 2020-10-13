@@ -18,6 +18,8 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
+**Abstract**: Post-crisis bank regulations raised market-making costs for bank-affiliated dealers. We show that this can, somewhat surprisingly, improve overall investor welfare and reduce average transaction costs despite the increased cost of immediacy. Bank dealers in OTC markets optimize betweentwo  parallel trading  mechanisms: market  making and matchmaking. Bank regulations that increase market-making costs change the market structure by intensifying competitive pressure from non-bank dealers and incentivizing bank dealers to shift their business toward matchmaking. Thus, post-crisis bank regulations have the (unintended) benefit of replacing costly bank balance sheets with a more efficient form of financial intermediation.
+
 ## Calendar 
 
 Seminars will take place on Tuesdays. Times may vary to accomodate a broader global audience and to meet the speaker's schedule.
