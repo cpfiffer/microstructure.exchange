@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Post-crisis bank regulations raised market-making costs for bank-affiliated dealers. We show that this can, somewhat surprisingly, improve overall investor welfare and reduce average transaction costs despite the increased cost of immediacy. Bank dealers in OTC markets optimize betweentwo  parallel trading  mechanisms: market  making and matchmaking. Bank regulations that increase market-making costs change the market structure by intensifying competitive pressure from non-bank dealers and incentivizing bank dealers to shift their business toward matchmaking. Thus, post-crisis bank regulations have the (unintended) benefit of replacing costly bank balance sheets with a more efficient form of financial intermediation.
+**Abstract**: While regulators often mandate price priority across markets, they do not impose secondary priority rules. Order preferencing by a broker to a specific market may then serve as tiebreaker. We compare order preferencing, modeled as price-broker-time priority (PBT), to price-time priority (PT). The secondary priority rule determines a limit order's execution probability, and hence investors' choice between limit and market orders. When the tick is tight relative to the dispersion in investors' valuations, trading rates are higher with PBT whereas investor welfare is higher with PT. The opposite holds for wide ticks. Our model has empirical and regulatory implications regarding market fragmentation. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Haoxiang Zhu ([recording](https://youtu.be/QSGX7jvu_Rw), [paper](https://www.mit.edu/~zhuh/SaarSunYangZhu_matchmaking.pdf), and [slides](/slides/haoxiang-slides.pdf))
 - Edwin Hu ([recording](https://www.youtube.com/watch?v=cRQigejq5jg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600230), and [slides](/slides/20201006 Microstructure Exchange - WEB.pdf))
 - Yan Xiong ([recording](https://www.youtube.com/watch?v=YAc21XDQmco&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214), and [slides](/slides/Transparency_20200922 .pdf))
 - Terry Hendershott ([recording](https://youtu.be/AyDuHSo-Bg4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680035), and ([slides](/slides/TCI_slides.pdf))

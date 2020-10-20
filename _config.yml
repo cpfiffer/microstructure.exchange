@@ -11,18 +11,11 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Haoxiang Zhu (MIT)
-  speaker-paper: "From Market Making to Matchmaking: Does Bank Regulation Harm Market Liquidity?"
-  coauthors: "Gideon Saar (Cornell), Jian Sun (MIT), and Ron Yang (Harvard)"
-  speaker-date: October 20th, 11 am (EDT) 
+  speaker-name: Hans Degryse (KU Leuven)
+  speaker-paper: "Priority Rules"
+  coauthors: "Nikolaos Karagiannis (KU Leuven)"
+  speaker-date: November 3rd, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://www.mit.edu/~zhuh/SaarSunYangZhu_matchmaking.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_GmP7bOXzTUuCIOqimmRRjg
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496616
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_GmP7bOXzTUuCIOqimmRRjg
   # slides-link: /slides/20201006 Microstructure Exchange - WEB.pdf
-
-# July 7 - Zhang/Moinas
-# July 14 - Ivashchenko/Hotchkiss
-# July 21 - Ernst/Foucault
-# July 28 - Marta/Goldstein
-# August 4 - Wang/Colliard
-# August 11 - Lee/Saar
