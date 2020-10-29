@@ -80,6 +80,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ## Announcements
 
+- Do you want to be a co-author of the first crowd-sourced community paper in Economics/Finance? The project coordinators have pulled it off once before in Neuroscience, leading to a 2020 publication in Nature. They now turn to market microstructure. More information [here](https://fincap.academy/).
 - The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 - The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
 
