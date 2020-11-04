@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: While regulators often mandate price priority across markets, they do not impose secondary priority rules. Order preferencing by a broker to a specific market may then serve as tiebreaker. We compare order preferencing, modeled as price-broker-time priority (PBT), to price-time priority (PT). The secondary priority rule determines a limit order's execution probability, and hence investors' choice between limit and market orders. When the tick is tight relative to the dispersion in investors' valuations, trading rates are higher with PBT whereas investor welfare is higher with PT. The opposite holds for wide ticks. Our model has empirical and regulatory implications regarding market fragmentation. 
+<!-- **Abstract**: While regulators often mandate price priority across markets, they do not impose secondary priority rules. Order preferencing by a broker to a specific market may then serve as tiebreaker. We compare order preferencing, modeled as price-broker-time priority (PBT), to price-time priority (PT). The secondary priority rule determines a limit order's execution probability, and hence investors' choice between limit and market orders. When the tick is tight relative to the dispersion in investors' valuations, trading rates are higher with PBT whereas investor welfare is higher with PT. The opposite holds for wide ticks. Our model has empirical and regulatory implications regarding market fragmentation.  -->
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Hans Degryse ([recording](https://youtu.be/ZfUVr762Qk4), [paper](papers/priority rules - Microstructure Exchange.pdf), and [slides](/slides/Priority-rules-MicrostructureExchange-final.pdf))
 - Haoxiang Zhu ([recording](https://youtu.be/QSGX7jvu_Rw), [paper](https://www.mit.edu/~zhuh/SaarSunYangZhu_matchmaking.pdf), and [slides](/slides/haoxiang-slides.pdf))
 - Edwin Hu ([recording](https://www.youtube.com/watch?v=cRQigejq5jg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600230), and [slides](/slides/20201006 Microstructure Exchange - WEB.pdf))
 - Yan Xiong ([recording](https://www.youtube.com/watch?v=YAc21XDQmco&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3579214), and [slides](/slides/Transparency_20200922 .pdf))
