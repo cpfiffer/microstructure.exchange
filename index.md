@@ -18,7 +18,8 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-<!-- **Abstract**: While regulators often mandate price priority across markets, they do not impose secondary priority rules. Order preferencing by a broker to a specific market may then serve as tiebreaker. We compare order preferencing, modeled as price-broker-time priority (PBT), to price-time priority (PT). The secondary priority rule determines a limit order's execution probability, and hence investors' choice between limit and market orders. When the tick is tight relative to the dispersion in investors' valuations, trading rates are higher with PBT whereas investor welfare is higher with PT. The opposite holds for wide ticks. Our model has empirical and regulatory implications regarding market fragmentation.  -->
+**Abstract**: Some market crashes occur because of significant imbalances in demand and supply. Yet, conventional models fail to explain the large magnitudes of price declines. We propose a unified structural framework for explaining crashes, based on the insights of market microstructure invariance. A proper adjustment for differences in business time across markets leads to predictions which are different from conventional wisdom andconsistent with observed price changes during the 1987 market crash and the 2008 sales by Société Générale. Somewhat larger-than-predicted price drops during 1987 and 2010 flash crashes may have been exacerbated by too rapid selling. Somewhat smaller-than-predicted price decline during the 1929 crash may be due to slower selling and perhaps better resiliency of less integrated markets.
+
 
 ## Calendar 
 
