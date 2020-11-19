@@ -11,12 +11,12 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Albert Kyle (University of Maryland)
-  speaker-paper: "Large Bets and Stock Market Crashes"
-  coauthors: "Anna Obizhaeva (New Economic School)"
-  speaker-date: November 17th, 11 am (EDT) 
+  speaker-name: Evangelos Benos (Bank of England)
+  speaker-paper: "The Cost of Clearing Fragmentation"
+  coauthors: "Wenqian Huang (BIS), Albert Menkveld (VU Amsterdam) and Michalis Vasios (Norges Bank)"
+  speaker-date: December 1st, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: papers/Kyle-Obizhaeva-Crashes-120-PK-microstructure-exchange.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_9E7cVyZpS8WYM2cSlGfOvA
-  slides-link: /slides/pete-slides.pdf
+  paper-link: https://www.bis.org/publ/work826.htm
+  # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_9E7cVyZpS8WYM2cSlGfOvA
+  # slides-link: /slides/pete-slides.pdf
 # 

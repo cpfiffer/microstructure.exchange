@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Some market crashes occur because of significant imbalances in demand and supply. Yet, conventional models fail to explain the large magnitudes of price declines. We propose a unified structural framework for explaining crashes, based on the insights of market microstructure invariance. A proper adjustment for differences in business time across markets leads to predictions which are different from conventional wisdom andconsistent with observed price changes during the 1987 market crash and the 2008 sales by Société Générale. Somewhat larger-than-predicted price drops during 1987 and 2010 flash crashes may have been exacerbated by too rapid selling. Somewhat smaller-than-predicted price decline during the 1929 crash may be due to slower selling and perhaps better resiliency of less integrated markets.
+**Abstract**: Fragmenting clearing across multiple central counterparties (CCPs) is costly. This is because dealers providing liquidity globally, cannot net trades cleared in different CCPs and this increases their collateral costs. These costs are then passed on to their clients through price distortions which take the form of a price differential (basis) when the same products are cleared in different CCPs. Using proprietary data, we document an economically significant CCP basis for U.S. dollar swap contracts cleared both at the Chicago Mercantile Exchange (CME) and the LCH in London and provide evidence consistent with a collateral cost explanation of this basis.
 
 
 ## Calendar 
@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Pete Kyle ([recording](https://youtu.be/Nqy0u6TYP3I), [paper](papers/Kyle-Obizhaeva-Crashes-120-PK-microstructure-exchange.pdf), and [slides](/slides/pete-slides.pdf))
 - Hans Degryse ([recording](https://youtu.be/ZfUVr762Qk4), [paper](papers/priority rules - Microstructure Exchange.pdf), and [slides](/slides/Priority-rules-MicrostructureExchange-final.pdf))
 - Haoxiang Zhu ([recording](https://youtu.be/QSGX7jvu_Rw), [paper](https://www.mit.edu/~zhuh/SaarSunYangZhu_matchmaking.pdf), and [slides](/slides/haoxiang-slides.pdf))
 - Edwin Hu ([recording](https://www.youtube.com/watch?v=cRQigejq5jg&feature=youtu.be), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3600230), and [slides](/slides/20201006 Microstructure Exchange - WEB.pdf))
