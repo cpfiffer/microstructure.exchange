@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Fragmenting clearing across multiple central counterparties (CCPs) is costly. This is because dealers providing liquidity globally, cannot net trades cleared in different CCPs and this increases their collateral costs. These costs are then passed on to their clients through price distortions which take the form of a price differential (basis) when the same products are cleared in different CCPs. Using proprietary data, we document an economically significant CCP basis for U.S. dollar swap contracts cleared both at the Chicago Mercantile Exchange (CME) and the LCH in London and provide evidence consistent with a collateral cost explanation of this basis.
+<!-- **Abstract**: Fragmenting clearing across multiple central counterparties (CCPs) is costly. This is because dealers providing liquidity globally, cannot net trades cleared in different CCPs and this increases their collateral costs. These costs are then passed on to their clients through price distortions which take the form of a price differential (basis) when the same products are cleared in different CCPs. Using proprietary data, we document an economically significant CCP basis for U.S. dollar swap contracts cleared both at the Chicago Mercantile Exchange (CME) and the LCH in London and provide evidence consistent with a collateral cost explanation of this basis. -->
 
 
 ## Calendar 
@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Evangelos Benos ([recording](https://youtu.be/lhCaJ1slT34), [paper](https://www.bis.org/publ/work826.htm), [slides](/slides/Slides_CCP_Basis_Nov2020.pdf))
 - Pete Kyle ([recording](https://youtu.be/Nqy0u6TYP3I), [paper](papers/Kyle-Obizhaeva-Crashes-120-PK-microstructure-exchange.pdf), and [slides](/slides/pete-slides.pdf))
 - Hans Degryse ([recording](https://youtu.be/ZfUVr762Qk4), [paper](papers/priority rules - Microstructure Exchange.pdf), and [slides](/slides/Priority-rules-MicrostructureExchange-final.pdf))
 - Haoxiang Zhu ([recording](https://youtu.be/QSGX7jvu_Rw), [paper](https://www.mit.edu/~zhuh/SaarSunYangZhu_matchmaking.pdf), and [slides](/slides/haoxiang-slides.pdf))
