@@ -16,7 +16,9 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 ## Upcoming talk
 
-{% include upcoming-speaker.html %}
+Happy holidays!
+
+<!-- {% include upcoming-speaker.html %} -->
 
 <!-- **Abstract**: Fragmenting clearing across multiple central counterparties (CCPs) is costly. This is because dealers providing liquidity globally, cannot net trades cleared in different CCPs and this increases their collateral costs. These costs are then passed on to their clients through price distortions which take the form of a price differential (basis) when the same products are cleared in different CCPs. Using proprietary data, we document an economically significant CCP basis for U.S. dollar swap contracts cleared both at the Chicago Mercantile Exchange (CME) and the LCH in London and provide evidence consistent with a collateral cost explanation of this basis. -->
 
