@@ -11,12 +11,21 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Carole Comerton-Forde (UNSW)
-  speaker-paper: "To be determined"
-  # coauthors: "Wenqian Huang (BIS), Albert Menkveld (VU Amsterdam) and Michalis Vasios (ESMA)"
-  speaker-date: December 15th, 11 am (EDT) 
+  speaker-name: Joel Hasbrouck (NYU)
+  speaker-paper: "Network Structure and Pricing in the FX Market"
+  coauthors: "Richard Levich (NYU)"
+  speaker-date: February 16th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  # paper-link: https://www.bis.org/publ/work826.htm
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521531
   # webinar-link: https://stockholmuniversity.zoom.us/webinar/register/WN_8MtBysS0RIm99mrdJ3LuKg
   # slides-link: /slides/Slides_CCP_Basis_Nov2020.pdf
  
+# 2021 Winter lineup
+# Feb 16 - Joel Hasbrouck
+# March 2 - Darell Duffie
+# March 16 - Liyan Yang
+# March 30 - Zhaogang Song
+# April 13 - Milena Wittwer
+# April 27 - Stacey Jacobsen
+# May 11 - Carole Comerton-Forde
+# May 25 - Vincent Maurin

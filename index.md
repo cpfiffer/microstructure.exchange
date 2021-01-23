@@ -16,11 +16,9 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 ## Upcoming talk
 
-Happy holidays!
+{% include upcoming-speaker.html %}
 
-<!-- {% include upcoming-speaker.html %} -->
-
-<!-- **Abstract**: Fragmenting clearing across multiple central counterparties (CCPs) is costly. This is because dealers providing liquidity globally, cannot net trades cleared in different CCPs and this increases their collateral costs. These costs are then passed on to their clients through price distortions which take the form of a price differential (basis) when the same products are cleared in different CCPs. Using proprietary data, we document an economically significant CCP basis for U.S. dollar swap contracts cleared both at the Chicago Mercantile Exchange (CME) and the LCH in London and provide evidence consistent with a collateral cost explanation of this basis. -->
+**Abstract**: For a foreign exchange settlement network we construct profit attributions and relate them to centrality. Our sample (from CLS Bank) spans diverse currency pairs, participants, and execution platforms. For each settlement we define the average centrality differential as the return to the more-central counterparty in the trade, and model this as a function of the two counterparties’ centralities. Estimates of this differential are generally positive, implying that the more-central counterparty realizes a higher return. Additionally, the differential generally increases as the counterparties’ centralities diverge. These two results are consistent with a pervasive centrality premium. The estimates are robust to the choice of pre- or post-settlement benchmarks, to inclusion of settlement size interactions, and to weighting the degree centralities by number or value of settlements. Across currency pairs the centrality profit varies considerably, and typically amounts to about one-third of bid-ask half-spread. The centrality premium is consistent with the hypothesis that central agents exercise bargaining power. We also find, however, evidence suggesting that the premium is at least partially offset by losses that central agents incur in supplying liquidity. 
 
 
 ## Calendar 
@@ -86,7 +84,6 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ## Announcements
 
-- Do you want to be a co-author of the first crowd-sourced community paper in Economics/Finance? The project coordinators have pulled it off once before in Neuroscience, leading to a 2020 publication in Nature. They now turn to market microstructure. More information [here](https://fincap.academy/).
 - The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 - The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
 
