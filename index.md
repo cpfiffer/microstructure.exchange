@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Joel Hasbrouck ([recording](https://youtu.be/lABdveHMHTk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521531), and [slides](/slides/Hasbrouck-Levich Network Microstructure Workshop.pptx))
 - Evangelos Benos ([recording](https://youtu.be/lhCaJ1slT34), [paper](https://www.bis.org/publ/work826.htm), [slides](/slides/Slides_CCP_Basis_Nov2020.pdf))
 - Pete Kyle ([recording](https://youtu.be/Nqy0u6TYP3I), [paper](papers/Kyle-Obizhaeva-Crashes-120-PK-microstructure-exchange.pdf), and [slides](/slides/pete-slides.pdf))
 - Hans Degryse ([recording](https://youtu.be/ZfUVr762Qk4), [paper](papers/priority rules - Microstructure Exchange.pdf), and [slides](/slides/Priority-rules-MicrostructureExchange-final.pdf))
