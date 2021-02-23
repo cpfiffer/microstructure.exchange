@@ -11,18 +11,18 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Joel Hasbrouck (NYU)
-  speaker-paper: "Network Structure and Pricing in the FX Market"
-  coauthors: "Richard Levich (NYU)"
-  speaker-date: February 16th, 11 am (EDT) 
+  speaker-name: Darrell Duffie (Stanford)
+  speaker-paper: "Market Fragmentation"
+  coauthors: "Daniel Chen (Stanford)"
+  speaker-date: March 2nd, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521531
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u50pf-yppj8jHtBnJV83sa2mAGH6iFOLzPci
-  slides-link: /slides/Hasbrouck-Levich Network Microstructure Workshop.pptx
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3542574
+  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Uqf-GsrT8jGNPRx-Gm7tVzko_kItiFoHWo
+  # slides-link: /slides/Hasbrouck-Levich Network Microstructure Workshop.pptx
  
 # 2021 Winter lineup
 # Feb 16 - Joel Hasbrouck
-# March 2 - Darell Duffie
+# March 2 - Darrell Duffie
 # March 16 - Liyan Yang
 # March 30 - Zhaogang Song
 # April 13 - Milena Wittwer
