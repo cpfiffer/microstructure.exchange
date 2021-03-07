@@ -18,7 +18,17 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We document that the Federal Reserve's “balance-sheet normalization,” which reduced aggregate reserves between 2017 and September 2019 is associated with increased repo rates as well as rate spikes, and intraday payment timing stresses, culminating with a significant disruption in Treasury repo markets in mid-September 2019. We show that repo rates rose above efficient-market levels when the total balances held at the Federal Reserve by the largest repo-active bank holding companies were reduced, and that repo rate spikes are strongly associated with delayed intraday payments of reserves to these bank holding companies. Further, intraday payment timing stresses are magnified by issuances of Treasury securities because of the need for the dealer entities of these bank holding companies to pay for newly issued Treasuries early in the day, and also because newly issued Treasury notes decrease the amount of reserves available to make payments. Our analysis implies that substantially higher aggregate levels of reserves than existed in the period leading up to September 2019 would likely have eliminated most or all of these payment timing stresses and repo rate spikes.
+**Abstract**: This paper studies information sharing between strategic investors who are
+privately informed about asset fundamental with different precision levels. We find
+that a coarsely informed investor would always share her information “as is” if
+her counterparty investor is well informed about the fundamental. By doing so,
+the coarsely informed investor invites the well informed investor to trade against
+her information, thereby offsetting her informed order flow and reducing the price
+impact. In equilibrium, the coarsely informed investor gains from the information
+sharing and the well informed investor loses from it. Our model offers insights
+for financial phenomena such as information networks in financial markets and
+institutional investors’ trading strategies based on sentiment.
+
 
 ## Calendar 
 
