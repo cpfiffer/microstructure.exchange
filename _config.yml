@@ -11,12 +11,12 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Liyan Yang (University of Toronto)
-  speaker-paper: "Whoever Has Will Be Given More: Information Sharing in Financial Markets"
-  coauthors: "Itay Goldstein (Wharton) and Yan Xiong (HKUST)"
-  speaker-date: March 16th, 11 am (EDT) 
+  speaker-name: Zhaogang Song (Johns Hopkins)
+  speaker-paper: "Does the Federal Reserve Obtain Competitive and Appropriate Prices in Monetary Policy Implementations?"
+  coauthors: "Yu An (Johns Hopkins)"
+  speaker-date: March 30th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: papers/InfoSharing2021Feb.pdf
+  paper-link: https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3654650
   # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Uqf-GsrT8jGNPRx-Gm7tVzko_kItiFoHWo
   # slides-link: /slides/Seminar-Symposium-Copeland-Duffie-Yang-MicrostructureExchangetex.pdf
  

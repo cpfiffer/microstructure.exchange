@@ -18,16 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: This paper studies information sharing between strategic investors who are
-privately informed about asset fundamental with different precision levels. We find
-that a coarsely informed investor would always share her information “as is” if
-her counterparty investor is well informed about the fundamental. By doing so,
-the coarsely informed investor invites the well informed investor to trade against
-her information, thereby offsetting her informed order flow and reducing the price
-impact. In equilibrium, the coarsely informed investor gains from the information
-sharing and the well informed investor loses from it. Our model offers insights
-for financial phenomena such as information networks in financial markets and
-institutional investors’ trading strategies based on sentiment.
+**Abstract**: The Federal Reserve's (Fed) monetary policy implementations often involve extremely large trades within a short time frame. We show that dealers strategically manage inventory and charge uncompetitive pricing to the Fed in the agency MBS market: (1) dealers accumulate MBS inventory before Fed purchases and several large dealers acquire most inventory; (2) compared with small dealers, large dealers charge higher prices to the Fed but lower prices to non-Fed customers; (3) the same (large or small) dealer charges discriminatorily higher prices to the Fed than to non-Fed customers; and (4) the uncompetitive pricing worsens when the Fed increases purchase amounts. 
 
 
 ## Calendar 
