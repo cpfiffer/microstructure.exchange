@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Zhaogang Song ([recording](https://www.youtube.com/watch?v=WEU5VrPL_ys) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Darrell Duffie ([recording](https://youtu.be/BI8LQk0K7qY), [paper](papers/CopelandDuffieYangJan30_review.pdf), and [slides](/slides/Seminar-Symposium-Copeland-Duffie-Yang-MicrostructureExchangetex.pdf))
 - Joel Hasbrouck ([recording](https://youtu.be/lABdveHMHTk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521531), and [slides](/slides/Hasbrouck-Levich Network Microstructure Workshop.pptx))
 - Evangelos Benos ([recording](https://youtu.be/lhCaJ1slT34), [paper](https://www.bis.org/publ/work826.htm), [slides](/slides/Slides_CCP_Basis_Nov2020.pdf))
