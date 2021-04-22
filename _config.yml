@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Milena Wittwer (Stanford)
-  speaker-paper: "Centralizing Over-The-Counter Markets?"
-  coauthors: "Jason Allen (Bank of Canada)"
-  speaker-date: April 13th, 11 am (EDT) 
+  speaker-name: Greg Eaton (Oklahoma State)
+  speaker-paper: "Zero-Commission Individual Investors, High Frequency Traders, and Stock Market Quality"
+  coauthors: "Clifton Green (Emory), Brian Roseman (Oklahoma State), and Yanbin Wu (Emory)"
+  speaker-date: April 27th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://web.stanford.edu/~wittwer/files/JMP_Milena_Wittwer.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Epce2rpjwqHNfw17rE5K4TEUyzEdsQ37oo
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Epce2rpjwqHNfw17rE5K4TEUyzEdsQ37oo
   # slides-link: /slides/Seminar-Symposium-Copeland-Duffie-Yang-MicrostructureExchangetex.pdf
  
 # 2021 Winter lineup
@@ -26,6 +26,6 @@ speaker-info:
 # March 16 - Liyan Yang
 # March 30 - Zhaogang Song
 # April 13 - Milena Wittwer
-# April 27 - Stacey Jacobsen
+# April 27 - Greg Eaton (Oklahoma State)
 # May 11 - Carole Comerton-Forde
 # May 25 - Vincent Maurin

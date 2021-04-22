@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: In traditional over-the-counter (OTC) markets investors trade bilaterally through intermediaries, called dealers. An important regulatory question is whether to centralize OTC markets by shifting trades onto centralized platforms. We address this question in the context of the Canadian government bond market, which is  liquid and price-transparent. We document that, even in this market, dealers charge substantial markups when trading with investors, and show that there is a price gap between large investors who have access to a centralized platform and small investors who do not. We specify a model  to quantify how much of this price gap is due to platform access, and assess welfare effects. The model predicts that not all investors would use the platform, even if platform access were universal. Nevertheless, the price gap between small and large investors would close by 35-52%. Further, welfare would increase by 9-30%  because more trades go via dealers who have high values to trade, for instance, because they seek to sell their inventory.
+**Abstract**: We find that Robinhood ownership changes are unrelated with future returns, suggesting that zero-commission investors behave as noise traders. We exploit Robinhood platform outages to identify the causal effects of commission-free traders on financial markets. Exogenous negative shocks to Robinhood participation are associated with increased market liquidity and lower return volatility among stocks favored by Robinhood investors, as proxied by Reddit WallStreetBets mentions. HFTs with Robinhood order flow arrangements quote narrower lit-market spreads during outages, and market depth order imbalances fall, particularly for stocks with highly autocorrelated order flow, suggesting that zero-commission investors create liquidity-reducing inventory risks for market makers.
 
 
 ## Calendar 
@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Milena Wittwer ([recording](https://youtu.be/p5VFkRAagsU) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Zhaogang Song ([recording](https://www.youtube.com/watch?v=WEU5VrPL_ys) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Darrell Duffie ([recording](https://youtu.be/BI8LQk0K7qY), [paper](papers/CopelandDuffieYangJan30_review.pdf), and [slides](/slides/Seminar-Symposium-Copeland-Duffie-Yang-MicrostructureExchangetex.pdf))
 - Joel Hasbrouck ([recording](https://youtu.be/lABdveHMHTk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521531), and [slides](/slides/Hasbrouck-Levich Network Microstructure Workshop.pptx))
