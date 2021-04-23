@@ -88,6 +88,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ## Announcements
 
+- The [Eighth Annual Conference on Financial Market Regulation](https://www.sec.gov/dera/announcement/dera_event-051321_8th-annual-conference-fin-market-reg) will be held on May 13-14, 2021 at the SEC headquarters in Washington, DC.
 - The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 - The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
 
