@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We find that Robinhood ownership changes are unrelated with future returns, suggesting that zero-commission investors behave as noise traders. We exploit Robinhood platform outages to identify the causal effects of commission-free traders on financial markets. Exogenous negative shocks to Robinhood participation are associated with increased market liquidity and lower return volatility among stocks favored by Robinhood investors, as proxied by Reddit WallStreetBets mentions. HFTs with Robinhood order flow arrangements quote narrower lit-market spreads during outages, and market depth order imbalances fall, particularly for stocks with highly autocorrelated order flow, suggesting that zero-commission investors create liquidity-reducing inventory risks for market makers.
+<!-- **Abstract**: We find that Robinhood ownership changes are unrelated with future returns, suggesting that zero-commission investors behave as noise traders. We exploit Robinhood platform outages to identify the causal effects of commission-free traders on financial markets. Exogenous negative shocks to Robinhood participation are associated with increased market liquidity and lower return volatility among stocks favored by Robinhood investors, as proxied by Reddit WallStreetBets mentions. HFTs with Robinhood order flow arrangements quote narrower lit-market spreads during outages, and market depth order imbalances fall, particularly for stocks with highly autocorrelated order flow, suggesting that zero-commission investors create liquidity-reducing inventory risks for market makers. -->
 
 
 ## Calendar 
@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Greg Eaton ([recording](https://youtu.be/e_USTaoHBq4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874), and [slides](/slides/RobinhoodSlides_TME.pdf))
 - Milena Wittwer ([recording](https://youtu.be/p5VFkRAagsU) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Zhaogang Song ([recording](https://www.youtube.com/watch?v=WEU5VrPL_ys) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Darrell Duffie ([recording](https://youtu.be/BI8LQk0K7qY), [paper](papers/CopelandDuffieYangJan30_review.pdf), and [slides](/slides/Seminar-Symposium-Copeland-Duffie-Yang-MicrostructureExchangetex.pdf))
@@ -88,6 +89,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ## Announcements
 
+- The [2021 Conference and JEDC Special Issue on Markets and Economies with Information Frictions](https://www.ssrn.com/index.cfm/en/janda/announcement/?id=8493) call for papers is available. The conference will be held on August 30th-31st, 2021. 
 - The [Eighth Annual Conference on Financial Market Regulation](https://www.sec.gov/dera/announcement/dera_event-051321_8th-annual-conference-fin-market-reg) will be held on May 13-14, 2021 at the SEC headquarters in Washington, DC.
 - The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
 - The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
