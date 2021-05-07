@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-<!-- **Abstract**: We find that Robinhood ownership changes are unrelated with future returns, suggesting that zero-commission investors behave as noise traders. We exploit Robinhood platform outages to identify the causal effects of commission-free traders on financial markets. Exogenous negative shocks to Robinhood participation are associated with increased market liquidity and lower return volatility among stocks favored by Robinhood investors, as proxied by Reddit WallStreetBets mentions. HFTs with Robinhood order flow arrangements quote narrower lit-market spreads during outages, and market depth order imbalances fall, particularly for stocks with highly autocorrelated order flow, suggesting that zero-commission investors create liquidity-reducing inventory risks for market makers. -->
+**Abstract**: Closing auctions are increasingly important liquidity events in global equity markets. Examining European markets, we show increases in closing auction activity are not solely due to increases in index investing.   Elevated auction activity, especially on index rebalancing days, contributes to substantial differences between closing auction prices and prices set at the end of the continuous trading day.  These price changes are not reversed the next day, providing evidence that the closing auction is an important price discovery event.  We also find no evidence that increases in auction activity harm market quality during continuous trading.  These results differ from findings in the US markets where a different type of closing auction mechanism is used.
 
 
 ## Calendar 
