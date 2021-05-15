@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Closing auctions are increasingly important liquidity events in global equity markets. Examining European markets, we show increases in closing auction activity are not solely due to increases in index investing.   Elevated auction activity, especially on index rebalancing days, contributes to substantial differences between closing auction prices and prices set at the end of the continuous trading day.  These price changes are not reversed the next day, providing evidence that the closing auction is an important price discovery event.  We also find no evidence that increases in auction activity harm market quality during continuous trading.  These results differ from findings in the US markets where a different type of closing auction mechanism is used.
+**Abstract**: This paper studies the benefits of central clearing and the design of a central counterparty (CCP) with an optimal contracting approach. Investors sign contracts to hedge an underlying exposure. There is counterparty risk because investors can default on the contract due to idiosyncratic shocks and moral hazard. Mutualization of losses can thus hedge against counterparty risk but demands collateral for preventing moral hazard. The optimal contract involves loss mutualization, which requires central clearing, only when the cost of collateral is intermediate. Furthermore, as loss mutualization dilutes investors’ incentives to monitor their counterparties, a third-party CCP can emerge as a centralized monitor and is given a first-loss, equity tranche as incentive compensation. Our results endogenize key features of the default resolution process, known as “default waterfall”, in a CCP. Finally, we show that larger user base of acontract favors central clearing (over bilateral trading) and clearing with third-party CCP (over member-owned CCP).
 
 
 ## Calendar 
@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Carole Comerton-Forde ([recording](https://youtu.be/vrN7Q23T0FI))
 - Greg Eaton ([recording](https://youtu.be/e_USTaoHBq4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874), and [slides](/slides/RobinhoodSlides_TME.pdf))
 - Milena Wittwer ([recording](https://youtu.be/p5VFkRAagsU) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Zhaogang Song ([recording](https://www.youtube.com/watch?v=WEU5VrPL_ys) and [paper](papers/FedUncompetitivePricing_20210324.pdf))

@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Carole Comerton-Forde (UNSW)
-  speaker-paper: "Trading at the Close"
-  coauthors: "Barbara Rindi (Bocconi)"
-  speaker-date: May 11th, 11 am (EDT) 
+  speaker-name: Vincent Maurin (Stockholm School of Economics)
+  speaker-paper: "The Design of a Central Clearing Counterparty"
+  coauthors: "John Kuong (INSEAD)"
+  speaker-date: May 25th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  # paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5cpduCprDssHtFm8ApiLgcOYlSiPIEfJPZu
+  paper-link: https://www.nhh.no/contentassets/c65646e0c6f34243a752b870465e96b4/maurin_ccp.pdf
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5cpduCprDssHtFm8ApiLgcOYlSiPIEfJPZu
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # 2021 Winter lineup
