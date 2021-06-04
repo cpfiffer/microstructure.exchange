@@ -47,6 +47,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Carole Comerton-Forde ([recording](https://youtu.be/vrN7Q23T0FI))
 - Greg Eaton ([recording](https://youtu.be/e_USTaoHBq4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874), and [slides](/slides/RobinhoodSlides_TME.pdf))
 - Milena Wittwer ([recording](https://youtu.be/p5VFkRAagsU) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
 - Zhaogang Song ([recording](https://www.youtube.com/watch?v=WEU5VrPL_ys) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
