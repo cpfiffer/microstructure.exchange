@@ -6,19 +6,19 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
-<!-- <hr> -->
+<hr> 
 
-<!-- <div class="cfp"> -->
-<!-- <span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for Winter 2021. Please <a href="https://www.research.net/r/TME-Winter-2021">submit your paper</a>. -->
-<!-- </div> -->
+<div class="cfp"> 
+<span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for Fall 2021. Please <a href="https://www.research.net/r/TME-Fall-2021">submit your paper</a>. 
+</div> 
 
-<!-- <hr> -->
+<hr>
 
 ## Upcoming talk
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Closing auctions are increasingly important liquidity events in global equity markets. Examining European markets, we show increases in closing auction activity are not solely due to increases in index investing.   Elevated auction activity, especially on index rebalancing days, contributes to substantial differences between closing auction prices and prices set at the end of the continuous trading day.  These price changes are not reversed the next day, providing evidence that the closing auction is an important price discovery event.  We also find no evidence that increases in auction activity harm market quality during continuous trading.  These results differ from findings in the US markets where a different type of closing auction mechanism is used.
+<!-- **Abstract**: Closing auctions are increasingly important liquidity events in global equity markets. Examining European markets, we show increases in closing auction activity are not solely due to increases in index investing.   Elevated auction activity, especially on index rebalancing days, contributes to substantial differences between closing auction prices and prices set at the end of the continuous trading day.  These price changes are not reversed the next day, providing evidence that the closing auction is an important price discovery event.  We also find no evidence that increases in auction activity harm market quality during continuous trading.  These results differ from findings in the US markets where a different type of closing auction mechanism is used. -->
 
 
 ## Calendar 
