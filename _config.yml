@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: TBA # Carole Comerton-Forde (UNSW)
-  speaker-paper: " "
-  coauthors: " "
-  speaker-date: TBA #May 11th, 11 am (EDT) 
+  speaker-name: Matt Ringgenberg (Utah) # Carole Comerton-Forde (UNSW)
+  speaker-paper: "Does Floor Trading Matter?"
+  coauthors: "Jonathan Brogaard (Utah) and Dominik Rösch (SUNY Buffalo)"
+  speaker-date: June 22nd, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://www.nhh.no/contentassets/c65646e0c6f34243a752b870465e96b4/maurin_ccp.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Yrce-prDspHtJPQBHgDmkR2qcpKVW41Uf_
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609007
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Yrce-prDspHtJPQBHgDmkR2qcpKVW41Uf_
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # 2021 Winter lineup
@@ -29,3 +29,4 @@ speaker-info:
 # April 27 - Greg Eaton (Oklahoma State)
 # May 11 - Carole Comerton-Forde
 # May 25 - Vincent Maurin
+

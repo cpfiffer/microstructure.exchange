@@ -18,8 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-<!-- **Abstract**: Closing auctions are increasingly important liquidity events in global equity markets. Examining European markets, we show increases in closing auction activity are not solely due to increases in index investing.   Elevated auction activity, especially on index rebalancing days, contributes to substantial differences between closing auction prices and prices set at the end of the continuous trading day.  These price changes are not reversed the next day, providing evidence that the closing auction is an important price discovery event.  We also find no evidence that increases in auction activity harm market quality during continuous trading.  These results differ from findings in the US markets where a different type of closing auction mechanism is used. -->
-
+**Abstract**: While algorithmic trading now dominates financial markets, some exchanges continue to use human floor traders. On March 23, 2020 the NYSE suspended floor trading because of COVID-19. Using a difference-in-differences analysis, we find that floor traders are important contributors to market quality. The suspension of floor trading leads to higher effective and quoted spreads and larger pricing errors for treated stocks, relative to control stocks. Moreover, consistent with theoretical predictions about automation, the effects are strongest around the opening and closing auctions when complexity is highest. Our findings suggest that human expertise can complement algorithms in complex situations. 
 
 ## Calendar 
 
