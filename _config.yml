@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Matt Ringgenberg (Utah) # Carole Comerton-Forde (UNSW)
-  speaker-paper: "Does Floor Trading Matter?"
-  coauthors: "Jonathan Brogaard (Utah) and Dominik Rösch (SUNY Buffalo)"
-  speaker-date: June 22nd, 11 am (EDT) 
+  speaker-name: Mao Ye (UIUC and NBER)
+  speaker-paper: "The Tradeoff between Discrete Pricing and Discrete Quantities: Evidence from U.S.-listed Firms"
+  coauthors: "Sida Li (UIUC)"
+  speaker-date: September 21st, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609007
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5wpde6hrDMiHtdFbher-Pad7OLU0N5MjDaH
+  paper-link: /papers/mao.pdf
+  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Erduqhpz4sHdxsUyA36lP08ZcVBEFPgPVS
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # 2021 Winter lineup

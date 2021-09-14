@@ -6,19 +6,19 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
-<hr> 
+<!-- <hr> 
 
 <div class="cfp"> 
 <span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for Fall 2021. Please <a href="https://www.research.net/r/TME-Fall-2021">submit your paper</a>. 
 </div> 
 
-<hr>
+<hr> -->
 
 ## Upcoming talk
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: While algorithmic trading now dominates financial markets, some exchanges continue to use human floor traders. On March 23, 2020 the NYSE suspended floor trading because of COVID-19. Using a difference-in-differences analysis, we find that floor traders are important contributors to market quality. The suspension of floor trading leads to higher effective and quoted spreads and larger pricing errors for treated stocks, relative to control stocks. Moreover, consistent with theoretical predictions about automation, the effects are strongest around the opening and closing auctions when complexity is highest. Our findings suggest that human expertise can complement algorithms in complex situations. 
+**Abstract**: Economists usually assume that price and quantity are continuous variables, while most market designs, in reality, impose discrete tick and lot sizes. We study a firm’s trade-off between these two discretenesses in U.S. stock exchanges, which mandate a one-cent minimum tick size and a 100-share minimum lot size. A uniform tick size favors high prices because the bid–ask spread cannot be lower than one cent. A uniform lot size favors low prices because low prices reduce adverse selection costs for market makers when they have to display at least 100 shares. We predict that a firm achieves its optimal price when its bid–ask spread is two ticks wide, when the marginal contribution from discrete prices equals that from discrete lots. Empirically, we find that stock splits improve liquidity when they move the bid–ask spread towards two ticks; otherwise, they reduce liquidity. Liquidity improvements contribute 95 bps to the average total return on a split announcement of 272 bps. Optimal pricing can increase the median U.S. stock value by 69 bps and total U.S. market capitalization by $54.9 billion.
 
 ## Calendar 
 
