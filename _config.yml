@@ -11,22 +11,28 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Mao Ye (UIUC and NBER)
-  speaker-paper: "The Tradeoff between Discrete Pricing and Discrete Quantities: Evidence from U.S.-listed Firms"
-  coauthors: "Sida Li (UIUC)"
-  speaker-date: September 21st, 11 am (EDT) 
+  speaker-name: Richard Philip (University of Sydney)
+  speaker-paper: "Machine learning in a dynamic limit order market"
+  # coauthors: "Sida Li (UIUC)"
+  speaker-date: September 28th, 11 am (EDT) 
   # discussant: "Gideon Saar (Cornell University)"
-  paper-link: /papers/mao.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Erduqhpz4sHdxsUyA36lP08ZcVBEFPgPVS
+  paper-link: /papers/Manuscript RP.pdf
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5Erduqhpz4sHdxsUyA36lP08ZcVBEFPgPVS
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
-# 2021 Winter lineup
-# Feb 16 - Joel Hasbrouck
-# March 2 - Darrell Duffie
-# March 16 - Liyan Yang
-# March 30 - Zhaogang Song
-# April 13 - Milena Wittwer
-# April 27 - Greg Eaton (Oklahoma State)
-# May 11 - Carole Comerton-Forde
-# May 25 - Vincent Maurin
+# Fall 2021 - Presenter (moderator) 
+# Sep. 21: Mao Ye (Andriy)
+# Sep. 28: Richard Philip (Katya)
+# Oct. 12: Jay Kahn (Cameron)
+# Oct. 26: Tom Ernst (Andriy)
+# Nov. 9: Josh Mollner (Katya)
+# Nov. 23: Shihao Yu (Bjorn)
+# Dec. 7: Fatemeh Aramian (Cameron)
 
+# Papers
+# Sep. 28: Richard Philip (Sydney): Machine Learning in a Dynamic Limit Order Market
+# Oct. 12: Jay Kahn (Treasury): Hedge Funds and the Treasury Cash-Futures Disconnect
+# Oct. 26: Tom Ernst (Maryland): The Value of Off-Exchange Data
+# Nov. 9: Josh Mollner (Northwestern): Competition and Information Leakage
+# Nov. 23: Shihao Yu (VU Amsterdam): Does the Consolidated Feed Matter?
+# Dec. 7: Fatemeh Aramian (Stockholm BS): High-Frequency Traders and Single-Dealer 

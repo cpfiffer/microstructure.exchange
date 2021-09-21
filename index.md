@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Economists usually assume that price and quantity are continuous variables, while most market designs, in reality, impose discrete tick and lot sizes. We study a firm’s trade-off between these two discretenesses in U.S. stock exchanges, which mandate a one-cent minimum tick size and a 100-share minimum lot size. A uniform tick size favors high prices because the bid–ask spread cannot be lower than one cent. A uniform lot size favors low prices because low prices reduce adverse selection costs for market makers when they have to display at least 100 shares. We predict that a firm achieves its optimal price when its bid–ask spread is two ticks wide, when the marginal contribution from discrete prices equals that from discrete lots. Empirically, we find that stock splits improve liquidity when they move the bid–ask spread towards two ticks; otherwise, they reduce liquidity. Liquidity improvements contribute 95 bps to the average total return on a split announcement of 272 bps. Optimal pricing can increase the median U.S. stock value by 69 bps and total U.S. market capitalization by $54.9 billion.
+**Abstract**: We use a novel machine learning approach to tackle the problem of limit order management. Applying our framework to data, we show that the most important variable for a trader to consider is the price level of their order, followed by the queue sizes of the order book, volatility and finally queue position. Further, we show the option to cancel a limit order is valuable and contributes approximately 15% of a limit order’s total expected value. This paper takes an important step towards describing pervasive features and dynamics that exist in financial markets.
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Mao Ye ([recording](https://youtu.be/L4Qxrq8L7lI) and [paper](papers/mao.pdf))
 - Carole Comerton-Forde ([recording](https://youtu.be/vrN7Q23T0FI))
 - Greg Eaton ([recording](https://youtu.be/e_USTaoHBq4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874), and [slides](/slides/RobinhoodSlides_TME.pdf))
 - Milena Wittwer ([recording](https://youtu.be/p5VFkRAagsU) and [paper](papers/FedUncompetitivePricing_20210324.pdf))
