@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Richard Philip (University of Sydney)
-  speaker-paper: "Machine learning in a dynamic limit order market"
+  speaker-name: Jay Kahn (US Treasury)
+  speaker-paper: "Hedge Funds and the Treasury Cash-Futures Disconnect"
   # coauthors: "Sida Li (UIUC)"
-  speaker-date: September 28th, 11 am (EDT) 
-  # discussant: "Gideon Saar (Cornell University)"
-  paper-link: /papers/Manuscript RP.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5wkdOmuqTgjGNIFr6EYxCW87hwieP4IptV_
+  speaker-date: October 12th, 11 am (EDT) 
+  discussant: "Daniel Barth (Federal Reserve)"
+  paper-link: /papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf
+  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5cqfu2vrD4oGd2VqGsJGrGHg_OX0-GBCdcG
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # Fall 2021 - Presenter (moderator) 

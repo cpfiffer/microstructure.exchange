@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We use a novel machine learning approach to tackle the problem of limit order management. Applying our framework to data, we show that the most important variable for a trader to consider is the price level of their order, followed by the queue sizes of the order book, volatility and finally queue position. Further, we show the option to cancel a limit order is valuable and contributes approximately 15% of a limit order’s total expected value. This paper takes an important step towards describing pervasive features and dynamics that exist in financial markets.
+**Abstract**: We document the rise and fall of an arbitrage trade among hedge funds known as the Treasury cash-futures basis trade. This trade exploited a fundamental disconnect between cash and futures prices of Treasuries. We show that in recent years a replicating portfolio of Treasury bills and futures has been overvalued relative to Treasury notes and bonds, creating an opportunity for arbitrageurs. Using regulatory datasets on hedge fund exposures and repo transactions, we are able to both identify these arbitrage positions and estimate their aggregate size. We show that the basis trade became popular among hedge funds following 2016, rising to make up as much as half of all hedge fund Treasury positions and around a quarter of dealers’ repo lending. We present a model and empirical evidence that link the rise in the basis trade to broader developments in the Treasury market, and shows how the trade could contribute to financial instability. In March of 2020, many of the risks of the trade materialized as Treasury market illiquidity associated with the COVID-19 pandemic led to large sales of these basis trade positions among hedge funds. While Treasury market disruptions spurred hedge funds to sell Treasuries, the unwinding of the basis trade was likely a consequence rather than the primary cause of the stress. Prompt intervention by the Federal Reserve may have prevented the trade from accelerating the deterioration of Treasury market functioning. Our results underscore the importance of non-bank actors in the current structure of the Treasury market, and suggest this structure could create risks going forward.
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Richard Philip ([recording](https://youtu.be/k6uZl0vyCT8) and [paper](/papers/Manuscript RP.pdf))
 - Mao Ye ([recording](https://youtu.be/L4Qxrq8L7lI) and [paper](papers/mao.pdf))
 - Carole Comerton-Forde ([recording](https://youtu.be/vrN7Q23T0FI))
 - Greg Eaton ([recording](https://youtu.be/e_USTaoHBq4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776874), and [slides](/slides/RobinhoodSlides_TME.pdf))
