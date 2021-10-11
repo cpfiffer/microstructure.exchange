@@ -13,9 +13,9 @@ github:
 speaker-info:
   speaker-name: Jay Kahn (US Treasury)
   speaker-paper: "Hedge Funds and the Treasury Cash-Futures Disconnect"
-  # coauthors: "Sida Li (UIUC)"
+  coauthors: "Daniel Barth (Federal Reserve)"
   speaker-date: October 12th, 11 am (EDT) 
-  discussant: "Daniel Barth (Federal Reserve)"
+  # discussant: "Daniel Barth (Federal Reserve)"
   paper-link: /papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf
   webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5cqfu2vrD4oGd2VqGsJGrGHg_OX0-GBCdcG
   # slides-link: /slides/RobinhoodSlides_TME.pdf
