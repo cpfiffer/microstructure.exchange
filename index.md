@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Jay Kahn ([recording](https://youtu.be/ZQffKo_wFHI) and [paper](/papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf))
 - Richard Philip ([recording](https://youtu.be/k6uZl0vyCT8) and [paper](/papers/Manuscript RP.pdf))
 - Mao Ye ([recording](https://youtu.be/L4Qxrq8L7lI) and [paper](papers/mao.pdf))
 - Carole Comerton-Forde ([recording](https://youtu.be/vrN7Q23T0FI))
