@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: Exploiting  the  structure  of  geographic  latencies,  we  study  the  effect  of  trade  reporting  of off-exchange equity  transactions  and  contrast  that  with  reporting  of exchange trading.  Publication of off-exchange transactions by the Securities Information Processor (SIP), leads to a sharp burst in trading and quoting activity, suggesting that market participants learn from those reports, with their unique information content lingering throughout the lengthy reporting process. In contrast, there is no spike in response to SIP publication of exchange trading, but instead an earlier spike that reflects the response to the near-immediate reporting from proprietary feeds. Due to the varied locations of the off-exchange trade reporting facilities (TRFs), SIPs and exchanges, we use distinct geographical latencies to pinpoint the patterns. We document that realized spreads for the TRF-response  trades  are  negative,  consistent  with  these  orders  being  informationally-motivated. An interesting puzzle concerns why market participants do not react to publication of off-exchange trades in proprietary data feeds, despite the value of its information.
+**Abstract**: We model procurement auctions held by institutional traders seeking fulfillment for large trades. The dealer who wins such an auction might fill the order out of inventory or access the market for additional volumes. How many dealers should the trader contact? There is a general tradeoff: an additional dealer intensifies competition and may improve matchmaking, but also intensifies information leakage. We show that information leakage can be an endogenous search friction in that the trader does not always contact all available dealers. There is also a question of information design: what should the trader reveal about her desired trade? In the model, it is optimal to provide no information at the bidding stage. There are also implications for market design and regulation.
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Tom Ernst ([recording](https://youtu.be/um9Pj8iJGsI) and [paper](/papers/12859989807_TRF_July_1b.pdf))
 - Jay Kahn ([recording](https://youtu.be/ZQffKo_wFHI) and [paper](/papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf))
 - Richard Philip ([recording](https://youtu.be/k6uZl0vyCT8) and [paper](/papers/Manuscript RP.pdf))
 - Mao Ye ([recording](https://youtu.be/L4Qxrq8L7lI) and [paper](papers/mao.pdf))

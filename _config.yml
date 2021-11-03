@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Tom Ernst (Maryland)
-  speaker-paper: "The Value of Off-Exchange Data"
-  coauthors: "Jonathan Sokobin (FINRA) and Chester Spatt (Carnegie Mellon)"
-  speaker-date: October 26th, 11 am (EDT) 
+  speaker-name: Joshua Mollner (Northwestern)
+  speaker-paper: "Principal Trading Procurement: Competition and Information Leakage"
+  coauthors: "Markus Baldauf (UBC)"
+  speaker-date: November 9th, 11 am (EDT) 
   # discussant: "Daniel Barth (Federal Reserve)"
-  paper-link: /papers/12859989807_TRF_July_1b.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5MocuihpjMrGdezQw6s-2fg2OaYbTN-B4vf
+  paper-link: /papers/CompetitionAndInformationLeakage.pdf
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5MocuihpjMrGdezQw6s-2fg2OaYbTN-B4vf
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # Fall 2021 - Presenter (moderator) 
@@ -35,4 +35,4 @@ speaker-info:
 # Oct. 26: Tom Ernst (Maryland): The Value of Off-Exchange Data
 # Nov. 9: Josh Mollner (Northwestern): Competition and Information Leakage
 # Nov. 23: Shihao Yu (VU Amsterdam): Does the Consolidated Feed Matter?
-# Dec. 7: Fatemeh Aramian (Stockholm BS): High-Frequency Traders and Single-Dealer 
+# Dec. 7: Fatemeh Aramian (Stockholm BS): High-Frequency Traders and Single-Dealer
