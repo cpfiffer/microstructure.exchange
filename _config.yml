@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: Joshua Mollner (Northwestern)
-  speaker-paper: "Principal Trading Procurement: Competition and Information Leakage"
-  coauthors: "Markus Baldauf (UBC)"
-  speaker-date: November 9th, 11 am (EDT) 
+  speaker-name: Shihao Yu (VU Amsterdam)
+  speaker-paper: "Does the Consolidated Feed Matter?"
+  # coauthors: "Markus Baldauf (UBC)"
+  speaker-date: November 16th, 11 am (EDT) 
   # discussant: "Daniel Barth (Federal Reserve)"
-  paper-link: /papers/CompetitionAndInformationLeakage.pdf
-  webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5IpcuCprTIoGNxMe5VGr8DPux78-Jx1ynqJ
+  # paper-link: /papers/CompetitionAndInformationLeakage.pdf
+  # webinar-link: https://stockholmuniversity.zoom.us/meeting/register/u5IpcuCprTIoGNxMe5VGr8DPux78-Jx1ynqJ
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # Fall 2021 - Presenter (moderator) 
