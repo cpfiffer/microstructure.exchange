@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We model procurement auctions held by institutional traders seeking fulfillment for large trades. The dealer who wins such an auction might fill the order out of inventory or access the market for additional volumes. How many dealers should the trader contact? There is a general tradeoff: an additional dealer intensifies competition and may improve matchmaking, but also intensifies information leakage. We show that information leakage can be an endogenous search friction in that the trader does not always contact all available dealers. There is also a question of information design: what should the trader reveal about her desired trade? In the model, it is optimal to provide no information at the bidding stage. There are also implications for market design and regulation.
+**Abstract**: In this paper I examine the role of the consolidated feed in the current US equities market by studying exogenous events affecting its speed and availability respectively. I find that while a faster consolidated feed has no impact on overall market liquidity, it leads to an increase in low-latency trading activity, possibly due to slow traders becoming faster. Moreover, when the consolidated feed becomes corrupted or unavailable due to a technical glitch, market liquidity significantly worsens. My findings suggest that the consolidated feed remains a crucial component of today’s market data infrastructure.
 
 ## Calendar 
 
