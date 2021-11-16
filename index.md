@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: In this paper I examine the role of the consolidated feed in the current US equities market by studying exogenous events affecting its speed and availability respectively. I find that while a faster consolidated feed has no impact on overall market liquidity, it leads to an increase in low-latency trading activity, possibly due to slow traders becoming faster. Moreover, when the consolidated feed becomes corrupted or unavailable due to a technical glitch, market liquidity significantly worsens. My findings suggest that the consolidated feed remains a crucial component of today’s market data infrastructure.
+**Abstract**: In statistics, samples are drawn from a population in a data-generating process (DGP). Standard errors measure the uncertainty in sample estimates of population parameters. In science, evidence is generated to test hypotheses in an evidence-generating process (EGP). We claim that EGP variation across researchers adds uncertainty: non-standard errors. To study them, we let 164 teams test six hypotheses on the same sample. We will present our results in the seminar and release the paper on the very same day. It will be the paper’s world première.
 
 ## Calendar 
 
