@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Shihao Yu ([recording](https://youtu.be/H3gZHGjnMK4), [slides](https://www.shihaoyu.org/research/slides/yu1_slides_me.pdf), and [paper](https://www.shihaoyu.org/research/papers/yu1.pdf))
 - Tom Ernst ([recording](https://youtu.be/um9Pj8iJGsI) and [paper](/papers/12859989807_TRF_July_1b.pdf))
 - Jay Kahn ([recording](https://youtu.be/ZQffKo_wFHI) and [paper](/papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf))
 - Richard Philip ([recording](https://youtu.be/k6uZl0vyCT8) and [paper](/papers/Manuscript RP.pdf))
