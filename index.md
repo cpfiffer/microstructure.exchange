@@ -28,9 +28,9 @@ The calendar is available as a [Google calendar](https://calendar.google.com/cal
 
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23fffaf0&amp;ctz=America%2FNew_York&amp;src=OTA2YnQyMTJlanJ2dThxbmh0bXY1ZWptczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5&amp;mode=AGENDA&amp;title=The%20Microstructure%20Exchange%3A%20Speaker%20List" style="border-width:0" width="75%" height="400" frameborder="0" scrolling="no"></iframe>
 
-## Registration
+## Mailing list
 
-To receive the Zoom link and the paper for upcoming seminars, please subscribe to our [mailing list](https://tinyletter.com/microstructure-exchange). 
+To receive updates about upcoming seminars, please subscribe to our [mailing list](https://tinyletter.com/microstructure-exchange). 
 
 ## Organizing committee
 
