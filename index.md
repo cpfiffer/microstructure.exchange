@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: In statistics, samples are drawn from a population in a data-generating process (DGP). Standard errors measure the uncertainty in sample estimates of population parameters. In science, evidence is generated to test hypotheses in an evidence-generating process (EGP). We claim that EGP variation across researchers adds uncertainty: non-standard errors. To study them, we let 164 teams test six hypotheses on the same sample. We will present our results in the seminar and release the paper on the very same day. It will be the paper’s world première.
+High-frequency traders (HFTs) mainly operate on public exchanges, where multiple third-party buying and selling interests interact with each other. Following recent European regulatory changes (Markets in Financial Instruments Directive II), HFT single-dealer platforms have emerged on which HFTs conduct bilateral trading as dealers. We find that trading on HFT dealer platforms is detrimental to liquidity on public stock exchanges. HFTs manage inventory imbalances from their dealer operations by trading more aggressively and reducing their liquidity supply on exchanges, which harms liquidity. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx))
 - Shihao Yu ([recording](https://youtu.be/H3gZHGjnMK4), [slides](https://www.shihaoyu.org/research/slides/yu1_slides_me.pdf), and [paper](https://www.shihaoyu.org/research/papers/yu1.pdf))
 - Tom Ernst ([recording](https://youtu.be/um9Pj8iJGsI) and [paper](/papers/12859989807_TRF_July_1b.pdf))
 - Jay Kahn ([recording](https://youtu.be/ZQffKo_wFHI) and [paper](/papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf))
