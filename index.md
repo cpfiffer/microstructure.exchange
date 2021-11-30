@@ -46,7 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx))
+- Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574))
 - Shihao Yu ([recording](https://youtu.be/H3gZHGjnMK4), [slides](https://www.shihaoyu.org/research/slides/yu1_slides_me.pdf), and [paper](https://www.shihaoyu.org/research/papers/yu1.pdf))
 - Tom Ernst ([recording](https://youtu.be/um9Pj8iJGsI) and [paper](/papers/12859989807_TRF_July_1b.pdf))
 - Jay Kahn ([recording](https://youtu.be/ZQffKo_wFHI) and [paper](/papers/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf))
