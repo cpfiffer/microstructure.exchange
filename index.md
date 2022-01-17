@@ -5,20 +5,20 @@ layout: default
 The Microstructure Exchange is a virtual academic market microstructure research seminar of indefinite length, intended to continue the sharing of ideas between researchers.
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
-
+<!-- 
 <hr> 
 
 <div class="cfp"> 
 <span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for Winter 2022. Please <a href="https://www.research.net/r/TME-Winter2022">submit your paper</a>. 
 </div> 
 
-<hr>
+<hr> -->
 
 ## Upcoming talk
 
 {% include upcoming-speaker.html %}
 
-High-frequency traders (HFTs) mainly operate on public exchanges, where multiple third-party buying and selling interests interact with each other. Following recent European regulatory changes (Markets in Financial Instruments Directive II), HFT single-dealer platforms have emerged on which HFTs conduct bilateral trading as dealers. We find that trading on HFT dealer platforms is detrimental to liquidity on public stock exchanges. HFTs manage inventory imbalances from their dealer operations by trading more aggressively and reducing their liquidity supply on exchanges, which harms liquidity. 
+<!-- High-frequency traders (HFTs) mainly operate on public exchanges, where multiple third-party buying and selling interests interact with each other. Following recent European regulatory changes (Markets in Financial Instruments Directive II), HFT single-dealer platforms have emerged on which HFTs conduct bilateral trading as dealers. We find that trading on HFT dealer platforms is detrimental to liquidity on public stock exchanges. HFTs manage inventory imbalances from their dealer operations by trading more aggressively and reducing their liquidity supply on exchanges, which harms liquidity.  -->
 
 ## Calendar 
 
@@ -93,11 +93,3 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 - [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
-
-## Announcements
-
-- The [2021 Conference and JEDC Special Issue on Markets and Economies with Information Frictions](https://www.ssrn.com/index.cfm/en/janda/announcement/?id=8493) call for papers is available. The conference will be held on August 30th-31st, 2021. 
-- The [Eighth Annual Conference on Financial Market Regulation](https://www.sec.gov/dera/announcement/dera_event-051321_8th-annual-conference-fin-market-reg) will be held on May 13-14, 2021 at the SEC headquarters in Washington, DC.
-- The [Microstructure Online Seminars Asia Pacific](https://sites.google.com/site/esojli/online-sem-ap) series hosts previous Microstructure Exchange speakers at times that better match the Australia, Hong Kong, and Singapore time zone.
-- The [Summer School on Market Microstructure](https://microstructure-course.com/), presented by Thierry Foucault and Albert Menkveld, will be hosted on June 7-11, 2021 at Stockholm Business School. It is a one-week intensive course, suitable for PhD students and advanced practitioners.
-
