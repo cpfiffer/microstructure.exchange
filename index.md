@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-<!-- High-frequency traders (HFTs) mainly operate on public exchanges, where multiple third-party buying and selling interests interact with each other. Following recent European regulatory changes (Markets in Financial Instruments Directive II), HFT single-dealer platforms have emerged on which HFTs conduct bilateral trading as dealers. We find that trading on HFT dealer platforms is detrimental to liquidity on public stock exchanges. HFTs manage inventory imbalances from their dealer operations by trading more aggressively and reducing their liquidity supply on exchanges, which harms liquidity.  -->
+The decision of wholesalers to internalize retail order flow primarily reflects institutional liquidity demand. We first use Tick Size Pilot to highlight this decision's influence on the retail trade imbalances denoted _Mroib_ by Boehmer et al. (2021). We then show that wholesalers internalize more retail order flow when institutional demand is higher, leading _Mroib_ to be inversely related to institutional order flow. Intraday returns move in the same direction as institutional price pressure but the opposite direction of _Mroib_. Moreover, _|Mroib|_ is highest when institutional trading costs are highest. Distant future returns display strong U-shaped patterns conditional on _Mroib_, consistent with a permanent liquidity premium driving the positive relation between these returns and the magnitude of _|Mroib|_. Indeed, _|Mroib|_ provides an easy-to-construct stock liquidity measure that, unlike existing liquidity measures, is priced post 2010, with an annualized liquidity premium of 4%.
 
 ## Calendar 
 
