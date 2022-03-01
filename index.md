@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-> **Abstract**: The decision of wholesalers to internalize retail order flow primarily reflects institutional liquidity demand. We first use Tick Size Pilot to highlight this decision's influence on the retail trade imbalances denoted Mroib by Boehmer et al. (2021). We then show that wholesalers internalize more retail order flow when institutional demand is higher, leading Mroib to be inversely related to institutional order flow. Intraday returns move in the same direction as institutional price pressure but the opposite direction of Mroib. Moreover, \|Mroib\| is highest when institutional trading costs are highest. Distant future returns display strong U-shaped patterns conditional on Mroib, consistent with a permanent liquidity premium driving the positive relation between these returns and the magnitude of \|Mroib\|. Indeed, \|Mroib\| provides an easy-to-construct stock liquidity measure that, unlike existing liquidity measures, is priced post 2010, with an annualized liquidity premium of 4%.
+**Abstract**: The decision of wholesalers to internalize retail order flow primarily reflects institutional liquidity demand. We first use Tick Size Pilot to highlight this decision's influence on the retail trade imbalances denoted Mroib by Boehmer et al. (2021). We then show that wholesalers internalize more retail order flow when institutional demand is higher, leading Mroib to be inversely related to institutional order flow. Intraday returns move in the same direction as institutional price pressure but the opposite direction of Mroib. Moreover, \|Mroib\| is highest when institutional trading costs are highest. Distant future returns display strong U-shaped patterns conditional on Mroib, consistent with a permanent liquidity premium driving the positive relation between these returns and the magnitude of \|Mroib\|. Indeed, \|Mroib\| provides an easy-to-construct stock liquidity measure that, unlike existing liquidity measures, is priced post 2010, with an annualized liquidity premium of 4%.
 
 ## Calendar 
 
@@ -46,6 +46,8 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
+- Fatemah Aramian ([recording](https://youtu.be/ns7zQqQSE04) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738608))
 - Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx), [Eric Uhlmann slides](slides/Eric Finance Crowd Project Slides.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574))
 - Shihao Yu ([recording](https://youtu.be/H3gZHGjnMK4), [slides](https://www.shihaoyu.org/research/slides/yu1_slides_me.pdf), and [paper](https://www.shihaoyu.org/research/papers/yu1.pdf))
 - Joshua Mollner ([recording](https://youtu.be/kHWCUYC7t9E) and [paper](https://microstructure.exchange/papers/CompetitionAndInformationLeakage.pdf))
