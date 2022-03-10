@@ -11,14 +11,14 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Yashar Barardehi (Chapman University)"
-  speaker-paper: "Institutional Liquidity Demand and the Internalization of Retail Order Flow: The Tail Does Not Wag the Dog"
-  coauthors: "Dan Bernhardt (UIUC), Zhi Da (Notre Dame), Mitch Warachka (Chapman University)"
-  speaker-date: March 1st, 11am (EDT) 
+  speaker-name: "Christine Parlour (Berkeley Haas)"
+  speaker-paper: "Systemic Fragility in Decentralized Markets"
+  coauthors: "Alfred Lehar (University of Calgary)"
+  speaker-date: March 15th, 11am (EDT) 
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
-  paper-link: /papers/Dog_s_Tail_02212022.pdf
+  # paper-link: /papers/Dog_s_Tail_02212022.pdf
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
-  # slides-link: /slides/RobinhoodSlides_TME.pdf
+  slides-link: /slides/RobinhoodSlides_TME.pdf
  
 # Mar 1: Yashar Barardehi
 # Mar 15: Christine Parlour
