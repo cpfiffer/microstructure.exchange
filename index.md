@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We analyze a unique data set of liquidations on two DeFi lending platforms -- Compound and Aave.  Using Blockchain transaction data, we document the high frequency price impact of these liquidity trades on 9 different decentralized exchanges.  Consistent with large block trades in equity markets there is a temporary and permanent price impact of liquidity trades in Decentralized Finance.
+**Abstract**: We document large differences in payment for order flow (PFOF) across asset classes. In liquid stocks, PFOF is small, while in single-name equity options, PFOF is large.  Current debate concerning PFOF has focused on whether brokers route orders to the best price. We highlight that brokers have a second potential conflict of interest: encouraging customers to trade assets offering higher PFOF. Using trade-level data, we conclude that market makers provide substantial, high-quality price improvement in equities, particularly when spreads are at the minimum tick. In options markets, we find the opposite, with PFOF associated with less price improvement for customers. We conclude that the conflict of interest we identify, i.e., the broker incentive to shape customer's asset choice, is far more consequential than routing, both to broker incomes and customer investment returns. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Christine Parlour (recording not available)
 - Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
 - Fatemah Aramian ([recording](https://youtu.be/ns7zQqQSE04) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738608))
 - Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx), [Eric Uhlmann slides](slides/Eric Finance Crowd Project Slides.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574))
