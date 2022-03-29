@@ -11,12 +11,12 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Tom Ernst (Maryland)"
-  speaker-paper: "Payment For Order Flow and Asset Choice"
-  coauthors: "Chester Spatt (Carnegie Mellon)"
-  speaker-date: March 29th, 11am (EDT) 
+  speaker-name: "James Brugler (Melbourne)"
+  speaker-paper: "Differential access to dark markets and execution outcomes"
+  coauthors: "Carole Comerton-Forde (Melbourne)"
+  speaker-date: April 12th, 11am (EDT)
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
-  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056512
+  paper-link: /papers/BCF_AusDarkPools_Mar22.pdf
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
   # slides-link: /slides/RobinhoodSlides_TME.pdf
  

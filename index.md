@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: This paper documents important differences in payment for order flow (PFOF), spreads, and price improvement across asset classes. In stocks, we show that PFOF is small. While many retail trades are executed off-exchange, we find that they receive meaningful price improvement, particularly when spreads are at their minimum. In single-name equity options, we show that PFOF is large. While all option trades are executed on-exchange, option exchanges have rules that facilitate internalization. We exploit variation in the Designated Market Maker (DMM) assignments at option exchanges to show that retail traders receive less price improvement, and worse prices, from those DMMs who pay PFOF to brokers, costing retail investors billions per year. Current debate concerning PFOF has focused on equity routing. We show that option routing is comparatively worse, and this gives rise to a second potential conflict of interest of brokers: encouraging customers to trade assets offering higher PFOF. As fintech has eliminated retail commissions, these cross-asset differences in PFOF have become far more consequential to broker incentives.
+**Abstract**: We compare dark pool trades across exchange-operated dark pools, where all trader types have equal access, and broker-operated dark pools, where brokers can restrict access to exclude certain traders, such as high frequency traders. Conditional on execution, trades on broker dark pools have less information leakage and adverse selection than trades on exchange-operated dark pools. Broker dark pools that do not allow high frequency traders have less information leakage than those that do. Differences in execution outcomes are concentrated in smaller trades.  We conclude that the ability to segment order flow can improve execution outcomes for investors.
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Tom Ernst ([recording](https://youtu.be/eVYdRsg4foQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056512))
 - Christine Parlour (recording not available)
 - Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
 - Fatemah Aramian ([recording](https://youtu.be/ns7zQqQSE04) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738608))
