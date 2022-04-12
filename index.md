@@ -46,7 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
-- James Brugler ([recording](), [slides](/slides/AusDarkPools_ME.pdf), and [paper](/papers/BCF_AusDarkPools_Mar22.pdf))
+- James Brugler ([recording](https://youtu.be/724t13go8iM), [slides](/slides/AusDarkPools_ME.pdf), and [paper](/papers/BCF_AusDarkPools_Mar22.pdf))
 - Tom Ernst ([recording](https://youtu.be/eVYdRsg4foQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056512))
 - Christine Parlour (recording not available)
 - Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
