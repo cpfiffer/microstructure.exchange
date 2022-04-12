@@ -11,15 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "James Brugler (Melbourne)"
-  speaker-paper: "Differential access to dark markets and execution outcomes"
-  coauthors: "Carole Comerton-Forde (Melbourne)"
-  speaker-date: April 12th, 11am (EDT)
+  speaker-name: "Mina Lee (Washington University)"
+  speaker-paper: "Flow Trading"
+  coauthors: "Eric Budish (Chicago), Peter Cramton (Maryland), Albert Kyle (Maryland), and David Malec (Maryland)"
+  speaker-date: April 26th, 11am (EDT)
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
-  paper-link: /papers/BCF_AusDarkPools_Mar22.pdf
+  # paper-link: https://www.cramton.umd.edu/papers2020-2024/budish-cramton-kyle-lee-malec-flow-trading.pdf
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
   # slides-link: /slides/RobinhoodSlides_TME.pdf
- 
+ Eric Budish	Peter Cramton	Albert S. Kyle	David Malec
+
 # Mar 1: Yashar Barardehi
 # Mar 15: Christine Parlour
 # Mar 29: Tom Ernst

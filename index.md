@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We compare dark pool trades across exchange-operated dark pools, where all trader types have equal access, and broker-operated dark pools, where brokers can restrict access to exclude certain traders, such as high frequency traders. Conditional on execution, trades on broker dark pools have less information leakage and adverse selection than trades on exchange-operated dark pools. Broker dark pools that do not allow high frequency traders have less information leakage than those that do. Differences in execution outcomes are concentrated in smaller trades.  We conclude that the ability to segment order flow can improve execution outcomes for investors.
+<!-- **Abstract**: We compare dark pool trades across exchange-operated dark pools, where all trader types have equal access, and broker-operated dark pools, where brokers can restrict access to exclude certain traders, such as high frequency traders. Conditional on execution, trades on broker dark pools have less information leakage and adverse selection than trades on exchange-operated dark pools. Broker dark pools that do not allow high frequency traders have less information leakage than those that do. Differences in execution outcomes are concentrated in smaller trades.  We conclude that the ability to segment order flow can improve execution outcomes for investors. -->
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- James Brugler ([recording](), [slides](/slides/AusDarkPools_ME.pdf), and [paper](/papers/BCF_AusDarkPools_Mar22.pdf))
 - Tom Ernst ([recording](https://youtu.be/eVYdRsg4foQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056512))
 - Christine Parlour (recording not available)
 - Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
@@ -92,6 +93,10 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 ## Resources
 
 The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
+
+### Events
+
+- The [Transparency and Market Structure Conference](https://sites.google.com/view/transparency-market-structure/home) will take place in Amsterdam on Friday, June 10th.
 
 ### Data
 
