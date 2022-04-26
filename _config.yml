@@ -11,12 +11,12 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Mina Lee (Washington University)"
-  speaker-paper: "Flow Trading"
-  coauthors: "Eric Budish (Chicago), Peter Cramton (Maryland), Albert Kyle (Maryland), and David Malec (Maryland)"
-  speaker-date: April 26th, 11am (EDT)
+  speaker-name: "Taisiya Sikorskaya (London Business School)"
+  speaker-paper: "Two APs Are Better Than One: ETF Mispricing and Primary Market Participation"
+  coauthors: "Evgenii Gorbatikov (London Business School)"
+  # speaker-date: April 26th, 11am (EDT)
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
-  paper-link: /papers/Flow trading 2022Apr22.pdf
+  paper-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923503
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
   # slides-link: /slides/RobinhoodSlides_TME.pdf
 
