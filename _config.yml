@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Pierre Collin-Dufresne (EPFL)"
-  speaker-paper: "TBA"
-  # coauthors: "Evgenii Gorbatikov (London Business School)"
-  speaker-date: May 24th, 11am (EDT)
+  speaker-name: "Jean-Edouard Colliard (HEC)"
+  speaker-paper: "Algorithmic Pricing and Liquidity in Securities Markets"
+  coauthors: "Thierry Foucault (HEC), Stefano Lovo (HEC)"
+  speaker-date: June 7th, 11am (EDT)
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # paper-link: "/papers/ETFs - Gorbatikov and Sikorskaya - May 2022.pdf"
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
