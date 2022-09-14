@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Jean-Edouard Colliard ([recording](https://www.youtube.com/watch?v=d5S772Xu0dw))
 - Taisiya Sikorskaya ([recording](https://youtu.be/oWpqpW5MaKE) and [paper](/papers/ETFs - Gorbatikov and Sikorskaya - May 2022.pdf))
 - Mina Lee ([recording](https://youtu.be/1KYCRttzpgc) and [paper](/papers/Flow trading 2022Apr22.pdf))
 - James Brugler ([recording](https://youtu.be/724t13go8iM), [slides](/slides/AusDarkPools_ME.pdf), and [paper](/papers/BCF_AusDarkPools_Mar22.pdf))
