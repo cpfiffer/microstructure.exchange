@@ -6,19 +6,19 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
-<hr> 
+<!-- <hr> 
 
 <div class="cfp"> 
 <span style="color: crimson"> Attention </span> The Microstructure Exchange is accepting submissions for Fall 2022. Please <a href="https://www.research.net/r/TME-Fall-2022">submit your paper</a>. 
 </div> 
 
-<hr>
+<hr> -->
 
 ## Upcoming talk
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We run experiments in which machine-learning algorithms play a standard market-making game under adverse selection. We study how the outcome of these experiments differs from standard equilibrium predictions. We find that a monopolist market-maker charges a price lower than the standard monopoly price. In contrast, competing market-makers charge a price at a mark-up above the competitive price. We run comparative statics exercises that deliver new empirical predictions. In particular, the mark-up decreases in the amount of adverse selection. Beyond the case of market-making, our framework is a step towards developing novel predictions on the impact of algorithmic trading in financial markets.
+**Abstract**: We compare execution quality of six brokerage accounts across five brokers by generating a sample of 85,000 simultaneous market orders. Commission levels and payment for order flow (PFOF) differ across our accounts. We find that execution prices vary significantly across brokers: the mean account-level round-trip cost ranges from –0.07% to –0.45% excluding any commissions. The dispersion is due to off-exchange wholesalers systematically giving different execution prices for the same trades to different brokers. Across brokers, variation in PFOF cannot explain the large variation in price execution. We provide several suggestions for more informative disclosures on execution quality.
 
 ## Calendar 
 

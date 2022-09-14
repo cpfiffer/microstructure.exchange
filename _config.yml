@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Jean-Edouard Colliard (HEC)"
-  speaker-paper: "Algorithmic Pricing and Liquidity in Securities Markets"
-  coauthors: "Thierry Foucault (HEC), Stefano Lovo (HEC)"
-  speaker-date: June 7th, 11am (EDT)
+  speaker-name: "Chris Schwarz (UC Irvine)"
+  speaker-paper: "The 'Actual Retail Price' of Equity Trades"
+  coauthors: "Brad Barber (UC Davis), Xing Huang (Wash U), Philippe Jorion (UC Irvine), and Terry Odean (UC Berkeley)"
+  speaker-date: September 20th, 11am (EDT)
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # paper-link: "/papers/ETFs - Gorbatikov and Sikorskaya - May 2022.pdf"
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
