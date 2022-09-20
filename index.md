@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We compare execution quality of six brokerage accounts across five brokers by generating a sample of 85,000 simultaneous market orders. Commission levels and payment for order flow (PFOF) differ across our accounts. We find that execution prices vary significantly across brokers: the mean account-level round-trip cost ranges from –0.07% to –0.45% excluding any commissions. The dispersion is due to off-exchange wholesalers systematically giving different execution prices for the same trades to different brokers. Across brokers, variation in PFOF cannot explain the large variation in price execution. We provide several suggestions for more informative disclosures on execution quality.
+**Abstract**: We study the optimal execution problem in a principal-agent setting. A client (e.g., a pension fund, endowment, or other institution) contracts to purchase a large position from a dealer at a future point in time. In the interim, the dealer acquires the position from the market, choosing how to divide his trading across time. Price impact may have temporary and permanent components. There is hidden action in that the client cannot directly dictate the dealer’s trades. Rather, she chooses a contract with the goal of minimizing her expected payment, given the price process and an understanding of the dealer’s incentives. Many contracts used in practice prescribe a payment equal to some weighted average of the market prices within the execution window. We explicitly characterize the optimal such weights: they are symmetric and generally U-shaped over time. This U-shape is strengthened by permanent price impact and weakened by both temporary price impact and dealer risk aversion. In contrast, the first-best solution (which reduces to a classical optimal execution problem) is invariant to these parameters. Back-of-the- envelope calculations suggest that switching to our optimal contract could save clients billions of dollars per year. 
 
 ## Calendar 
 
@@ -37,7 +37,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 - Björn Hagströmer -- Stockholm University ([website](https://hagstromer.org/) or [email](mailto:bjh@sbs.su.se))
 - Katya Malinova -- McMaster University ([website](https://sites.google.com/site/katyamalinova/) or [email](mailto:malinovk@mcmaster.ca))
 - Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
-- Cameron Pfiffer -- University of Oregon ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@uoregon.edu))
+- Cameron Pfiffer -- Stanford University ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@stanford.edu))
 - Andriy Shkilko -- Wilfrid Laurier University ([website](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/andriy-shkilko/index.html), [twitter](https://twitter.com/AndriyShkilko), or [email](ashkilko@wlu.ca))
 
 ## Contact
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Chris Schwarz ([recording](https://youtu.be/RHxjhZuq3y4) and [paper](/papers/Schwartz_et_al_,_2022_WP,_The_'Actual_Retail_Price'_of_Equity_Trades.pdf))
 - Jean-Edouard Colliard ([recording](https://www.youtube.com/watch?v=d5S772Xu0dw))
 - Taisiya Sikorskaya ([recording](https://youtu.be/oWpqpW5MaKE) and [paper](/papers/ETFs - Gorbatikov and Sikorskaya - May 2022.pdf))
 - Mina Lee ([recording](https://youtu.be/1KYCRttzpgc) and [paper](/papers/Flow trading 2022Apr22.pdf))

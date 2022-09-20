@@ -11,20 +11,18 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Chris Schwarz (UC Irvine)"
-  speaker-paper: "The 'Actual Retail Price' of Equity Trades"
-  coauthors: "Brad Barber (UC Davis), Xing Huang (Wash U), Philippe Jorion (UC Irvine), and Terry Odean (UC Berkeley)"
-  speaker-date: September 20th, 11am (EDT)
-  # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
-  paper-link: "/papers/Schwartz_et_al_,_2022_WP,_The_'Actual_Retail_Price'_of_Equity_Trades.pdf"
+  speaker-name: "Markus Baldauf (UBC)"
+  speaker-paper: "Principal Trading Arrangements: Optimality under Temporary and Permanent Price Impact"
+  coauthors: "Christoph Frei (University of Alberta) and Joshua Mollner (Northwestern)"
+  speaker-date: October 4th, 11am (EDT)
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956"
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
+  # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
 
-# Mar 1: Yashar Barardehi
-# Mar 15: Christine Parlour
-# Mar 29: Tom Ernst
-# Apr 12: James Brugler
-# Apr 26: Mina Lee
-# May 10: Evgenii Gorbatikov
-# May 24: Pierre Collin-Dufresne
-# Jun 7: Jean-Edouard Colliard
+# October 4: Markus Baldauf;
+# October 18: Dermot Murphy;
+# November 1: Vincent van Kervel;
+# November 15: Jiaheng Yu;
+# November 29: Sander Schwenk-Nebbe;
+# December 13: Rob Battalio
