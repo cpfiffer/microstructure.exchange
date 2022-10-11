@@ -11,14 +11,15 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Markus Baldauf (UBC)"
-  speaker-paper: "Principal Trading Arrangements: Optimality under Temporary and Permanent Price Impact"
-  coauthors: "Christoph Frei (University of Alberta) and Joshua Mollner (Northwestern)"
-  speaker-date: October 4th, 11am (EDT)
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956"
+  speaker-name: "Demort Murphy (UIC)"
+  speaker-paper: "Competition for Retail Order Flow and Market Quality"
+  # coauthors: "Edwin Hu (NYU)"
+  speaker-date: October 18thth, 11am (EDT)
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070056"
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
+  abstract: "Approximately 27% of trading volume is routed from retail brokerages to seven market-making firms (“internalizers”). We estimate that two of these firms, Citadel and Virtu, handle 70% of this volume, or $70 trillion from 2017-2021. Our theoretical model predicts that spreads are wider in a non-competitive market for retail order flow, as internalizers have less incentive to use their profits to improve on-exchange liquidity. Using the SEC Tick Size Pilot, which restricted internalization in some stocks as a natural experiment, we provide evidence that internalization negatively affects market liquidity, and that this effect is especially strong for stocks with concentrated internalization volume, as measured by our internalizer Herfindahl-Hirschman Index. Our results suggest that promoting more competitive markets for retail order flow could save investors billions of dollars in transaction costs."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;

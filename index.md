@@ -18,7 +18,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 {% include upcoming-speaker.html %}
 
-**Abstract**: We study the optimal execution problem in a principal-agent setting. A client (e.g., a pension fund, endowment, or other institution) contracts to purchase a large position from a dealer at a future point in time. In the interim, the dealer acquires the position from the market, choosing how to divide his trading across time. Price impact may have temporary and permanent components. There is hidden action in that the client cannot directly dictate the dealer’s trades. Rather, she chooses a contract with the goal of minimizing her expected payment, given the price process and an understanding of the dealer’s incentives. Many contracts used in practice prescribe a payment equal to some weighted average of the market prices within the execution window. We explicitly characterize the optimal such weights: they are symmetric and generally U-shaped over time. This U-shape is strengthened by permanent price impact and weakened by both temporary price impact and dealer risk aversion. In contrast, the first-best solution (which reduces to a classical optimal execution problem) is invariant to these parameters. Back-of-the- envelope calculations suggest that switching to our optimal contract could save clients billions of dollars per year. 
+**Abstract**: Approximately 27% of trading volume is routed from retail brokerages to seven market-making firms (“internalizers”). We estimate that two of these firms, Citadel and Virtu, handle 70% of this volume, or $70 trillion from 2017-2021. Our theoretical model predicts that spreads are wider in a non-competitive market for retail order flow, as internalizers have less incentive to use their profits to improve on-exchange liquidity. Using the SEC Tick Size Pilot, which restricted internalization in some stocks as a natural experiment, we provide evidence that internalization negatively affects market liquidity, and that this effect is especially strong for stocks with concentrated internalization volume, as measured by our internalizer Herfindahl-Hirschman Index. Our results suggest that promoting more competitive markets for retail order flow could save investors billions of dollars in transaction costs. 
 
 ## Calendar 
 
@@ -46,6 +46,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Markus Baldauf ([recording](https://youtu.be/KK_tgluKDfQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956))
 - Chris Schwarz ([recording](https://youtu.be/RHxjhZuq3y4) and [paper](/papers/Schwartz_et_al_,_2022_WP,_The_'Actual_Retail_Price'_of_Equity_Trades.pdf))
 - Jean-Edouard Colliard ([recording](https://www.youtube.com/watch?v=d5S772Xu0dw))
 - Taisiya Sikorskaya ([recording](https://youtu.be/oWpqpW5MaKE) and [paper](/papers/ETFs - Gorbatikov and Sikorskaya - May 2022.pdf))
