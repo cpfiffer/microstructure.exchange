@@ -16,9 +16,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 ## Upcoming talk
 
-{% include upcoming-speaker.html %}
-
-**Abstract**: Approximately 27% of trading volume is routed from retail brokerages to seven market-making firms (“internalizers”). We estimate that two of these firms, Citadel and Virtu, handle 70% of this volume, or $70 trillion from 2017-2021. Our theoretical model predicts that spreads are wider in a non-competitive market for retail order flow, as internalizers have less incentive to use their profits to improve on-exchange liquidity. Using the SEC Tick Size Pilot, which restricted internalization in some stocks as a natural experiment, we provide evidence that internalization negatively affects market liquidity, and that this effect is especially strong for stocks with concentrated internalization volume, as measured by our internalizer Herfindahl-Hirschman Index. Our results suggest that promoting more competitive markets for retail order flow could save investors billions of dollars in transaction costs. 
+{% include upcoming-speaker.html %} 
 
 ## Calendar 
 
