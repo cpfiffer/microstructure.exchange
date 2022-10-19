@@ -44,6 +44,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Dermot Murphy ([recording](https://www.youtube.com/watch?v=DUz--EEgsY4) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070056))
 - Markus Baldauf ([recording](https://youtu.be/KK_tgluKDfQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956))
 - Chris Schwarz ([recording](https://youtu.be/RHxjhZuq3y4) and [paper](/papers/Schwartz_et_al_,_2022_WP,_The_'Actual_Retail_Price'_of_Equity_Trades.pdf))
 - Jean-Edouard Colliard ([recording](https://www.youtube.com/watch?v=d5S772Xu0dw))
@@ -99,7 +100,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ### Events
 
-- The [Transparency and Market Structure Conference](https://sites.google.com/view/transparency-market-structure/home) will take place in Amsterdam on Friday, June 10th.
+- The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference).
 
 ### Data
 

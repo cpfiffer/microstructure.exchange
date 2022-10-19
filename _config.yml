@@ -11,15 +11,15 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Dermot Murphy (UIC)"
-  speaker-paper: "Competition for Retail Order Flow and Market Quality"
-  coauthors: "Edwin Hu (NYU)"
-  speaker-date: October 18th, 11am (EDT)
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070056"
+  speaker-name: "Vincent van Kervel (Pontificia Universidad Católica de Chile)"
+  speaker-paper: "Do high-frequency market makers share risks?"
+  coauthors: "Corey Garriott (TMX) and Marius Zoican (University of Toronto)"
+  speaker-date: November 1st, 11am (EDT)
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930"
   webinar-link: https://stockholmuniversity.zoom.us/j/66623062541
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Approximately 27% of trading volume is routed from retail brokerages to seven market-making firms (“internalizers”). We estimate that two of these firms, Citadel and Virtu, handle 70% of this volume, or $70 trillion from 2017-2021. Our theoretical model predicts that spreads are wider in a non-competitive market for retail order flow, as internalizers have less incentive to use their profits to improve on-exchange liquidity. Using the SEC Tick Size Pilot, which restricted internalization in some stocks as a natural experiment, we provide evidence that internalization negatively affects market liquidity, and that this effect is especially strong for stocks with concentrated internalization volume, as measured by our internalizer Herfindahl-Hirschman Index. Our results suggest that promoting more competitive markets for retail order flow could save investors billions of dollars in transaction costs."
+  abstract: "We document low cross-sectional correlations between high-frequency market maker (MM) inventory positions, suggesting poor risk sharing. Using a unique data set on Canadian futures markets, a simple inventory cost estimate is 300% above the optimal benchmark. Our model explains how heterogeneity in MM inventories impacts their liquidity provision in time-priority markets. Depth is maximized if large inventory MMs arrive later in the queue. Random queue positions allow us to cleanly distinguish between inventory frictions and adverse selection using quote sizes. In our sample, both frictions are equally large and imperfect risk sharing explain up to 8% of depth variability."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;
