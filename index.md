@@ -100,8 +100,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ### Events
 
-- The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference).
-- Andreas Park (he/him)
+- The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference)
 
 ### Data
 
