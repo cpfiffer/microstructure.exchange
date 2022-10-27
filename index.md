@@ -34,10 +34,10 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 
 - Björn Hagströmer -- Stockholm University ([website](https://hagstromer.org/) or [email](mailto:bjh@sbs.su.se))
 - Katya Malinova -- McMaster University ([website](https://sites.google.com/site/katyamalinova/) or [email](mailto:malinovk@mcmaster.ca))
-- Josh Mollner -- Northwestern University ([website](https://sites.google.com/site/joshuamollner/) or [email](joshua.mollner@kellogg.northwestern.edu))
+- Josh Mollner -- Northwestern University ([website](https://sites.google.com/site/joshuamollner/) or [email](mailto:joshua.mollner@kellogg.northwestern.edu))
 - Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
 - Cameron Pfiffer -- Stanford University ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@stanford.edu))
-- Andriy Shkilko -- Wilfrid Laurier University ([website](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/andriy-shkilko/index.html), [twitter](https://twitter.com/AndriyShkilko), or [email](ashkilko@wlu.ca))
+- Andriy Shkilko -- Wilfrid Laurier University ([website](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/andriy-shkilko/index.html), [twitter](https://twitter.com/AndriyShkilko), or [email](mailto:ashkilko@wlu.ca))
 
 ## Contact
 
