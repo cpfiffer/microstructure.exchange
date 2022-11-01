@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Vincent van Kervel (Pontificia Universidad Católica de Chile)"
-  speaker-paper: "Do high-frequency market makers share risks?"
-  coauthors: "Corey Garriott (TMX) and Marius Zoican (University of Toronto)"
-  speaker-date: "November 1st, 11am (EDT)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930"
+  speaker-name: "Jiaheng Yu (MIT)"
+  speaker-paper: "Undercutting the Exchanges: Private Trading, Fee Competition, and Price Discovery at the Market Close"
+  coauthors: "Jingxiong Hu (Northwestern)"
+  speaker-date: "November 15, 11 a.m. (New York time)"
+  paper-link: "https://www.dropbox.com/s/molz1qf5v7x5ntf/Undercutting_the_exchanges.pdf?dl=0"
   # paper-link: "/papers/papername.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/66623062541"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We document low cross-sectional correlations between high-frequency market maker (MM) inventory positions, suggesting poor risk sharing. Using a unique data set on Canadian futures markets, a simple inventory cost estimate is 300% above the optimal benchmark. Our model explains how heterogeneity in MM inventories impacts their liquidity provision in time-priority markets. Depth is maximized if large inventory MMs arrive later in the queue. Random queue positions allow us to cleanly distinguish between inventory frictions and adverse selection using quote sizes. In our sample, both frictions are equally large and imperfect risk sharing explain up to 8% of depth variability."
+  abstract: "Passive investment strategies that trade at market close have incurred high transaction fees charged by the primary exchanges. Investment banks undercut the exchanges by executing client orders at close prices set on the exchanges yet charging lower fees. While providing liquidity, banks trade on the order flow information. Using a quasiexperimental shock – an NYSE close auction fee cut – we find that banks’ trading activities improve the informativeness of close prices and reduce the cost of passive investment strategies. To explain this finding, we propose a model where dual trading improves price discovery. A bank contributes to price discovery by trading on the informativeness of the orders it receives relative to the market. The implications of our model apply generally to scenarios with multiple trading venues where venue operators trade on order flow data. As an application of our results, the common practice of trading on retail order flow information could potentially improve price discovery."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;
