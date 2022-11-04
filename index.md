@@ -45,6 +45,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Vincent van Kervel ([recording](https://youtu.be/HmWcC6o_L4M), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930), and [slides](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930))
 - Dermot Murphy ([recording](https://www.youtube.com/watch?v=DUz--EEgsY4) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070056))
 - Markus Baldauf ([recording](https://youtu.be/KK_tgluKDfQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956))
 - Chris Schwarz ([recording](https://youtu.be/RHxjhZuq3y4) and [paper](/papers/Schwartz_et_al_,_2022_WP,_The_'Actual_Retail_Price'_of_Equity_Trades.pdf))
