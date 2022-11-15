@@ -45,6 +45,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 
+- Jiaheng Yu ([recording](https://youtu.be/CZXnv0NZAi0) and [paper](https://www.dropbox.com/s/molz1qf5v7x5ntf/Undercutting_the_exchanges.pdf?dl=0))
 - Vincent van Kervel ([recording](https://youtu.be/HmWcC6o_L4M), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930), and [slides](/slides/TMX%20Slides.pdf))
 - Dermot Murphy ([recording](https://www.youtube.com/watch?v=DUz--EEgsY4) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070056))
 - Markus Baldauf ([recording](https://youtu.be/KK_tgluKDfQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778956))
