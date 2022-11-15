@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Jiaheng Yu (MIT)"
-  speaker-paper: "Undercutting the Exchanges: Private Trading, Fee Competition, and Price Discovery at the Market Close"
-  coauthors: "Jingxiong Hu (Northwestern)"
-  speaker-date: "November 15, 11 a.m. (New York time)"
+  speaker-name: "Sander Schwenk-Nebbe (Aarhus)"
+  speaker-paper: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743"
+  # coauthors: "Jingxiong Hu (Northwestern)"
+  speaker-date: "November 29, 11 a.m. (New York time)"
   paper-link: "https://www.dropbox.com/s/molz1qf5v7x5ntf/Undercutting_the_exchanges.pdf?dl=0"
   # paper-link: "/papers/papername.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/66623062541"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Passive investment strategies that trade at market close have incurred high transaction fees charged by the primary exchanges. Investment banks undercut the exchanges by executing client orders at close prices set on the exchanges yet charging lower fees. While providing liquidity, banks trade on the order flow information. Using a quasiexperimental shock – an NYSE close auction fee cut – we find that banks’ trading activities improve the informativeness of close prices and reduce the cost of passive investment strategies. To explain this finding, we propose a model where dual trading improves price discovery. A bank contributes to price discovery by trading on the informativeness of the orders it receives relative to the market. The implications of our model apply generally to scenarios with multiple trading venues where venue operators trade on order flow data. As an application of our results, the common practice of trading on retail order flow information could potentially improve price discovery."
+  abstract: "Starting in 2015, the participant timestamp is available alongside the primary SIP timestamp in TAQ data. This paper shows that all trades and quote updates triggered in the execution of the same marketable order receive the same participant (but not SIP) timestamp. Using this insight, TAQ can now be extended by a marketable order execution identifier. The new identifier is applied to accurately obtain otherwise biased prevailing NBBO prices and depths, to improve trade signing accuracy, to consolidate trades of marketable orders executed in parts, and to identify trades executed against hidden liquidity directly in TAQ data."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;
