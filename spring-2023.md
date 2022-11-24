@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# The Microstructure Exchange: Autumn 2020
+# The Microstructure Exchange: Winter / Spring 2023
 
-The Microstructure Exchange is soliciting papers in market microstructure to be presented in a series of Tuesday online seminars during the autumn of 2020.
+The Microstructure Exchange is soliciting papers in market microstructure to be presented in a series of Tuesday online seminars during the first half year of 2023.
 
 A large group of market structure scholars will review the submitted papers. The selected papers will be presented in one-hour seminars, with 45 minutes for presentation and 15 minutes for Q&A.
 
-Please submit your paper [here](https://www.research.net/r/TME-Fall-2020).
+Please submit your paper [here](https://www.research.net/r/TME-Winter2023).
 
-**Submission deadline**: June 30, 2020
+**Submission deadline**: December 16, 2022
 
-**Notification of acceptance**: August 14, 2020
+**Notification of acceptance**: Early February, 2023
 
 ### Submission Guidelines
 
