@@ -11,16 +11,17 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Sander Schwenk-Nebbe (Aarhus)"
-  speaker-paper: "The Participant Timestamp: Get The Most Out Of TAQ Data"
+  speaker-name: "Robert Battalio (Notre Dame)"
+  speaker-paper: "Does the BJZZ algorithm correctly identify retail trades?"
   # coauthors: "Jingxiong Hu (Northwestern)"
-  speaker-date: "November 29, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743"
+  speaker-date: "December 13, 11 a.m. (New York time)"
+  # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743"
   # paper-link: "/papers/papername.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/66623062541"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Starting in 2015, the participant timestamp is available alongside the primary SIP timestamp in TAQ data. This paper shows that all trades and quote updates triggered in the execution of the same marketable order receive the same participant (but not SIP) timestamp. Using this insight, TAQ can now be extended by a marketable order execution identifier. The new identifier is applied to accurately obtain otherwise biased prevailing NBBO prices and depths, to improve trade signing accuracy, to consolidate trades of marketable orders executed in parts, and to identify trades executed against hidden liquidity directly in TAQ data."
+  abstract: "Robert will present two papers. The abstract of the first paper is:
+Boehmer et al. (2021) propose a methodology to infer retail trades from publicly available NYSE Trade and Quote (TAQ) data. Their methodology relies on assumptions about what types of orders do and do not trade on non-mid-point sub-penny increments via the Trade Reporting Facility. We obtain proprietary data from one or more order flow wholesalers that are known to receive orders from retail brokers. We use these data to demonstrate that the Boehmer et al methodology identifies less than one-third of these trades generally assumed to be from retail investors. In addition, we obtain proprietary data on non-retail trades that demonstrate that a large number of such trades print on non-mid-point sub-penny intervals in violation of the assumption by Boehmer et al. that institutional orders trade only on penny or half-penny increments. Thus, there are both Type I and Type II errors that affect the ability of Boehmer et al. to identify retail and only retail trades from TAQ. We show that these errors result in low correlations between order imbalance measures that are computed using Boehmer et al. methodology and order imbalance measures computed with known retail orders."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;
