@@ -11,23 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Robert Battalio (Notre Dame)"
-  speaker-paper: "Does the BJZZ algorithm correctly identify retail trades?"
+  speaker-name: "The Microstructure Exchange is on a winter break! We will be back in March."
+  speaker-paper: "Happy holidays!"
   # coauthors: "Jingxiong Hu (Northwestern)"
-  speaker-date: "December 13, 11 a.m. (New York time)"
+  # speaker-date: "December 13, 11 a.m. (New York time)"
   # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743"
   # paper-link: "/papers/papername.pdf" # If you have a file instead
-  webinar-link: "https://stockholmuniversity.zoom.us/j/66623062541"
+  # webinar-link: "https://stockholmuniversity.zoom.us/j/66623062541"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Robert will present two papers. The abstract of the first paper is: 
-  <br/> 
-  Boehmer et al. (2021) propose a methodology to infer retail trades from publicly available NYSE Trade and Quote (TAQ) data. Their methodology relies on assumptions about what types of orders do and do not trade on non-mid-point sub-penny increments via the Trade Reporting Facility. We obtain proprietary data from one or more order flow wholesalers that are known to receive orders from retail brokers. We use these data to demonstrate that the Boehmer et al methodology identifies less than one-third of these trades generally assumed to be from retail investors. In addition, we obtain proprietary data on non-retail trades that demonstrate that a large number of such trades print on non-mid-point sub-penny intervals in violation of the assumption by Boehmer et al. that institutional orders trade only on penny or half-penny increments. Thus, there are both Type I and Type II errors that affect the ability of Boehmer et al. to identify retail and only retail trades from TAQ. We show that these errors result in low correlations between order imbalance measures that are computed using Boehmer et al. methodology and order imbalance measures computed with known retail orders.
-  <br/> 
-  <br/>
-  The abstract of the second paper is: 
-  <br/> 
-  We present evidence that in May 2022 several retail brokers who do not charge  wholesalers for their marketable orders routed most of their marketable orders to wholesalers for order handling and execution. Using proprietary marketable order flow data from one or more wholesaler(s) for May 2022, we evaluate several dimensions of wholesaler execution quality. As measured by reporting rules established by the Securities and Exchange Commission, we find that the wholesaler(s) provided about $78 million of savings to investors for the month. This swells to over $388 million including odd lot and short sell orders and the execution of large orders at better prices than an investor would have received if the wholesaler(s) simply executed these orders at order-receipt-time depth-of-book displayed prices aggregated across all exchanges. To better understand why brokers route orders to wholesalers, we conclude by conducting a “near-neighbor” analysis between marketable orders routed to exchanges and “equivalent” marketable orders routed to the data provider(s). Ignoring access fees on exchanges, we find that seemingly identical orders received better prices from the wholesaler(s) in over 68% of the comparisons and equivalent prices in another 19% of the comparisons. When exchange fees are included, the wholesaler(s) win almost 91% of the time. We believe that this difference in execution quality supports retail brokers routing most of their marketable orders to competing wholesalers."
+  # abstract: "Boehmer et al. (2021) propose a methodology to infer retail trades from publicly available NYSE Trade and Quote (TAQ) data. Their methodology relies on assumptions about what types of orders do and do not trade on non-mid-point sub-penny increments via the Trade Reporting Facility. We obtain proprietary data from one or more order flow wholesalers that are known to receive orders from retail brokers. We use these data to demonstrate that the Boehmer et al methodology identifies less than one-third of these trades generally assumed to be from retail investors. In addition, we obtain proprietary data on non-retail trades that demonstrate that a large number of such trades print on non-mid-point sub-penny intervals in violation of the assumption by Boehmer et al. that institutional orders trade only on penny or half-penny increments. Thus, there are both Type I and Type II errors that affect the ability of Boehmer et al. to identify retail and only retail trades from TAQ. We show that these errors result in low correlations between order imbalance measures that are computed using Boehmer et al. methodology and order imbalance measures computed with known retail orders."
 
 # October 4: Markus Baldauf;
 # October 18: Dermot Murphy;
