@@ -8,8 +8,8 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 <hr> 
 
-<div class="cfp"> 
-<span style="color: crimson"> Attention: </span> The Microstructure Exchange is accepting submissions for the first half of 2023. Please <a href="https://www.research.net/r/TME-Winter2023">submit your paper</a>. <br>
+#<div class="cfp"> 
+#<span style="color: crimson"> Attention: </span> The Microstructure Exchange is accepting submissions for the first half of 2023. Please <a href="https://www.research.net/r/TME-Winter2023">submit your paper</a>. <br>
   
 </div> 
 
