@@ -6,15 +6,16 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
 
+<!--
 <hr> 
 
-#<div class="cfp"> 
-#<span style="color: crimson"> Attention: </span> The Microstructure Exchange is accepting submissions for the first half of 2023. Please <a href="https://www.research.net/r/TME-Winter2023">submit your paper</a>. <br>
+<div class="cfp"> 
+<span style="color: crimson"> Attention: </span> The Microstructure Exchange is accepting submissions for the first half of 2023. Please <a href="https://www.research.net/r/TME-Winter2023">submit your paper</a>. <br>
   
 </div> 
 
 <hr>
-
+-->
 ## Upcoming talk
 
 {% include upcoming-speaker.html %} 
@@ -45,7 +46,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
 
 ## Past talks
-- Robert Battalio ([recording](https://youtu.be/DQGBg79Fink), [paper1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304124), and [paper2] (papers/BoehmerJonesAlgorithmPaper20221125.pdf))
+- Robert Battalio ([recording](https://youtu.be/DQGBg79Fink), [paper1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304124), and [paper2](papers/BoehmerJonesAlgorithmPaper20221125.pdf))
 - Sander Schwenk-Nebbe ([recording](https://youtu.be/9nUMVjqcPUQ), [slides](slides/TAQ_Participant_Timestamp_Sander_Schwenk-Nebbe.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743))
 - Jiaheng Yu ([recording](https://youtu.be/CZXnv0NZAi0) and [paper](https://www.dropbox.com/s/molz1qf5v7x5ntf/Undercutting_the_exchanges.pdf?dl=0))
 - Vincent van Kervel ([recording](https://youtu.be/HmWcC6o_L4M), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991930), and [slides](/slides/TMX%20Slides.pdf))
