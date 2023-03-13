@@ -11,7 +11,7 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Chester Spatt, Carnegie Mellon"
+  speaker-name: "Chester Spatt (Carnegie Mellon)"
   speaker-paper: "Would Order-by-Order Auctions Be Competitive?"
   coauthors: "Thomas Ernst (Maryland) and Jian Sun (SMU)"
   speaker-date: "March 14, 11 a.m. (New York time)"
@@ -22,9 +22,9 @@ speaker-info:
   # slides-link: /slides/RobinhoodSlides_TME.pdf
   abstract: "Retail trading flow is segregated from non-retail flow in U.S. equities, consistent with market segmentation. We model theoretically two methods of executing segregated retail trades: a) broker's routing, whereby brokers evaluate and allocate orders based on each market maker's aggregate performance, and b) order-by-order auctions, where market makers bid on each individual order, a market structure recently proposed by the SEC. We find that order-by-order auctions improve allocative efficiency among market makers, but a winner's curse problem in the auction can reduce retail investor welfare, particularly at times of limited liquidity. Introducing more market participants who compete for retail orders can harm both total efficiency and investor welfare if these new market participants have superior information compared to incumbent wholesalers. Empirical analysis of Retail Liquidity Programs (RLP) currently offered by exchanges shows that these programs behave similar to order-by-order auctions in our model."
 
-# October 4: Markus Baldauf;
-# October 18: Dermot Murphy;
-# November 1: Vincent van Kervel;
-# November 15: Jiaheng Yu;
-# November 29: Sander Schwenk-Nebbe;
-# December 13: Rob Battalio
+# March 14: Chester Spatt (Carnegie Mellon)
+# March 28: Basil Williams (NYU)
+# April 11: Maureen O'Hara (Cornell)
+# April 25: Marius Zoican (Rotman)
+# May 9: Maren Vairo (Northwestern)
+# May 23 Barbara Rindi (Bocconi)
