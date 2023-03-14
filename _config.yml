@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Chester Spatt (Carnegie Mellon)"
-  speaker-paper: "Would Order-by-Order Auctions Be Competitive?"
-  coauthors: "Thomas Ernst (Maryland) and Jian Sun (SMU)"
-  speaker-date: "March 14, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300505"
+  speaker-name: "Basil Williams (NYU)"
+  speaker-paper: "Spoofing in Equilibrium"
+  coauthors: "Andy Skrzypacz (Stanford)"
+  speaker-date: "March 28, 11 a.m. (New York time)"
+  # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3742327"
   # paper-link: "/papers/papername.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Retail trading flow is segregated from non-retail flow in U.S. equities, consistent with market segmentation. We model theoretically two methods of executing segregated retail trades: a) broker's routing, whereby brokers evaluate and allocate orders based on each market maker's aggregate performance, and b) order-by-order auctions, where market makers bid on each individual order, a market structure recently proposed by the SEC. We find that order-by-order auctions improve allocative efficiency among market makers, but a winner's curse problem in the auction can reduce retail investor welfare, particularly at times of limited liquidity. Introducing more market participants who compete for retail orders can harm both total efficiency and investor welfare if these new market participants have superior information compared to incumbent wholesalers. Empirical analysis of Retail Liquidity Programs (RLP) currently offered by exchanges shows that these programs behave similar to order-by-order auctions in our model."
+  # abstract: "Retail trading flow is segregated from non-retail flow in U.S. equities, consistent with market segmentation. We model theoretically two methods of executing segregated retail trades: a) broker's routing, whereby brokers evaluate and allocate orders based on each market maker's aggregate performance, and b) order-by-order auctions, where market makers bid on each individual order, a market structure recently proposed by the SEC. We find that order-by-order auctions improve allocative efficiency among market makers, but a winner's curse problem in the auction can reduce retail investor welfare, particularly at times of limited liquidity. Introducing more market participants who compete for retail orders can harm both total efficiency and investor welfare if these new market participants have superior information compared to incumbent wholesalers. Empirical analysis of Retail Liquidity Programs (RLP) currently offered by exchanges shows that these programs behave similar to order-by-order auctions in our model."
 
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
