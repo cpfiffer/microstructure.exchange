@@ -46,6 +46,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
 
 ## Past talks
+- Chester Spatt ([recording](https://youtu.be/yAqVFiqmxNk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300505))
 - Robert Battalio ([recording](https://youtu.be/DQGBg79Fink), [paper1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304124), and [paper2](papers/BoehmerJonesAlgorithmPaper20221125.pdf))
 - Sander Schwenk-Nebbe ([recording](https://youtu.be/9nUMVjqcPUQ), [slides](slides/TAQ_Participant_Timestamp_Sander_Schwenk-Nebbe.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743))
 - Jiaheng Yu ([recording](https://youtu.be/CZXnv0NZAi0) and [paper](https://www.dropbox.com/s/molz1qf5v7x5ntf/Undercutting_the_exchanges.pdf?dl=0))
