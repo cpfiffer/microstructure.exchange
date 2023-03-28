@@ -47,7 +47,6 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## Past talks
 - Basil Williams ([recording](https://youtu.be/eLpVLQRQRwQ), [paper](/papers/williams-skrzypacz-spoofing.pdf))
-# Spoofing in Equilibrium
 - Chester Spatt ([recording](https://youtu.be/yAqVFiqmxNk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300505))
 - Robert Battalio ([recording](https://youtu.be/DQGBg79Fink), [paper1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304124), and [paper2](papers/BoehmerJonesAlgorithmPaper20221125.pdf))
 - Sander Schwenk-Nebbe ([recording](https://youtu.be/9nUMVjqcPUQ), [slides](slides/TAQ_Participant_Timestamp_Sander_Schwenk-Nebbe.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744743))
