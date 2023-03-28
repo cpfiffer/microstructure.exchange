@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Basil Williams (NYU)"
-  speaker-paper: "Spoofing in Equilibrium"
-  coauthors: "Andy Skrzypacz (Stanford)"
-  speaker-date: "March 28, 11 a.m. (New York time)"
+  speaker-name: "Maureen O'Hara (Cornell)"
+  # speaker-paper: "Spoofing in Equilibrium"
+  # coauthors: "Andy Skrzypacz (Stanford)"
+  speaker-date: "April 11, 11 a.m. (New York time)"
   # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3742327"
-  paper-link: "/papers/williams-skrzypacz-spoofing.pdf" # If you have a file instead
+  # paper-link: "/papers/williams-skrzypacz-spoofing.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We present a model of dynamic trading with exogenous and strategic cancellation of orders. We define spoofing as strategically placing and canceling orders in order to move prices and trade later in the opposite direction. We show that spoofing can occur in equilibrium, slowing price discovery and raising spreads and volatility. A novel prediction is that the prevalence of equilibrium spoofing is single-peaked in the measure of informed traders, suggesting that spoofing should be more prevalent in markets of intermediate liquidity. We also consider cross-market spoofing and discuss how regulators should allocate resources towards cross-market surveillance."
+  # abstract: "We present a model of dynamic trading with exogenous and strategic cancellation of orders. We define spoofing as strategically placing and canceling orders in order to move prices and trade later in the opposite direction. We show that spoofing can occur in equilibrium, slowing price discovery and raising spreads and volatility. A novel prediction is that the prevalence of equilibrium spoofing is single-peaked in the measure of informed traders, suggesting that spoofing should be more prevalent in markets of intermediate liquidity. We also consider cross-market spoofing and discuss how regulators should allocate resources towards cross-market surveillance."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
