@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Maureen O'Hara (Cornell)"
-  speaker-paper: "Tiny Trades, Big Questions: Fractional Shares"
-  coauthors: "Robert Bartlett (Berkeley) and Justin McCrary (Columbia and NBER)"
-  speaker-date: "April 11, 11 a.m. (New York time)"
+  speaker-name: "Marius Zoican (Rotman)"
+  #speaker-paper: "Tiny Trades, Big Questions: Fractional Shares"
+  #coauthors: "Robert Bartlett (Berkeley) and Justin McCrary (Columbia and NBER)"
+  speaker-date: "April 25, 11 a.m. (New York time)"
   # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3742327"
-  paper-link: "/papers/Tiny Trades Feb 7.pdf" # If you have a file instead
+  #paper-link: "/papers/Tiny Trades Feb 7.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "This paper investigates fractional share trading. We develop a methodology for identifying fractional share trades in the Consolidated Transaction Reporting System. Our approach uses a latency-based digital footprint to estimate fractional share trades executed by Robinhood and Drivewealth, the two largest fractional share broker dealers. We find a surprising breadth to fractional share trading: high-priced stocks, meme stocks, IPOs, SPACs, and other popular retail stocks now exhibit considerable numbers of these tiny trades. We show that these tiny trades matter: fractional share trades are predictive of future liquidity and volatility, suggesting an information content to fractional share trades. Our results indicate that our measure of fractional share trading better captures this market information than do standard measures of retail trading. We also discuss how current data and reporting protocols preclude knowing the full extent of fractional share trading, inflate trading volume data, and provide at best censored samples of these off-exchange trades."
+  #abstract: "This paper investigates fractional share trading. We develop a methodology for identifying fractional share trades in the Consolidated Transaction Reporting System. Our approach uses a latency-based digital footprint to estimate fractional share trades executed by Robinhood and Drivewealth, the two largest fractional share broker dealers. We find a surprising breadth to fractional share trading: high-priced stocks, meme stocks, IPOs, SPACs, and other popular retail stocks now exhibit considerable numbers of these tiny trades. We show that these tiny trades matter: fractional share trades are predictive of future liquidity and volatility, suggesting an information content to fractional share trades. Our results indicate that our measure of fractional share trading better captures this market information than do standard measures of retail trading. We also discuss how current data and reporting protocols preclude knowing the full extent of fractional share trading, inflate trading volume data, and provide at best censored samples of these off-exchange trades."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
