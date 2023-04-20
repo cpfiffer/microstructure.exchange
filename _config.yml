@@ -20,7 +20,7 @@ speaker-info:
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "iquidity providers (LPs) on decentralized exchanges pay a fixed transaction cost (gas price) whenever they update their positions. Different economies of scale across LPs lead in equilibrium to the fragmentation of liquidity supply between low- and high-fee pools. Using data on liquidity updates from Uniswap, we document that while high-fee pools attract 56% of liquidity supply, they only execute 35% of trading volume. Low-fee pools cater to large (institutional) LPs, who update positions frequently in response to large trading volume. In contrast, small (retail) LPs converge to high-fee pools, trading off lower execution probabilities against a smaller liquidity management cost."
+  abstract: "Liquidity providers (LPs) on decentralized exchanges pay a fixed transaction cost (gas price) whenever they update their positions. Different economies of scale across LPs lead in equilibrium to the fragmentation of liquidity supply between low- and high-fee pools. Using data on liquidity updates from Uniswap, we document that while high-fee pools attract 56% of liquidity supply, they only execute 35% of trading volume. Low-fee pools cater to large (institutional) LPs, who update positions frequently in response to large trading volume. In contrast, small (retail) LPs converge to high-fee pools, trading off lower execution probabilities against a smaller liquidity management cost."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
