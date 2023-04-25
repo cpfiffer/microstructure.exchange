@@ -46,6 +46,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
 
 ## Past talks
+- Marius Zoican ([recording](https://youtu.be/gFtKaIBGPBo), [slides](slides/slides_uniswap_v3-1.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4267429))
 - Maureen O'Hara ([recording](https://youtu.be/gFtKaIBGPBo), [paper](https://microstructure.exchange/papers/Tiny%20Trades%20Feb%207.pdf))
 - Basil Williams ([recording](https://youtu.be/eLpVLQRQRwQ), [paper](/papers/williams-skrzypacz-spoofing.pdf))
 - Chester Spatt ([recording](https://youtu.be/yAqVFiqmxNk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300505))
