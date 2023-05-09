@@ -11,19 +11,19 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Maren Vairo (Northwestern)"
-  speaker-paper: "What type of transparency in OTC markets?"
-  coauthors: "Piotr Dworczak (Northwestern)"
-  speaker-date: "May 9, 11 a.m. (New York time)"
-  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4267429"
-  paper-link: "/papers/Transparency_OTC.pdf" # If you have a file instead
+  speaker-name: "Karamfil Todorov (BIS)"
+  speaker-paper: "Relationship Discounts in Corporate Bond Trading"
+  coauthors: "Simon Jurkatis (BoE), Andreas Schrimpf (BIS), Nicholas Vause (BoE)"
+  speaker-date: "May 23, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301416"
+  #paper-link: "/papers/Transparency_OTC.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Financial over-the-counter markets have been traditionally very opaque. Recent regulation promotes transparency in some of these markets by lowering search costs, allowing traders to request quotes from multiple dealers at the same time (pre-trade transparency), and requiring public disclosure of past transactions (post-trade transparency). We evaluate these policies using a dynamic trading model with adverse selection. We show that post-trade transparency improves upon the opaque market but is dominated by pre-trade transparency; moreover, adding post-trade transparency to a pre-trade transparent market offers no benefits and can be harmful. We identify cases in which lowering search costs can be detrimental to market efficiency. Finally, relying on a mechanism-design approach, we characterize the optimal trading mechanism in our framework."
+  abstract: "We find that clients with stronger past trading relationships with a dealer receive consistently better prices in corporate bond trading. The top 1% of relationship clients face a sizeable 67% drop in transaction costs relative to the median client—an effect which is particularly strong during the COVID-19 turmoil. We find clients’ liquidity provision to be a key driver of relationship discounts: clients to whom dealers can turn to as a source of liquidity, are rewarded with relationship discounts. Another important motive for dealers to quote better prices to relationship clients is because these clients generate the bulk of dealers’ profits. Finally, we find no evidence that extraction of information from clients’ order flow is related to relationship discounts."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
 # April 25: Marius Zoican (Rotman)
 # May 9: Maren Vairo (Northwestern)
-# May 23 Barbara Rindi (Bocconi)
+# May 23: Karamfil Todorov (BIS)
