@@ -110,11 +110,12 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
 
-### Events
+# ### Events
 
-- The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference)
+# - The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference)
 
 ### Data
 
+- [Level 2 order book data trials](https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/nyse-trade-and-quote-trial/nyse-order-book-sample/) from WRDS. WRDS is inviting faculty to trial the NYSE and ARCA level 2 order book data and submit interests for subscription. With academic feedback, WRDS aims to make this data available to the microstructure research community hopefully by 2024. 
 - [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
