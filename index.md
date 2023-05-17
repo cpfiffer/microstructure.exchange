@@ -45,6 +45,16 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 
 Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) with comments, questions, and feedback.
 
+## Resources
+
+The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
+
+### Data
+
+- [Level 2 order book data trials](https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/nyse-trade-and-quote-trial/nyse-order-book-sample/) from WRDS. WRDS is inviting faculty to trial the NYSE and ARCA level 2 order book data and submit interests for subscription. With academic feedback, WRDS aims to make this data available to the microstructure research community hopefully by 2024. 
+- [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
+- [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
+
 ## Past talks
 - Maren Vairo ([recording](https://youtu.be/3n5Dk61p9uI), [paper](https://microstructure.exchange/papers/Transparency_OTC.pdf))
 - Marius Zoican ([recording](https://youtu.be/gFtKaIBGPBo), [slides](slides/slides_uniswap_v3-1.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4267429))
@@ -105,17 +115,3 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 - Angelo Ranaldo ([recording](https://www.youtube.com/watch?v=DY-YA4KYn5w), [slides](/slides/RanaldoSomogyi_webinar20200428_slides.pdf), [video abstract](https://www.youtube.com/watch?v=3ormJqfCx-o), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263279))
 - Sunil Wahal ([recording](https://youtu.be/3QiHYYw1zII), [slides](/slides/AlgoMicroExch.pdf), [video abstract](https://www.youtube.com/watch?v=tcc41xI6vQw&feature=youtu.be), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001))
 - Thierry Foucault ([recording](https://www.youtube.com/watch?v=bgS9zjKN7Gc&feature=youtu.be), [slides](slides/DataMining_Slides_MicExchangeApril2.pdf), [video abstract](https://www.youtube.com/watch?v=-4ZiSoHkkPI&t=7s), and [paper](/papers/Equi_Data_Mining_maktmicroexchange_seminar.pdf))
-
-## Resources
-
-The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
-
-# ### Events
-
-# - The 5th Future of Financial Information Conference is set to take place at HEC Paris, France on 15-16 May 2023. The submission deadline is 18 December 2022. For more information, see [https://futfin.info/conference](https://futfin.info/conference)
-
-### Data
-
-- [Level 2 order book data trials](https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/nyse-trade-and-quote-trial/nyse-order-book-sample/) from WRDS. WRDS is inviting faculty to trial the NYSE and ARCA level 2 order book data and submit interests for subscription. With academic feedback, WRDS aims to make this data available to the microstructure research community hopefully by 2024. 
-- [Spread statistics](https://research.wpcarey.asu.edu/investment-engineering/spread-statistics/) from Sunil Wahal. The dataset contains nanosecond precision spreads (using four methodologies) of all common stocks and ETFs with valid data. See [Conrad and Wahal (2020)](https://www.sciencedirect.com/science/article/pii/S0304405X19302272?casa_token=J1PxSM5ItqgAAAAA:mpytum5FSdQUbwVAkfsWEJE-mg3vY29IfeZXa7rYB1B_KV9RFAsumYYcuHWf7UdhONaoTfCzlsE) for more information.
-- [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
