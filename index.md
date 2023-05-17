@@ -2,9 +2,9 @@
 layout: default
 ---
 
-The Microstructure Exchange is a virtual academic market microstructure research seminar of indefinite length, intended to continue the sharing of ideas between researchers.
+The Microstructure Exchange is a virtual academic market microstructure research seminar series of indefinite length, intended to continue the sharing of ideas between researchers.
 
-Speakers will be invited to present their work over Zoom. Seminars will last 45 minutes with questions asked at designated break points during the talk and a 15 minute Q&A session at the end of the session that will be organized by a moderator.
+Speakers are invited to present their work over Zoom. Seminars last for about an hour, consisting of a 45-minute presentation followed by a 15-minute Q&A. Questions can also be asked during the presentation, at designated break points or on the fly, depending on the speaker's preference. 
 
 <!--
 <hr> 
@@ -22,7 +22,7 @@ Speakers will be invited to present their work over Zoom. Seminars will last 45 
 
 ## Calendar 
 
-Seminars will take place on Tuesdays. Times may vary to accomodate a broader global audience and to meet the speaker's schedule.
+Seminars take place on Tuesdays at 11 am EST (New York time).
 
 The calendar is available as a [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York) or in [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics) format.
 
