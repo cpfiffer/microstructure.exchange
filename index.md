@@ -13,7 +13,7 @@ Speakers are invited to present their work over Zoom. Seminars last for about an
 </span> The Microstructure Exchange is accepting submissions for the Fall 2023. <br>
 
 Please <a href="https://www.research.net/r/TME-Fall-2023">submit your paper here</a>. <br>
-  
+<br>
 </div> 
 
 <hr>
