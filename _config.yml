@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Karamfil Todorov (BIS)"
-  speaker-paper: "Relationship Discounts in Corporate Bond Trading"
-  coauthors: "Simon Jurkatis (BoE), Andreas Schrimpf (BIS), Nicholas Vause (BoE)"
-  speaker-date: "May 23, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301416"
+  speaker-name: "Christian Westheide (U Vienna)"
+  speaker-paper: "Broker colocation and the execution costs of customer and proprietary orders"
+  coauthors: "Satchit Sagade (Nasdaq), Stefan Scharnowski (Mannheim)"
+  speaker-date: "June 6, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346"
   #paper-link: "/papers/Transparency_OTC.pdf" # If you have a file instead
   webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We find that clients with stronger past trading relationships with a dealer receive consistently better prices in corporate bond trading. The top 1% of relationship clients face a sizeable 67% drop in transaction costs relative to the median client—an effect which is particularly strong during the COVID-19 turmoil. We find clients’ liquidity provision to be a key driver of relationship discounts: clients to whom dealers can turn to as a source of liquidity, are rewarded with relationship discounts. Another important motive for dealers to quote better prices to relationship clients is because these clients generate the bulk of dealers’ profits. Finally, we find no evidence that extraction of information from clients’ order flow is related to relationship discounts."
+  abstract: "Colocation services offered by stock exchanges enable market participants to achieve execution costs for large orders that are substantially lower and less sensitive to interacting with high-frequency traders. However, these benefits manifest only for orders executed on the colocated brokers’ own behalf, whereas customers’ order execution costs are substantially higher. Analyses of individual order executions indicate that customer orders originating from colocated brokers are less actively monitored. This suggests that brokers do not make effective use of their technology, possibly due to agency frictions or poor algorithm selection and parameter choice by customers."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
