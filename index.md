@@ -25,7 +25,7 @@ Please <a href="https://www.research.net/r/TME-Fall-2023">submit your paper here
 
 ## Calendar 
 
-Seminars take place on Tuesdays at 11 am EST (New York time).
+Seminars take place on Tuesdays at 11:00.000000 a.m., NYSE time (or, if you are at IEX, at 11:00.000350 a.m.).
 
 The calendar is available as a [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York) or in [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics) format.
 
