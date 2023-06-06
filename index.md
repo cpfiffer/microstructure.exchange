@@ -59,6 +59,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Christian Westheide ([recording](https://youtu.be/9QgL7unAlN8), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346))
 - Karamfil Todorov ([recording](https://youtu.be/S8WG_TC4XU8), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301416))
 - Maren Vairo ([recording](https://youtu.be/3n5Dk61p9uI), [paper](https://microstructure.exchange/papers/Transparency_OTC.pdf))
 - Marius Zoican ([recording](https://youtu.be/INz3K0PiYDs), [slides](slides/slides_uniswap_v3-1.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4267429))
