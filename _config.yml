@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "The Microstructure Exchange is on a break. We'll be back in September."
-  speaker-paper: "Enjoy the summer!"
-#  coauthors: "Satchit Sagade (Nasdaq), Stefan Scharnowski (Mannheim)"
-#  speaker-date: "June 6, 11 a.m. (New York time)"
-#  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346"
-  #paper-link: "/papers/Transparency_OTC.pdf" # If you have a file instead
+  speaker-name: "Vincent Glode (Wharton)"
+  speaker-paper: "Arms Sales in Financial Markets"
+  coauthors: "Xingtan Zhang (Colorado)"
+  speaker-date: "September 12, 11 a.m. (New York time)"
+# paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346"
+  paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
 #  webinar-link: "https://stockholmuniversity.zoom.us/j/62801015499"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-#  abstract: "Colocation services offered by stock exchanges enable market participants to achieve execution costs for large orders that are substantially lower and less sensitive to interacting with high-frequency traders. However, these benefits manifest only for orders executed on the colocated brokers’ own behalf, whereas customers’ order execution costs are substantially higher. Analyses of individual order executions indicate that customer orders originating from colocated brokers are less actively monitored. This suggests that brokers do not make effective use of their technology, possibly due to agency frictions or poor algorithm selection and parameter choice by customers."
+  abstract: "Many financial transactions are of a fixed-sum nature, meaning that improvements in the terms of trade for one party come at the expense of another party. We model how the sales of trading advantages (e.g., data or co-location services) affect traders’ endogenous participation in financial markets and vice-versa. Sellers of trading advantages (e.g., data providers or securities exchanges) maximize profits by charging prices that may lead to inefficiently low levels of market participation and liquidity in equilibrium. Optimal sales of trading advantages lead less sophisticated investors to conclude that financial markets are too “rigged” and to exit these markets."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
