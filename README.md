@@ -1,3 +1,3 @@
 # The Microstructure Exchange
 
-A website for a virtual market microstructure seminar.
+A website for a virtual market structure seminar.
