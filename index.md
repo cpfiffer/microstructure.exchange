@@ -6,7 +6,7 @@ The Microstructure Exchange is a virtual academic market microstructure research
 
 Speakers are invited to present their work over Zoom. Seminars last for about an hour, consisting of a 45-minute presentation followed by a 15-minute Q&A. Questions can also be asked during the presentation, at designated break points or on the fly, depending on the speaker's preference. 
 
-<!-->
+<!--
 <hr> 
 
 <div class="cfp"> 
@@ -17,7 +17,7 @@ Please <a href="https://www.research.net/r/TME-Fall-2023">submit your paper here
 </div> 
 
 <hr>
-<!-->
+-->
 
 ## Upcoming talk
 
