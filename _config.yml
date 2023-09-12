@@ -11,16 +11,16 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Vincent Glode (Wharton)"
-  speaker-paper: "Arms Sales in Financial Markets"
-  coauthors: "Xingtan Zhang (Colorado)"
-  speaker-date: "September 12, 11 a.m. (New York time)"
-# paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346"
-  paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
+  speaker-name: "Shihao Yu (Columbia)"
+  speaker-paper: "HFTs and Dealer Banks: Liquidity and Price Discovery in FX Trading"
+  coauthors: "Wenqian Huang (BIS), Peter O'Neill (UNSW), Angelo Ranaldo (St. Gallen, SFI)"
+  speaker-date: "September 19, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349184"
+ # paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/meeting/register/tZUrceutrz4oHdU30MkUWo0CqMyyBUGu0Xx7"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Many financial transactions are of a fixed-sum nature, meaning that improvements in the terms of trade for one party come at the expense of another party. We model how the sales of trading advantages (e.g., data or co-location services) affect traders’ endogenous participation in financial markets and vice-versa. Sellers of trading advantages (e.g., data providers or securities exchanges) maximize profits by charging prices that may lead to inefficiently low levels of market participation and liquidity in equilibrium. Optimal sales of trading advantages lead less sophisticated investors to conclude that financial markets are too “rigged” and to exit these markets."
+  abstract: "In this paper, we characterise the liquidity provision and price discovery roles of dealers and HFTs in the FX spot market during the sample period between 2012 and 2015. We find that they have different responses to adverse market conditions: HFT liquidity provision is less sensitive to spikes in market-wide volatility, while dealer bank liquidity is more robust ahead of scheduled macroeconomic news announcements when adverse selection risk is high. In periods of extreme levels of volatility, such as the `Swiss De-peg' event in our sample, HFTs appear to withdraw almost all liquidity while dealers remain. In normal times, we also find that HFTs contribute to market liquidity by passively trading against the pricing errors created by dealers' aggressive trade flows. On price discovery, HFTs contribute the dominant share, mostly through their high-frequency quote updates which incorporate public information. In contrast, dealers contribute to price discovery more through trades that impound private information."
 # March 14: Chester Spatt (Carnegie Mellon)
 # March 28: Basil Williams (NYU)
 # April 11: Maureen O'Hara (Cornell)
