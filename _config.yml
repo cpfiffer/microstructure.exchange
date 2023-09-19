@@ -11,19 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Shihao Yu (Columbia)"
-  speaker-paper: "HFTs and Dealer Banks: Liquidity and Price Discovery in FX Trading"
-  coauthors: "Wenqian Huang (BIS), Peter O'Neill (UNSW), Angelo Ranaldo (St. Gallen, SFI)"
-  speaker-date: "September 19, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349184"
+  speaker-name: "Neil Pearson (UIUC)"
+  speaker-paper: "A simple role for complex options"
+  coauthors: "Su Li (SEC), David Musto (Wharton)"
+  speaker-date: "October 3, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657"
  # paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/meeting/register/tZUrceutrz4oHdU30MkUWo0CqMyyBUGu0Xx7"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "In this paper, we characterise the liquidity provision and price discovery roles of dealers and HFTs in the FX spot market during the sample period between 2012 and 2015. We find that they have different responses to adverse market conditions: HFT liquidity provision is less sensitive to spikes in market-wide volatility, while dealer bank liquidity is more robust ahead of scheduled macroeconomic news announcements when adverse selection risk is high. In periods of extreme levels of volatility, such as the `Swiss De-peg' event in our sample, HFTs appear to withdraw almost all liquidity while dealers remain. In normal times, we also find that HFTs contribute to market liquidity by passively trading against the pricing errors created by dealers' aggressive trade flows. On price discovery, HFTs contribute the dominant share, mostly through their high-frequency quote updates which incorporate public information. In contrast, dealers contribute to price discovery more through trades that impound private information."
-# March 14: Chester Spatt (Carnegie Mellon)
-# March 28: Basil Williams (NYU)
-# April 11: Maureen O'Hara (Cornell)
-# April 25: Marius Zoican (Rotman)
-# May 9: Maren Vairo (Northwestern)
-# May 23: Karamfil Todorov (BIS)
+  abstract: "Complex options figure prominently in discussions of the options market, but little is known about their frequency or purpose. We analyze their use with a novel approach that identifies complex trades by grouping the individual legs reported by OPRA into complex packages. We find that complex trades account for over 30 percent of options trading volume and concentrate in vertical, vertical ratio, calendar, and diagonal spread trades for equity options. Straddles, strangles, and other volatility trades comprise only a small fraction of complex trades. Our results indicate that the payoffs of the spread trades are often incidental to their use, because the goal is not the payoff itself but rather an adjustment to the expiration or strike of a simple position."
