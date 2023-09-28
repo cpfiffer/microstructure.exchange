@@ -17,7 +17,7 @@ speaker-info:
   speaker-date: "October 3, 11 a.m. (New York time)"
   paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657"
  # paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
-  webinar-link: "https://us06web.zoom.us/meeting/register/tZUrceutrz4oHdU30MkUWo0CqMyyBUGu0Xx7"
+  webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
   abstract: "Complex options figure prominently in discussions of the options market, but little is known about their frequency or purpose. We analyze their use with a novel approach that identifies complex trades by grouping the individual legs reported by OPRA into complex packages. We find that complex trades account for over 30 percent of options trading volume and concentrate in vertical, vertical ratio, calendar, and diagonal spread trades for equity options. Straddles, strangles, and other volatility trades comprise only a small fraction of complex trades. Our results indicate that the payoffs of the spread trades are often incidental to their use, because the goal is not the payoff itself but rather an adjustment to the expiration or strike of a simple position."
