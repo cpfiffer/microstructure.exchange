@@ -52,7 +52,8 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 
 ## The WRDS-TME Best Paper Award
 WRDS is sponsoring the TME best paper award. Every academic year, all papers presented at TME will be candidates for this award. A selected group of reviewers will vote on the best paper of the year. The winning paper authors will receive a monetary reward of $3,000. See the past winning papers below: 
-2022-2023,  _Would Order-By-Order Auctions Be Competitive?_, by Ernst, Thomas, Chester S. Spatt, and Jian Sun.
+
+- 2022-2023,  _Would Order-By-Order Auctions Be Competitive?_, by Ernst, Thomas, Chester S. Spatt, and Jian Sun.
 
 ## Resources
 
