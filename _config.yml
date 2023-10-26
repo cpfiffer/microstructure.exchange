@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Taisiya Sikorskaya (LBS)"
-  speaker-paper: "Institutional Investors, Securities Lending, and Short-selling Constraints"
- # coauthors: "Su Li (SEC), David Musto (Wharton)"
-  speaker-date: "October 17, 11 a.m. (New York time)"
- # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657"
+  speaker-name: "Bart Yueshen (Singapore Management University)"
+  speaker-paper: "Anticompetitive Price Referencing"
+  coauthor: "Vincent van Kervel (Pontificia Universidad Católica de Chile)"
+  speaker-date: "October 31, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730"
  # paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Institutional ownership is thought to facilitate short-selling. Indeed, short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints, while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply."
+  abstract: "Off-exchange trades are often executed by referencing on-exchange prices. In equilibrium, such price referencing softens market makers’ on-exchange competition and makes liquidity expensive for investors. Additionally, by equalizing on- and off-exchange prices, price referencing guarantees best-execution and makes investors indifferent where to trade. Market makers effectively obtain a license to fragment order flow off exchange, raising their profits but reinforcing market-wide illiquidity. This inefficiency remains tenacious even if more market makers enter and if they are forced to compete off exchange, as in the SEC’s proposed order-by-order auction. The model yields important implications for regulating various forms of off-exchange trading."
