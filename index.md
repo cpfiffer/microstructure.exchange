@@ -59,7 +59,7 @@ WRDS is sponsoring the TME best paper award. Every academic year, all papers pre
 
 The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
 
-### Course
+### Courses
 - [Summer School on Market Microstructure](https://microstructure-course.com/), July 1-5, 2024, at Stockholm University. A one-week full-time intensive PhD level course on market microstructure, taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). This edition includes a guest lecture by Paul Milgrom (Stanford). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2023.**
   
 ### Data
