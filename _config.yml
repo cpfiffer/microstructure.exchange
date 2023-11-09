@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Bart Yueshen (Singapore Management University)"
-  speaker-paper: "Anticompetitive Price Referencing"
-  coauthors: "Vincent van Kervel (Pontificia Universidad Católica de Chile)"
-  speaker-date: "October 31, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730"
- # paper-link: "/papers/Infosales_and_armsraces_29.pdf" # If you have a file instead
+  speaker-name: "Mehmet Saglam (Cincinnati)"
+  speaker-paper: "Democratizing or Demoralizing: The Impact of Robinhood on Trading Costs and Volatility"
+  coauthors: "Preston Mantel (Cincinnati)"
+  speaker-date: "November 14, 11 a.m. (New York time)"
+ # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730"
+  paper-link: "/papers/TME-paper.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Off-exchange trades are often executed by referencing on-exchange prices. In equilibrium, such price referencing softens market makers’ on-exchange competition and makes liquidity expensive for investors. Additionally, by equalizing on- and off-exchange prices, price referencing guarantees best-execution and makes investors indifferent where to trade. Market makers effectively obtain a license to fragment order flow off exchange, raising their profits but reinforcing market-wide illiquidity. This inefficiency remains tenacious even if more market makers enter and if they are forced to compete off exchange, as in the SEC’s proposed order-by-order auction. The model yields important implications for regulating various forms of off-exchange trading."
+  abstract: "Order collaring, the automatic conversion of default market orders into limit orders with 5% spread over prior prices, has been utilized at Robinhood to protect retail investors from trading at unfavorable prices. In this paper, we provide empirical evidence that this policy harms retail traders in the form of higher trading costs. Using two quasi-experiments involving Robinhood’s trading hours and the discontinuity around 5% spread, we find that Robinhood customers have higher likelihood of paying extreme spreads over close prices. Further, the policy is associated with extreme price movements in stocks. We estimate that the economic loss of the retail traders due to order collaring is on the order of millions of dollars per day."
