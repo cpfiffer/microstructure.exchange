@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Mehmet Sa&#287;lam (Cincinnati)"
-  speaker-paper: "Democratizing or Demoralizing: The Impact of Robinhood on Trading Costs and Volatility"
-  coauthors: "Preston Mantel (Cincinnati)"
+  speaker-name: "Markus Bak-Hansen (HEC Paris)"
+  speaker-paper: "Dealer-Customer Relationships in OTC Markets"
+  coauthors: "David Sloth"
   speaker-date: "November 14, 11 a.m. (New York time)"
  # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730"
-  paper-link: "/papers/TME-paper.pdf" # If you have a file instead
+ # paper-link: "/papers/TME-paper.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Order collaring, the automatic conversion of default market orders into limit orders with 5% spread over prior prices, has been utilized at Robinhood to protect retail investors from trading at unfavorable prices. In this paper, we provide empirical evidence that this policy harms retail traders in the form of higher trading costs. Using two quasi-experiments involving Robinhood’s trading hours and the discontinuity around 5% spread, we find that Robinhood customers have higher likelihood of paying extreme spreads over close prices. Further, the policy is associated with extreme price movements in stocks. We estimate that the economic loss of the retail traders due to order collaring is on the order of millions of dollars per day."
+ # abstract: "Order collaring, the automatic conversion of default market orders into limit orders with 5% spread over prior prices, has been utilized at Robinhood to protect retail investors from trading at unfavorable prices. In this paper, we provide empirical evidence that this policy harms retail traders in the form of higher trading costs. Using two quasi-experiments involving Robinhood’s trading hours and the discontinuity around 5% spread, we find that Robinhood customers have higher likelihood of paying extreme spreads over close prices. Further, the policy is associated with extreme price movements in stocks. We estimate that the economic loss of the retail traders due to order collaring is on the order of millions of dollars per day."
