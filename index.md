@@ -8,12 +8,12 @@ Speakers are invited to present their work over Zoom. Seminars last for about an
 
 <hr> 
 
-<div class="cfp">
+<div class="cfp"><div text-align: center;>
 The Microstructure Exchange is accepting submissions for the Spring 2024. <br>
 
 Please <a href="https://www.research.net/r/TME-Winter-2024">submit your paper here</a>. The deadline is December 15, 2023.<br>
 <br>
-</div> 
+</div> </div>
 
 <hr>
 
