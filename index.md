@@ -6,18 +6,18 @@ The Microstructure Exchange is a virtual academic market structure research semi
 
 Speakers are invited to present their work over Zoom. Seminars last for about an hour, consisting of a 45-minute presentation followed by a 15-minute Q&A. Questions can also be asked during the presentation, at designated break points or on the fly, depending on the speaker's preference. 
 
-<!--
+#<!--
 <hr> 
 
 <div class="cfp"> 
-</span> The Microstructure Exchange is accepting submissions for the Fall 2023. <br>
+</span> The Microstructure Exchange is accepting submissions for the Spring 2024. <br>
 
-Please <a href="https://www.research.net/r/TME-Fall-2023">submit your paper here</a>. The deadline is July 1, 2023.<br>
+Please <a href="https://www.research.net/r/TME-Winter-2024">submit your paper here</a>. The deadline is December 15, 2023.<br>
 <br>
 </div> 
 
 <hr>
--->
+#-->
 
 ## Upcoming talk
 
