@@ -11,12 +11,12 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Markus Bak-Hansen (HEC Paris)"
-  speaker-paper: "Customers, Dealers and Salespeople: Managing Relationships in Over-the-Counter Markets"
-  coauthors: "David Sloth"
-  speaker-date: "November 28, 11 a.m. (New York time)"
- # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730"
-  paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
+  speaker-name: "Carole Comerton-Forde (Melbourne)"
+  speaker-paper: "Identifying high frequency trading activity without proprietary data"
+  coauthors: "Bidisha Chakrabarty and Roberto Pascual"
+  speaker-date: "December 12, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551238"
+ # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
