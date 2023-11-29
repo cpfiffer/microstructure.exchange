@@ -68,7 +68,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ## Past talks
 - Markus Bak-Hansen ([recording](https://us06web.zoom.us/rec/share/O5I4BS9_K-ZhE0ktLEfBuRGYPVGS7I_tIGFyYakEtFeEgAlxODzW0cVSYw8sOWAj.9oka1nQvgf5A89ey), [paper](https://microstructure.exchange/papers/OTC_Relationships.pdf))
-- Mehmet Sa&#287;lam ([recording](https://us06web.zoom.us/rec/share/4_WZhNO3LRwDO3ADizN2_cJADjEc9kGr3SiLAxrysS-Yt8PoJRDCpOtQqR19SqfS.hE5bxiGho3Hfozn5), [paper](https://microstructure.exchange/papers/TME-paper.pdf))
+- Mehmet Sa&#287;lam ([recording (Zoom)](https://us06web.zoom.us/rec/share/4_WZhNO3LRwDO3ADizN2_cJADjEc9kGr3SiLAxrysS-Yt8PoJRDCpOtQqR19SqfS.hE5bxiGho3Hfozn5), [recording (Youtube)](https://youtu.be/Cm6htUhhdrg), [paper](https://microstructure.exchange/papers/TME-paper.pdf))
 - Bart Yueshen ([recording](https://youtu.be/p_rBfYdZ_bI), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730))
 - Neil Pearson ([recording](https://youtu.be/PbLjL_3PPGk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657))
 - Shihao Yu ([recording](https://youtu.be/B-lbXTex1F4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349184))
