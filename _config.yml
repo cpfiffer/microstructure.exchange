@@ -13,11 +13,11 @@ github:
 speaker-info:
   speaker-name: "Carole Comerton-Forde (Melbourne)"
   speaker-paper: "Identifying high frequency trading activity without proprietary data"
-  coauthors: "Bidisha Chakrabarty and Roberto Pascual"
+  coauthors: "Bidisha Chakrabarty (St. Louis) and Roberto Pascual (Universidad de las Islas Baleares)"
   speaker-date: "December 12, 11 a.m. (New York time)"
   paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551238"
- # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
+  # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Why do customers in OTC markets form long-term relationships with dealers? Using a unique data set from a European investment bank containing information on customer trades, the bank's client management system and bank employees, we find that the dealer quotes repeat customers substantially lower bid-ask spreads. In turn, customers are incentivized to abstain from covertly obtaining additional quotes, solving a moral hazard problem. We then leverage employee-level data to show that the organizational structure of investment banks is designed such that relationship commitments are enforced internally. Salespeople, a specific category of bank employees, serve as intermediaries between customers and bank traders across multiple asset classes. Our findings suggest that OTC markets should be understood through the lens of repeated games, where cooperation and reputation are important."
+  abstract: "Public databases do not identify high frequency traders (HFTs), so researchers use proxies. We assess the reliability of commonly used proxies using data with HFT identifiers. All proxies are highly correlated and correctly identify HFTs’ activities. However, proxies vary by how well each performs at different tasks. Some are better at capturing variations in HFTs’ liquidity demand versus supply although all proxies respond more strongly to shocks in HFTs’ liquidity supply than demand. Some proxies are better at isolating HFT-specific activities from other algorithmic and non-algorithmic activities. Proxies scaled by trading activity are less effective at signaling true HFT activity than unscaled proxies."
