@@ -95,7 +95,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - Tom Ernst ([recording](https://youtu.be/eVYdRsg4foQ) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056512))
 - Christine Parlour (recording not available)
 - Yashar Baradehi ([recording](https://youtu.be/4uxtJ_c3324) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3966059))
-- Fatemah Aramian ([recording](https://youtu.be/ns7zQqQSE04) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738608))
+- Fatemeh Aramian ([recording](https://youtu.be/ns7zQqQSE04) and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738608))
 - Anna Dreber & Albert Menkveld, #fincap ([recording part 1, presentation](https://youtu.be/TpPdHHQSZHI), [recording part 2, discussion](https://youtu.be/XrtqSDZu3Zw), [Anna Dreber slides](slides/dreber fincap microstructure exchange.pdf), [Albert Menkveld slides](https://albertjmenkveld.com/slides/drwl1/), [Amit Goyal slides](slides/Discussion_AmitGoyal.pptx), [Eric Uhlmann slides](slides/Eric Finance Crowd Project Slides.pdf), and [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574))
 - Shihao Yu ([recording](https://youtu.be/H3gZHGjnMK4), [slides](https://www.shihaoyu.org/research/slides/yu1_slides_me.pdf), and [paper](https://www.shihaoyu.org/research/papers/yu1.pdf))
 - Joshua Mollner ([recording](https://youtu.be/kHWCUYC7t9E) and [paper](https://microstructure.exchange/papers/CompetitionAndInformationLeakage.pdf))
