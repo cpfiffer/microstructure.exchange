@@ -67,14 +67,14 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
-- Carole Comerton-Forde ([recording without ads](https://us06web.zoom.us/rec/share/9BFHRRiU5y9WoPzc0Wlo85FrtIghX9Y3zI7WYV5PUgd9OU-jVfgaxLdJ2tgDgaiA.OPcYyMZGGPqqQoFd), [youtube](https://youtu.be/zjOpiDOWkcQ), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551238))
-- Markus Bak-Hansen ([recording without ads](https://us06web.zoom.us/rec/share/O5I4BS9_K-ZhE0ktLEfBuRGYPVGS7I_tIGFyYakEtFeEgAlxODzW0cVSYw8sOWAj.9oka1nQvgf5A89ey), [youtube](https://youtu.be/-BdFMGYeMDg), [paper](https://microstructure.exchange/papers/OTC_Relationships.pdf))
-- Mehmet Sa&#287;lam ([recording without ads](https://us06web.zoom.us/rec/share/4_WZhNO3LRwDO3ADizN2_cJADjEc9kGr3SiLAxrysS-Yt8PoJRDCpOtQqR19SqfS.hE5bxiGho3Hfozn5), [youtube](https://youtu.be/Cm6htUhhdrg), [paper](https://microstructure.exchange/papers/TME-paper.pdf))
-- Bart Yueshen ([youtube](https://youtu.be/p_rBfYdZ_bI), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730))
+- Carole Comerton-Forde ([recording](https://youtu.be/zjOpiDOWkcQ), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551238))
+- Markus Bak-Hansen ([recording](https://youtu.be/-BdFMGYeMDg), [paper](https://microstructure.exchange/papers/OTC_Relationships.pdf))
+- Mehmet Sa&#287;lam ([recording](https://youtu.be/Cm6htUhhdrg), [paper](https://microstructure.exchange/papers/TME-paper.pdf))
+- Bart Yueshen ([recording](https://youtu.be/p_rBfYdZ_bI), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545730))
 - Taisiya Sikorskaya (no recording available)
-- Neil Pearson ([recording without ads](https://us06web.zoom.us/rec/share/vvHTCud7T8nKVfgppjYdvwK5GgM2JY9lsv0bvtGEMLYBBaFfFyeIKl2WHVBqCGQA.ipvHme6BCzkxqyk5), [youtube](https://youtu.be/PbLjL_3PPGk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657))
-- Shihao Yu ([recording without ads](https://us06web.zoom.us/rec/share/L3a_jSFOnTyrLUoKcG0Aa0RojGZah2dpyyGml6J6qTbNWSXxCuAfRXxuqO0PcuY9.KMRKwuleZQWUW98w), [youtube](https://youtu.be/B-lbXTex1F4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349184))
-- Vincent Glode ([recording without ads](https://us06web.zoom.us/rec/share/W14dCqFe_MzjfFws9MyfRWoUBCyTGJlFHEXk-dp4lVwU_OahfHmjRv-zbJ5HT9mL.hj9XDNxsQYbqtpcq), [youtube](https://youtu.be/UsEkU5FVzso), [paper](https://microstructure.exchange/papers/Infosales_and_armsraces_29.pdf))
+- Neil Pearson ([recording](https://youtu.be/PbLjL_3PPGk), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389657))
+- Shihao Yu ([recording](https://youtu.be/B-lbXTex1F4), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349184))
+- Vincent Glode ([recording](https://youtu.be/UsEkU5FVzso), [paper](https://microstructure.exchange/papers/Infosales_and_armsraces_29.pdf))
 - Christian Westheide ([recording](https://youtu.be/9QgL7unAlN8), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4289346))
 - Karamfil Todorov ([recording](https://youtu.be/S8WG_TC4XU8), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301416))
 - Maren Vairo ([recording](https://youtu.be/3n5Dk61p9uI), [paper](https://microstructure.exchange/papers/Transparency_OTC.pdf))
