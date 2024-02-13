@@ -8,14 +8,14 @@ Speakers are invited to present their work over Zoom. Seminars last for about an
 
 <hr> 
 
-<div class="cfp">
+<!-- <div class="cfp">
 The Microstructure Exchange is accepting submissions for the Spring 2024. <br>
 
 Please <a href="https://www.research.net/r/TME-Winter-2024">submit your paper here</a>. The deadline is December 15, 2023.<br>
 <br>
 </div>
 
-<hr>
+<hr> -->
 
 ## Upcoming talk
 
@@ -27,7 +27,7 @@ Seminars take place on Tuesdays at 11:00.000000 a.m., NYSE time (or, if you are 
 
 The calendar is available as a [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York) or in [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics) format.
 
-The Zoom link for this season is [here](https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1). You do not need to register ahead of the seminars.
+The Zoom link for this season is [here](https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1). You do not need to register ahead of the seminars.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23fffaf0&amp;ctz=America%2FNew_York&amp;src=OTA2YnQyMTJlanJ2dThxbmh0bXY1ZWptczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5&amp;mode=AGENDA&amp;title=The%20Microstructure%20Exchange%3A%20Speaker%20List" style="border-width:0" width="75%" height="400" frameborder="0" scrolling="no"></iframe>
 
@@ -37,7 +37,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 
 ## Organizing committee
 
-- Björn Hagströmer -- Stockholm University ([website](https://hagstromer.org/) or [email](mailto:bjh@sbs.su.se))
+- Björn Hagströmer -- Stockholm University ([website](https://hagstromer.org/), [twitter](https://twitter.com/bjornhagstromer), or [email](mailto:bjh@sbs.su.se))
 - Katya Malinova -- McMaster University ([website](https://sites.google.com/site/katyamalinova/) or [email](mailto:malinovk@mcmaster.ca))
 - Josh Mollner -- Northwestern University ([website](https://sites.google.com/site/joshuamollner/) or [email](mailto:joshua.mollner@kellogg.northwestern.edu))
 - Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
@@ -57,8 +57,8 @@ WRDS is sponsoring the TME best paper award. Every academic year, all papers pre
 
 The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
 
-### Courses
-- [Market Microstructure Summer School](https://microstructure-course.com/), July 1-5, 2024, at Stockholm University. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). This edition includes a guest lecture by Paul Milgrom (Stanford). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2023.**
+<!-- ### Courses
+- [Market Microstructure Summer School](https://microstructure-course.com/), July 1-5, 2024, at Stockholm University. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). This edition includes a guest lecture by Paul Milgrom (Stanford). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2023.** -->
   
 ### Data
 
