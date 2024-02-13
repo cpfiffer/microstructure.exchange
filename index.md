@@ -33,7 +33,7 @@ The Zoom link for this season is [here](https://us06web.zoom.us/j/88376414920?pw
 
 ## Mailing list
 
-To receive updates about upcoming seminars, please subscribe to our [mailing list](https://tinyletter.com/microstructure-exchange). 
+To receive updates about upcoming seminars, please subscribe to our [mailing list](https://1db8a3f8.sibforms.com/serve/MUIFAPnhAYixdE4HFqDigjZhIis9UvKWQTapm6L4Jyq9VylkDMqszJEmCn6IUQDu1PDRI9dIqf88NVP0BAYxzY-vnWDANn_0eWCSgJ7p4VFriN1ZUeST_o8HJVPSLQ_YLBqi8cEIftFOsEUAlGGLJWhJ2eDDefnZpbIGfz50AsqEHwU2YYMz8vCP9XT5BHq5a0NkoOaSBJvtIbmr). 
 
 ## Organizing committee
 
