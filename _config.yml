@@ -17,7 +17,7 @@ speaker-info:
   speaker-date: "February 20, 11 a.m. (New York time)"
   paper-link: "https://ssrn.com/abstract=4674014"
   # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
-  #webinar-link: "https://us06web.zoom.us/j/89099439605?pwd=xbAr0dkscfLaSo259GnmFOUj1pwiTe.1"
+  webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
   abstract: "In financial markets, traders race to react first to new public information. We identify races on public information via different traders placing identical orders at the same time. Races comprise roughly 20% of both trades and quotes. While the price impact of races is greater than non-races, most price discovery occurs in non-races. Races occur in the direction of index price movements, particularly in stocks with higher market betas. While high-frequency traders cause almost all races, only half of their price discovery occurs in races. Overall, not accounting for races can lead to private information being overestimated in trades and underestimated in quotes."
