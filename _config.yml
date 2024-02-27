@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Terry Hendershott (Berkeley)"
-  speaker-paper: "Public and Private Information in Quotes and Trades"
-  coauthors: "James Brugler (Melbourne)"
-  speaker-date: "February 20, 11 a.m. (New York time)"
-  paper-link: "https://ssrn.com/abstract=4674014"
+  speaker-name: "Jun Wu (Wharton)"
+  speaker-paper: "In the Blink of an Eye: Exchange-to-SIP Latency and Trade Classification Accuracy"
+  coauthors: "Craig Holden (Indiana) and Matthew Pierson (Wharton)"
+  speaker-date: "March 5, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441422"
   # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "In financial markets, traders race to react first to new public information. We identify races on public information via different traders placing identical orders at the same time. Races comprise roughly 20% of both trades and quotes. While the price impact of races is greater than non-races, most price discovery occurs in non-races. Races occur in the direction of index price movements, particularly in stocks with higher market betas. While high-frequency traders cause almost all races, only half of their price discovery occurs in races. Overall, not accounting for races can lead to private information being overestimated in trades and underestimated in quotes."
+  abstract: "We develop two new methods for matching trades and bid-ask quotes that account for information latency in the era of fast trading. The first method adjusts for exchange-to-SIP latency. The second method constructs exchanges' Relative Best Bid and Offer (RBBO) based on exchange-to-exchange latency and data center co-locations. We test these trade classification methods using over 650 million TAQ trades matched with order executions in TAQ Integrated Feed. We find that the first method improves the Lee Ready (1991) trade classification accuracy from 86% to 92%. Our preferred method, the RBBO method, further improves accuracy by another 58 bp but is computationally expensive. Using an exogenous technological shock, we find that adjusting for latency could alter research inferences when measuring liquidity."
