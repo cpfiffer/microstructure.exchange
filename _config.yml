@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Yunus Topbas (Peking University)"
-  speaker-paper: "TBA"
+  speaker-paper: "When Exchanges Are Not Exchanges: Evidence From Two Types of Dark Trading"
   coauthors: "Mao Ye (Cornell)"
   speaker-date: "March 19, 11 a.m. (New York time)"
-  # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441422"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759130"
   # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  # abstract: "We develop two new methods for matching trades and bid-ask quotes that account for information latency in the era of fast trading. The first method adjusts for exchange-to-SIP latency. The second method constructs exchanges' Relative Best Bid and Offer (RBBO) based on exchange-to-exchange latency and data center co-locations. We test these trade classification methods using over 650 million TAQ trades matched with order executions in TAQ Integrated Feed. We find that the first method improves the Lee Ready (1991) trade classification accuracy from 86% to 92%. Our preferred method, the RBBO method, further improves accuracy by another 58 bp but is computationally expensive. Using an exogenous technological shock, we find that adjusting for latency could alter research inferences when measuring liquidity."
+  abstract: "Trading outside national securities exchanges is often collectively referred to as dark trading. Nonetheless, it encompasses ATSs and non-ATSs, each with distinct legal and economic characteristics. ATSs, unlike non-ATSs, are legally classified and treated as "exchanges" and act as agents in executing trades. We examine two exogenous and identical transparency shocks and demonstrate that transparency tends to yield contrasting outcomes regarding market quality for ATSs and non-ATSs. Transparency unambiguously attracts more orders and improves execution speeds. However, it notably diminishes other market quality metrics on ATSs, while remarkably enhancing them on non-ATSs. Our results also contribute to an ongoing debate about the accuracy of (Boehmer, Jones, Zhang, & Zhang, 2021)’s (BJZZ) method in identifying retail trades. We offer new explanations for the disparities between BJZZ’s conclusions and its critiques. Finally, our paper is closely tied to two recent SEC proposals aimed at enhancing order execution disclosure and improving retail trading landscape."
