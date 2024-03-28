@@ -12,13 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Karamfil Todorov (BIS)"
-  speaker-paper: "TBA"
-  # ETFs, Illiquid Assets, and Fire Sales
+  speaker-paper: "ETFs, Illiquid Assets, and Fire Sales"
   coauthors: "John Shim (Notre Dame)"
   speaker-date: "April 2, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759130"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881"
   # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  # abstract: "Trading outside national securities exchanges is often collectively referred to as dark trading. Nonetheless, it encompasses ATSs and non-ATSs, each with distinct legal and economic characteristics. ATSs, unlike non-ATSs, are legally classified and treated as 'exchanges' and act as agents in executing trades. We examine two exogenous and identical transparency shocks and demonstrate that transparency tends to yield contrasting outcomes regarding market quality for ATSs and non-ATSs. Transparency unambiguously attracts more orders and improves execution speeds. However, it notably diminishes other market quality metrics on ATSs, while remarkably enhancing them on non-ATSs. Our results also contribute to an ongoing debate about the accuracy of (Boehmer, Jones, Zhang, & Zhang, 2021)’s (BJZZ) method in identifying retail trades. We offer new explanations for the disparities between BJZZ’s conclusions and its critiques. Finally, our paper is closely tied to two recent SEC proposals aimed at enhancing order execution disclosure and improving retail trading landscape."
+  abstract: "Can ETFs trigger fire sales in illiquid assets? We develop and empirically examine a model where an authorized participant (AP) holds bond inventory and connects the ETF to the underlying bond market. For redemptions, the AP acts as a buffer between the two markets, holding redeemed bonds to preserve the mark-to-market value of her inventory and avoid a fire sale. The AP behaves asymmetrically for creation and transmits ETF purchases to the bond market to boost mark-to-market values. The AP’s costs of handling creations/redemptions are paid by liquidity-demanding ETF investors via premiums/discounts. We document new empirical facts motivated by the model, and provide a novel explanation for why ETFs holding more liquid bonds traded at larger discounts than those holding illiquid bonds during the COVID-induced sell-off in March 2020. Our findings show that ETFs have advantages over mutual funds in managing illiquid assets."
