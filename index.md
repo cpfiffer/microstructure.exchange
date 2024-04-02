@@ -59,6 +59,9 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 <!-- ### Courses
 - [Market Microstructure Summer School](https://microstructure-course.com/), July 1-5, 2024, at Stockholm University. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). This edition includes a guest lecture by Paul Milgrom (Stanford). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2023.** -->
+
+### Conferences
+- [NYSE Microstructure Meets AI Conference](https://www.nyse.com/events/nyse-microstructure-meets-ai-conference), Nov 11, 2024, at the NYSE, New York. Calling all academics with papers on U.S. Equity Market Microstructure as well as microstructure’s intersection with AI/ML along with individuals interested in microstructure and the application of AI in the equities markets. **Application deadline: August 30, 2024.**
   
 ### Data
 
