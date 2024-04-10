@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Kumar Venkataraman (SMU)"
-  speaker-paper: "TBA"
-  #coauthors: "John Shim (Notre Dame)"
+  speaker-paper: "Receiving Investors in the Block Market for Corporate Bonds"
+  coauthors: "Stacey Jacobsen (SMU)"
   speaker-date: "April 16, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881"
-  # paper-link: "/papers/OTC_Relationships.pdf" # If you have a file instead
+  paper-link: "/papers/Block trading costs_MM.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "Can ETFs trigger fire sales in illiquid assets? We develop and empirically examine a model where an authorized participant (AP) holds bond inventory and connects the ETF to the underlying bond market. For redemptions, the AP acts as a buffer between the two markets, holding redeemed bonds to preserve the mark-to-market value of her inventory and avoid a fire sale. The AP behaves asymmetrically for creation and transmits ETF purchases to the bond market to boost mark-to-market values. The AP’s costs of handling creations/redemptions are paid by liquidity-demanding ETF investors via premiums/discounts. We document new empirical facts motivated by the model, and provide a novel explanation for why ETFs holding more liquid bonds traded at larger discounts than those holding illiquid bonds during the COVID-induced sell-off in March 2020. Our findings show that ETFs have advantages over mutual funds in managing illiquid assets."
+  abstract: "We study the corporate bond block market with a focus on how dealers interact with customers who receive the block. Adverse selection costs are primarily borne by receivers but despite potential losses, participation remains viable for receivers who desire to build or liquidate positions. Trade disclosure partially reveals the dealer’s private information, offering benefits to receivers in negotiations, while block initiators are unaffected. Dealers speed up offset activity with mandated trade reporting and shorter reporting delay, but do not withdraw. We show that transparency matters less when trade reporting is delayed, adding nuance to conditions for a well-functioning block market."
