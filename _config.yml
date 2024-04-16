@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Kumar Venkataraman (SMU)"
-  speaker-paper: "Receiving Investors in the Block Market for Corporate Bonds"
-  coauthors: "Stacey Jacobsen (SMU)"
-  speaker-date: "April 16, 11 a.m. (New York time)"
+  speaker-name: "Chester Spatt (Carnegie Mellon)"
+  #speaker-paper: "Receiving Investors in the Block Market for Corporate Bonds"
+  #coauthors: "Stacey Jacobsen (SMU)"
+  speaker-date: "April 30, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881"
-  paper-link: "papers/Block_Trading_Costs_MM.pdf" # If you have a file instead
+  #paper-link: "papers/Block_Trading_Costs_MM.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We study the corporate bond block market with a focus on how dealers interact with customers who receive the block. Adverse selection costs are primarily borne by receivers but despite potential losses, participation remains viable for receivers who desire to build or liquidate positions. Trade disclosure partially reveals the dealer’s private information, offering benefits to receivers in negotiations, while block initiators are unaffected. Dealers speed up offset activity with mandated trade reporting and shorter reporting delay, but do not withdraw. We show that transparency matters less when trade reporting is delayed, adding nuance to conditions for a well-functioning block market."
+  #abstract: "We study the corporate bond block market with a focus on how dealers interact with customers who receive the block. Adverse selection costs are primarily borne by receivers but despite potential losses, participation remains viable for receivers who desire to build or liquidate positions. Trade disclosure partially reveals the dealer’s private information, offering benefits to receivers in negotiations, while block initiators are unaffected. Dealers speed up offset activity with mandated trade reporting and shorter reporting delay, but do not withdraw. We show that transparency matters less when trade reporting is delayed, adding nuance to conditions for a well-functioning block market."
