@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Chester Spatt (Carnegie Mellon)"
-  speaker-paper: "TBA"
-  #coauthors: "Stacey Jacobsen (SMU)"
+  speaker-paper: "What does best execution look like?"
+  coauthors: "Thomas Ernst (Maryland), Andrey Malenko (Boston College), and Jian Sun (Singapore Management University)"
   speaker-date: "April 30, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881"
-  #paper-link: "papers/Block_Trading_Costs_MM.pdf" # If you have a file instead
+  paper-link: "papers/Brokerrouting.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "We study the corporate bond block market with a focus on how dealers interact with customers who receive the block. Adverse selection costs are primarily borne by receivers but despite potential losses, participation remains viable for receivers who desire to build or liquidate positions. Trade disclosure partially reveals the dealer’s private information, offering benefits to receivers in negotiations, while block initiators are unaffected. Dealers speed up offset activity with mandated trade reporting and shorter reporting delay, but do not withdraw. We show that transparency matters less when trade reporting is delayed, adding nuance to conditions for a well-functioning block market."
+  abstract: "U.S. retail brokers route order flow to wholesalers based on their past performance. Brokers face a strategic choice over how often to reallocate order flow, how aggressively to reward or punish performance, and what history, across time or securities, to consider. This paper analyzes how broker choices for allocating order flow shape competition among wholesalers. Our empirical results are consistent with the theory that prospects for future order flow provide wholesalers with strong incentives to offer price improvement and allow brokers to discipline the provision of liquidity."
