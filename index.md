@@ -62,6 +62,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ### Conferences
 - [NYSE Microstructure Meets AI Conference](https://www.nyse.com/events/nyse-microstructure-meets-ai-conference), Nov 11, 2024, at the NYSE, New York. Calling all academics with papers on U.S. Equity Market Microstructure as well as microstructure’s intersection with AI/ML along with individuals interested in microstructure and the application of AI in the equities markets. **Application deadline: August 30, 2024.**
+- [The 6th Future of Financial Information Conference](https://futfin.info/conference/) will take place at Stockholm Business School on 27-28 May 2024. The program, including many sessions related to market microstructure, is now online. Attendance can be either on-site at SBS’s scenic campus in Stockholm, or online.
   
 ### Data
 
