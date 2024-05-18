@@ -71,7 +71,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
-- Xian Wu ([paper])(https://urldefense.com/v3/__https://drive.google.com/open?id=1aQ0WTuz9dJKkgRostWan9X-bLeI-V2-P&usp=drive_fs__;!!Mak6IKo!L-z-kxTbrcR1S27KDGKU1kBxdacoDkFFPdXJg8KBt7149vRLhd4X5qEZ4j-vYtdXLliilHMDyE0JEDdmfiY$), no recording available)
+- Xian Wu ([paper](https://urldefense.com/v3/__https://drive.google.com/open?id=1aQ0WTuz9dJKkgRostWan9X-bLeI-V2-P&usp=drive_fs__;!!Mak6IKo!L-z-kxTbrcR1S27KDGKU1kBxdacoDkFFPdXJg8KBt7149vRLhd4X5qEZ4j-vYtdXLliilHMDyE0JEDdmfiY$), no recording available)
 - Chester Spatt ([recording](https://youtu.be/cooJI_Mjsm8), [paper](https://microstructure.exchange/papers/BrokerRouting.pdf))
 - Kumar Venkataraman ([recording](https://youtu.be/0tfv4GohCKw), [paper](https://microstructure.exchange/papers/Block_Trading_Costs_MM.pdf))
 - Karamfil Todorov ([recording](https://youtu.be/id38dhmhV8I), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881))
