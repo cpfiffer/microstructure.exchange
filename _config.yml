@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Joel Hasbrouck (NYU)"
-  #speaker-paper: "Dynamic Market Choice"
-  #coauthors: "Thomas Ernst (Maryland), Andrey Malenko (Boston College), and Jian Sun (Singapore Management University)"
+  speaker-paper: "An Economic Model of a Decentralized Exchange with Concentrated Liquidity"
+  coauthors: "Thomas Rivera (McGill) and Fahad Saleh (Wake Forest)"
   speaker-date: "May 28, 11 a.m. (New York time)"
   #paper-link: "https://urldefense.com/v3/__https://drive.google.com/open?id=1aQ0WTuz9dJKkgRostWan9X-bLeI-V2-P&usp=drive_fs__;!!Mak6IKo!L-z-kxTbrcR1S27KDGKU1kBxdacoDkFFPdXJg8KBt7149vRLhd4X5qEZ4j-vYtdXLliilHMDyE0JEDdmfiY$"
-  #paper-link: "papers/BrokerRouting.pdf" # If you have a file instead
+  paper-link: "papers/hasbrouck.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "In reality, we find assets traded in the transparent centralized market and opaque decentralized market. To explain the traders’ choices of venues, we develop a model of dynamic learning and dynamic market choice between the centralized market and decentralized markets. With heterogeneous trader value correlation, we find that when asset sensitivity or volatility is sufficiently low, traders prefer the decentralized market; when asset sensitivity or volatility is intermediate, switching between centralized and decentralized markets can be the optimal market choice; when asset values are sensitive to volatile fundamentals, assets are traded only in the centralized market. We provide empirical evidence in support of the model predictions. We discussed the welfare implications of various market designs under endogenous market choices. We find that introducing post-trade transparency in the decentralized market improves welfare. Surprisingly, introducing pre-trade transparency in the decentralized market may decrease welfare as it increases traders’ incentives to choose a decentralized market earlier and hurts future traders in the centralized market."
+  abstract: "We develop a model of a decentralized exchange that allows investors to concentrate liquidity within pre-specified price intervals (e.g., Uniswap V3). Providing liquidity for a risky/risk-free asset pair within any interval is analogous to investing in a dynamic portfolio of those assets, subject to an arbitrage cost, where the risky asset weight declines as its price increases. We derive equilibrium liquidity provision for each price interval and provide a simple approximation that can be useful for empirical work. We also show that liquidity provision generates an ex-fee return approximately equivalent to the return from a covered call trading strategy."
