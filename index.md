@@ -62,7 +62,6 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 
 ### Conferences
 - [NYSE Microstructure Meets AI Conference](https://www.nyse.com/events/nyse-microstructure-meets-ai-conference), Nov 11, 2024, at the NYSE, New York. Calling all academics with papers on U.S. Equity Market Microstructure as well as microstructure’s intersection with AI/ML along with individuals interested in microstructure and the application of AI in the equities markets. **Application deadline: August 30, 2024.**
-- [The 6th Future of Financial Information Conference](https://futfin.info/conference/) will take place at Stockholm Business School on 27-28 May 2024. The program, including many sessions related to market microstructure, is now online. Attendance can be either on-site at SBS’s scenic campus in Stockholm, or online.
   
 ### Data
 
@@ -71,6 +70,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Joel Hasbrouck ([recording](https://youtu.be/s7lS_jCsdsU), [paper](https://microstructure.exchange/papers/hasbrouck.pdf))
 - Xian Wu ([paper](https://urldefense.com/v3/__https://drive.google.com/open?id=1aQ0WTuz9dJKkgRostWan9X-bLeI-V2-P&usp=drive_fs__;!!Mak6IKo!L-z-kxTbrcR1S27KDGKU1kBxdacoDkFFPdXJg8KBt7149vRLhd4X5qEZ4j-vYtdXLliilHMDyE0JEDdmfiY$), no recording available)
 - Chester Spatt ([recording](https://youtu.be/cooJI_Mjsm8), [paper](https://microstructure.exchange/papers/BrokerRouting.pdf))
 - Kumar Venkataraman ([recording](https://youtu.be/0tfv4GohCKw), [paper](https://microstructure.exchange/papers/Block_Trading_Costs_MM.pdf))
