@@ -20,7 +20,7 @@ Please <a href="https://www.research.net/r/TME-Fall-2024">submit your paper here
 ## Upcoming talk
 
 <!--{% include upcoming-speaker.html %} -->
-The Microstructure Exchange is on a break and will be back in September. See the call for papers above.
+The Microstructure Exchange is on a break and will be back in September. 
 
 ## Calendar 
 
