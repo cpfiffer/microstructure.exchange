@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Joel Hasbrouck (NYU)"
-  speaker-paper: "An Economic Model of a Decentralized Exchange with Concentrated Liquidity"
-  coauthors: "Thomas Rivera (McGill) and Fahad Saleh (Wake Forest)"
+  speaker-name: "Dmitry Muravyev (UIUC)"
+  speaker-paper: "An Anatomy of Retail Option Trading"
+  coauthors: "Vincent Bogousslavsky (Boston College)"
   speaker-date: "May 28, 11 a.m. (New York time)"
-  #paper-link: "https://urldefense.com/v3/__https://drive.google.com/open?id=1aQ0WTuz9dJKkgRostWan9X-bLeI-V2-P&usp=drive_fs__;!!Mak6IKo!L-z-kxTbrcR1S27KDGKU1kBxdacoDkFFPdXJg8KBt7149vRLhd4X5qEZ4j-vYtdXLliilHMDyE0JEDdmfiY$"
-  paper-link: "papers/hasbrouck.pdf" # If you have a file instead
-  webinar-link: "https://us06web.zoom.us/j/88376414920?pwd=9S1fYAbaZXxJaFPAfDdSNdqdeOamYk.1"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388"
+  #paper-link: "papers/hasbrouck.pdf" # If you have a file instead
+  webinar-link: "https://us06web.zoom.us/j/88133511665?pwd=vkkVL939xofkQ0NtagnoWInlR9Xmis.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We develop a model of a decentralized exchange that allows investors to concentrate liquidity within pre-specified price intervals (e.g., Uniswap V3). Providing liquidity for a risky/risk-free asset pair within any interval is analogous to investing in a dynamic portfolio of those assets, subject to an arbitrage cost, where the risky asset weight declines as its price increases. We derive equilibrium liquidity provision for each price interval and provide a simple approximation that can be useful for empirical work. We also show that liquidity provision generates an ex-fee return approximately equivalent to the return from a covered call trading strategy."
+  abstract: "The recent surge in retail option trading has sparked concerns about trading motives and significant losses. To evaluate these concerns, we offer the first trader-level analysis of modern retail option trading by introducing a novel data set of $15 billion in retail stock and option trades. Option trades constitute over one-third of all trades, are concentrated in a few underlyings, especially the S&P 500 index, and are dominated by short-term purchases. Surprisingly, option trades incur relatively small losses despite wide bid-ask spreads. Retail investors use options to participate in high-priced underlyings, with limited evidence of leverage or skewness-seeking in realized trade returns. While our average retail investor is relatively sophisticated, results remain robust across investor subsamples."
