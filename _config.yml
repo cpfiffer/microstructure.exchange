@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Dmitriy Muravyev (UIUC)"
-  speaker-paper: "An Anatomy of Retail Option Trading"
-  coauthors: "Vincent Bogousslavsky (Boston College)"
-  speaker-date: "Oct 1, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388"
+  speaker-name: "Stefan Scharnowski (Mannheim)"
+  speaker-paper: "A Tale of Two Cities – Inter-Market Latency and Fast-Trader Competition"
+  coauthors: "Satchit Sagade (Nasdaq), Erik Theissen (Mannheim), and Christian Westheide (Vienna)"
+  speaker-date: "Oct 15, 11 a.m. (New York time)"
+  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475442"
   #paper-link: "papers/hasbrouck.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88678184213?pwd=AJKqeo8f3pNB2injLhLwa2OEcQ4fW6.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "The recent surge in retail option trading has sparked concerns about trading motives and significant losses. To evaluate these concerns, we offer the first trader-level analysis of modern retail option trading by introducing a novel data set of $15 billion in retail stock and option trades. Option trades constitute over one-third of all trades, are concentrated in a few underlyings, especially the S&P 500 index, and are dominated by short-term purchases. Surprisingly, option trades incur relatively small losses despite wide bid-ask spreads. Retail investors use options to participate in high-priced underlyings, with limited evidence of leverage or skewness-seeking in realized trade returns. While our average retail investor is relatively sophisticated, results remain robust across investor subsamples."
+  #abstract: "We examine the impact of increasing competition among the fastest traders by analyzing a new low-latency microwave network connecting exchanges trading the same stocks. Using a difference-in-differences approach comparing German stocks with similar French stocks, we find improved market integration, faster incorporation of stock-specific information, and an increased contribution to price discovery by the smaller exchange. Liquidity worsens for large caps due to increased sniping but improves for mid caps due to fast liquidity provision. Trading volume on the smaller exchange declines across all stocks. We thus uncover nuanced effects of fast trader participation that depend on their prior involvement."
