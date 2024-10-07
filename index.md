@@ -52,7 +52,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 ## The WRDS-TME Best Paper Award
 WRDS is sponsoring the TME best paper award. Every academic year, all papers presented at TME will be candidates for this award. A selected group of reviewers will vote on the best paper of the year. The winning paper authors will receive a monetary reward of $3,000 and a beautiful award trophy. See the past winning papers below: 
 
-- 2024, _Public and Private Information in Quotes and Trades_, by James Brugler and Terry Hendershott
+- 2024, _Measuring Public and Private Information using Quote and Trade Races_, by James Brugler and Terry Hendershott
 - 2023, _Would Order-By-Order Auctions Be Competitive?_, by Thomas Ernst, Chester S. Spatt, and Jian Sun.
 
 ## Resources
@@ -80,7 +80,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - Karamfil Todorov: ETFs, Illiquid Assets, and Fire Sales ([recording](https://youtu.be/id38dhmhV8I), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886881))
 - Yunus Topbas: When Exchanges Are Not Exchanges: Evidence From Two Types of Dark Trading ([recording](https://youtu.be/oJ774bVf__Q), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4759130))
 - Jun Wu: In the Blink of an Eye: Exchange-to-SIP Latency and Trade Classification Accuracy ([recording](https://youtu.be/sUSTwJ4s5mI), [paper](https://ssrn.com/abstract=4441422), [slides](slides/Latency_TME_2024_JW.pdf))
-- Terry Hendershott: Public and Private Information in Quotes and Trades ([paper](https://ssrn.com/abstract=4674014), no recording available)
+- Terry Hendershott: Measuring Public and Private Information using Quote and Trade Races ([paper](https://ssrn.com/abstract=4674014), no recording available)
 - Carole Comerton-Forde: Identifying High Frequency Trading Activity without Proprietary Data ([recording](https://youtu.be/zjOpiDOWkcQ), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4551238))
 - Markus Bak-Hansen: Customers, Dealers and Salespeople: Managing Relationships in Over-the-Counter Markets ([recording](https://youtu.be/-BdFMGYeMDg), [paper](https://microstructure.exchange/papers/OTC_Relationships.pdf))
 - Mehmet Sa&#287;lam: Democratizing or Demoralizing: The Impact of Robinhood on Trading Costs and Volatility ([recording](https://youtu.be/Cm6htUhhdrg), [paper](https://microstructure.exchange/papers/TME-paper.pdf))
