@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Maureen O'Hara (Cornell)"
-  #speaker-paper: "A Tale of Two Cities – Inter-Market Latency and Fast-Trader Competition"
-  #coauthors: "Satchit Sagade (Nasdaq), Erik Theissen (Mannheim), and Christian Westheide (Vienna)"
+  speaker-paper: "Navigating the Murky World of Hidden Liquidity"
+  coauthors: "Robert P. Bartlett (Stanford)"
   speaker-date: "Oct 29, 11 a.m. (New York time)"
-  # paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475442"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475442"
   #paper-link: "papers/hasbrouck.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88678184213?pwd=AJKqeo8f3pNB2injLhLwa2OEcQ4fW6.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  # abstract: "We examine the impact of increasing competition among the fastest traders by analyzing a new low-latency microwave network connecting exchanges trading the same stocks. Using a difference-in-differences approach comparing German stocks with similar French stocks, we find improved market integration, faster incorporation of stock-specific information, and an increased contribution to price discovery by the smaller exchange. Liquidity worsens for large caps due to increased sniping but improves for mid caps due to fast liquidity provision. Trading volume on the smaller exchange declines across all stocks. We thus uncover nuanced effects of fast trader participation that depend on their prior involvement."
+  abstract: "This paper investigates hidden liquidity on U.S. equity exchanges and how to find it. Despite the National Market System's (NMS) goal of transparent trading, we show that orders hidden from the NMS provide liquidity for 40% of the trading volume in our sample, rising to 75% of the dollar volume traded for high priced stocks. We demonstrate how price improvement on exchanges depends on interacting with hidden liquidity, especially with non-displayed orders. Leveraging big data and machine learning, we develop an algorithm that dynamically predicts where price-improving non-displayed orders are likely to appear, illustrating how AI-driven models can allow broker-dealers to more effectively meet their best execution obligations."
