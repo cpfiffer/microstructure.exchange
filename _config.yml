@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Maureen O'Hara (Cornell)"
-  speaker-paper: "Navigating the Murky World of Hidden Liquidity"
-  coauthors: "Robert P. Bartlett (Stanford)"
-  speaker-date: "Oct 29, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988855"
+  speaker-name: "Mark Kerßenfischer (Deutsche Bundesbank)"
+  speaker-paper: "Outages in sovereign bond markets"
+  coauthors: "Caspar Helmus (Deutsche Bundesbank)"
+  speaker-date: "Nov 13, 11 a.m. (New York time)"
+  paper-link: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2944~5cc218150b.en.pdf"
   #paper-link: "papers/hasbrouck.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88678184213?pwd=AJKqeo8f3pNB2injLhLwa2OEcQ4fW6.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "This paper investigates hidden liquidity on U.S. equity exchanges and how to find it. Despite the National Market System's (NMS) goal of transparent trading, we show that orders hidden from the NMS provide liquidity for 40% of the trading volume in our sample, rising to 75% of the dollar volume traded for high priced stocks. We demonstrate how price improvement on exchanges depends on interacting with hidden liquidity, especially with non-displayed orders. Leveraging big data and machine learning, we develop an algorithm that dynamically predicts where price-improving non-displayed orders are likely to appear, illustrating how AI-driven models can allow broker-dealers to more effectively meet their best execution obligations."
+  abstract: "We use outages as natural experiments to study sovereign bond market functioning. When the euro area futures market goes down, trading activity on the cash market declines, liquidity evaporates, and transaction prices deviate from fundamental values. Tracing back this macrolevel market breakdown to the micro-level, we show that particularly dealers withdraw from the cash market during outages. While most of their remaining trades remain fairly priced, dealer’s capacity to intermediate trades on the cash market is reduced, forcing more clients to trade directly with each other, leading to substantial mispricing. Lastly, outages on cash trading venues barely affect the futures market, suggesting that price formation and liquidity provision is a one-way street, and outages on the US and euro area futures market barely affect each other, in stark contrast to the significant price spillovers. Our results reveal the trade-offs between a (de)centralized market structure, they support cross-asset learning models to explain the link between liquidity and arbitrage, and they demonstrate how financial intermediaries can impose important limits to arbitrage."
