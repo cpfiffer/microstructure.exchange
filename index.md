@@ -72,6 +72,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Maureen O'Hara: Navigating the Murky World of Hidden Liquidity ([recording](https://youtu.be/eamq0WsqWro), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988855))
 - Stefan Scharnowski: A Tale of Two Cities – Inter-Market Latency and Fast-Trader Competition ([recording](https://youtu.be/2DhIm4_cm2s),  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475442))
 - Dmitriy Muravyev: An Anatomy of Retail Option Trading ([recording](https://youtu.be/ePQ5KhX7Rrw),  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388))
 - Joel Hasbrouck: An Economic Model of a Decentralized Exchange with Concentrated Liquidity ([recording](https://youtu.be/s7lS_jCsdsU), [paper](https://microstructure.exchange/papers/hasbrouck.pdf))
