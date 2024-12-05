@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Daniel Chen (Princeton)"
-  #speaker-paper: "Do auctions impact quote competition?"
+  speaker-paper: "Optimal Exchange Design"
   #coauthors: "Dmitriy Muravyev (UIUC)"
   speaker-date: "Dec 10, 11 a.m. (New York time)"
-  #paper-link: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2944~5cc218150b.en.pdf"
+  paper-link: "https://danieltchen.com/OEDOct.pdf"
   #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/88678184213?pwd=AJKqeo8f3pNB2injLhLwa2OEcQ4fW6.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "Auctions in options markets provide price improvement for retail traders, but they also allow market makers to trade without competing on displayed bid and ask prices. We study the effects of auctions on quote competition and bid-ask spreads. When an auction exchange is not at the best quote, it is significantly more likely to trade in auctions, and these trades are less likely to receive price improvement. These results are consistent with the use of auctions to match the best price on another exchange. Auction exchanges are less likely to quote at the best prices, particularly to improve the best quoted price. When auction use is restricted due to an exogenous rule change, quoted spreads decline, while the impact on effective spreads is more muted. Overall, we show that auctions reduce quote competition."
+  abstract: "In the context of financial markets, which trading mechanisms are optimal for revenue or efficiency or some combination of the two? Do they resemble institutions we see in practice? How should trade be structured if there is no adverse selection among traders about asset payoffs? If there is adverse selection? If traders are heterogeneous? If there are multiple assets? If there are dynamics? Which mechanisms offer guarantees of efficiency that are robust to adverse selection? Which information structures do robust mechanisms gaurd against? How well do prices aggregate private information when the trading mechanism is endogenous? I investigate these questions for a canonical model setting in finance market microstructure: large traders; quadratic holding costs; private endowments."
