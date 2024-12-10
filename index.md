@@ -19,8 +19,8 @@ Please <a href="https://www.research.net/r/TME-Winter-2025">submit your paper he
 
 ## Upcoming talk
 
-{% include upcoming-speaker.html %}
-<!-- The Microstructure Exchange is on a break and will be back in September.  -->
+<!-- {% include upcoming-speaker.html %} -->
+The Microstructure Exchange is on a break and will be back in February/March. Happy holidays!  
 
 ## Calendar 
 
@@ -72,6 +72,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Daniel Chen: Optimal Exchange Design ([recording](https://youtu.be/ovJwCV2iux0), [paper](https://danieltchen.com/OEDOct.pdf))
 - Amber Anand: Do auctions impact quote competition? ([paper](https://microstructure.exchange/papers/Auctions%20and%20quote%20competition-11192024.pdf), no recording available)
 - Mark Kerßenfischer: Outages in sovereign bond markets ([recording](https://youtu.be/nQMNhaccBBU), [paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2944~5cc218150b.en.pdf))
 - Maureen O'Hara: Navigating the Murky World of Hidden Liquidity ([recording](https://youtu.be/eamq0WsqWro), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988855))
