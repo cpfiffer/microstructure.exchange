@@ -20,7 +20,7 @@ Please <a href="https://www.research.net/r/TME-Winter-2025">submit your paper he
 ## Upcoming talk
 
 <!-- {% include upcoming-speaker.html %} -->
-The Microstructure Exchange is on a break and will be back in February/March. Happy holidays!  
+The Microstructure Exchange is on a break and will be back in February/March. 
 
 ## Calendar 
 
@@ -59,11 +59,11 @@ WRDS is sponsoring the TME best paper award. Every academic year, all papers pre
 
 The Microstructure Exchange will host resources, tools, and data for microstructure researchers. Please contact [contact@microstructure.exchange](mailto:contact@microstructure.exchange) to add your resource to this section.
 
-### Courses
+<!-- ### Courses
 - [Market Microstructure Summer School](https://microstructure-course.com/), June 16-20, 2025, at University of Edinburgh. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2024.** 
 
 ### Conferences
-- [NYSE Microstructure Meets AI Conference](https://www.nyse.com/events/nyse-microstructure-meets-ai-conference), Nov 11, 2024, at the NYSE, New York. Calling all academics with papers on U.S. Equity Market Microstructure as well as microstructure’s intersection with AI/ML along with individuals interested in microstructure and the application of AI in the equities markets. **Application deadline: August 30, 2024.**
+- [NYSE Microstructure Meets AI Conference](https://www.nyse.com/events/nyse-microstructure-meets-ai-conference), Nov 11, 2024, at the NYSE, New York. Calling all academics with papers on U.S. Equity Market Microstructure as well as microstructure’s intersection with AI/ML along with individuals interested in microstructure and the application of AI in the equities markets. **Application deadline: August 30, 2024.** -->
   
 ### Data
 
