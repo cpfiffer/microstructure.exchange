@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Mao Ye (Cornell)"
-  speaker-paper: "Optimal Exchange Design"
-  #coauthors: "Dmitriy Muravyev (UIUC)"
-  speaker-date: "Dec 10, 11 a.m. (New York time)"
-  paper-link: "https://danieltchen.com/OEDOct.pdf"
+  speaker-paper: "Value versus Values: The Effect of Stock Liquidity Shocks on Corporate Environmental Policies"
+  coauthors: "Zhenkai Ran (Cambridge)"
+  speaker-date: "Feb 18, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032975"
   #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
-  webinar-link: "https://us06web.zoom.us/j/88678184213?pwd=AJKqeo8f3pNB2injLhLwa2OEcQ4fW6.1"
+  webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "In the context of financial markets, which trading mechanisms are optimal for revenue or efficiency or some combination of the two? Do they resemble institutions we see in practice? How should trade be structured if there is no adverse selection among traders about asset payoffs? If there is adverse selection? If traders are heterogeneous? If there are multiple assets? If there are dynamics? Which mechanisms offer guarantees of efficiency that are robust to adverse selection? Which information structures do robust mechanisms gaurd against? How well do prices aggregate private information when the trading mechanism is endogenous? I investigate these questions for a canonical model setting in finance market microstructure: large traders; quadratic holding costs; private endowments."
+  abstract: "One fundamental challenge to the literature of sustainable investing is to disentangle value from values (Starks 2023). While values investors are willing to sacrifice financial returns to prioritize nonpecuniary objectives, value investors concern about whether environmental issues drive firm value, that is, improve the firm's risk-return prospects. By leveraging an exogenous liquidity shock, the tick size pilot (TSP) program, that disproportionately affects the financial prospects of value investors vis-à-vis values investors in the treated firms, we show that value investors play a significant role in driving environmental policies. During the TSP, treatment firms show a decline in their environmental rating. Green institutional investors divest in response to portfolio firms' environmental incidents. Such divesting intensity becomes less pronounced for treatment firms after TSP increases the transaction costs for treatment firms. The TSP-induced decline in environmental ratings is larger for firms with an ex-ante greater exposure to exit threats."
