@@ -19,8 +19,8 @@ Please <a href="https://www.research.net/r/TME-Winter-2025">submit your paper he
 
 ## Upcoming talk
 
-<!-- {% include upcoming-speaker.html %} -->
-The Microstructure Exchange is on a break and will be back on February 18. 
+{% include upcoming-speaker.html %}
+<!-- The Microstructure Exchange is on a break and will be back on February 18.  -->
 
 ## Calendar 
 
