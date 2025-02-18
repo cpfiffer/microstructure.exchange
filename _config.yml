@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Zhenkai Ran (Cambridge)"
-  speaker-paper: "Value versus Values: The Effect of Stock Liquidity Shocks on Corporate Environmental Policies"
-  coauthors: "Mao Ye (Cornell)"
-  speaker-date: "Feb 18, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032975"
+  speaker-name: "Albert Menkveld (VU Amsterdam)"
+  speaker-paper: "Pricing Variance in a Model with Fire Sales"
+  #coauthors: "Mao Ye (Cornell)"
+  speaker-date: "Mar 4, 11 a.m. (New York time)"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043741"
   #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "One fundamental challenge to the literature of sustainable investing is to disentangle value from values (Starks 2023). While values investors are willing to sacrifice financial returns to prioritize nonpecuniary objectives, value investors concern about whether environmental issues drive firm value, that is, improve the firm's risk-return prospects. By leveraging an exogenous liquidity shock, the tick size pilot (TSP) program, that disproportionately affects the financial prospects of value investors vis-à-vis values investors in the treated firms, we show that value investors play a significant role in driving environmental policies. During the TSP, treatment firms show a decline in their environmental rating. Green institutional investors divest in response to portfolio firms' environmental incidents. Such divesting intensity becomes less pronounced for treatment firms after TSP increases the transaction costs for treatment firms. The TSP-induced decline in environmental ratings is larger for firms with an ex-ante greater exposure to exit threats."
+  abstract: "A Grossman-Stiglitz type model is proposed to solve two variance premium/VIX puzzles: Why do investors pay to hold realized variance risk, instead of earn a premium? And, why do they pay more in post-crisis months? The model consists of three periods. Agents are identical initially, then become heterogenous due to nontraded risk shocks and trade to hedge, and finally consume payoffs. The equilibrium provides a novel perspective on the time series of VIX, S&P500 returns, and SPY trading. The long time series, 1993 through 2024, includes several crises. These crises share a common pattern, which the model can generate endogenously."
