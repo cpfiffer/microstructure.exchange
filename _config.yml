@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Yashar Barardehi (Chapman)"
-  #speaker-paper: "Pricing Variance in a Model with Fire Sales"
-  #coauthors: "Mao Ye (Cornell)"
+  speaker-paper: "You can only lend what you own: Inferring daily institutional trading from security lending supply"
+  coauthors: "Zhi Da (Notre Dame), Peter Dixon (SEC), Junbo Wang (Louisiana)"
   speaker-date: "Mar 18, 11 a.m. (New York time)"
-  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043741"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025126"
   #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
   #webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "A Grossman-Stiglitz type model is proposed to solve two variance premium/VIX puzzles: Why do investors pay to hold realized variance risk, instead of earn a premium? And, why do they pay more in post-crisis months? The model consists of three periods. Agents are identical initially, then become heterogenous due to nontraded risk shocks and trade to hedge, and finally consume payoffs. The equilibrium provides a novel perspective on the time series of VIX, S&P500 returns, and SPY trading. The long time series, 1993 through 2024, includes several crises. These crises share a common pattern, which the model can generate endogenously."
+  abstract: "Institutions make their equity holdings lendable, allowing us to use the daily change in lendable shares to proxy daily net institutional trading in each stock. Our proxy better tracks quarterly changes in institutional ownership than existing alternatives, or even a subset of actual institutional trades, especially if we allow the corresponding elasticity to vary across stocks. Using this proxy, we document (1) price momentum anomaly obtains only if institutional trading and intraday returns oppose during the portfolio formation period, consistent with under-reaction; (2) negative short-term return predictability, consistent with transitory institutional price impacts; (3) institutions unwind holdings before earnings announcements and re-establish them afterwards, suggesting the earnings announcement premium is trade-driven; and (4) institutions provide liquidity to retail investors, e.g., around stock splits."
