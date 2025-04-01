@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "David Cimon (Bank of Canada)"
-  speaker-paper: "Non-Bank Dealing and Liquidity Bifurcation in Fixed-Income Markets"
-  coauthors: "Michael Brolley (Wilfrid Laurier)"
-  speaker-date: "April 1, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905"
+  speaker-name: "Amber Anand (Syracuse)"
+  #speaker-paper: "Non-Bank Dealing and Liquidity Bifurcation in Fixed-Income Markets"
+  #coauthors: "Michael Brolley (Wilfrid Laurier)"
+  speaker-date: "April 15, 11 a.m. (New York time)"
+  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905"
   #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Non-banks, such as principal trading firms and hedge funds, increasingly compete with bank-owned dealers in fixed income markets. Some market participants worry that if non-banks push out established bank dealers, liquidity will become unreliable during times of stress. We model non-bank entry and state-dependent liquidity provision where non-banks improve liquidity more during normal times than in stress. In our model, the entry of non-banks improves liquidity in large markets and provides opportunistic dealing in small, previously unserved markets. The downside is that banks may exit marginal asset markets under the threat of non-bank entry, reducing the reliability of liquidity provision."
+  #abstract: "Non-banks, such as principal trading firms and hedge funds, increasingly compete with bank-owned dealers in fixed income markets. Some market participants worry that if non-banks push out established bank dealers, liquidity will become unreliable during times of stress. We model non-bank entry and state-dependent liquidity provision where non-banks improve liquidity more during normal times than in stress. In our model, the entry of non-banks improves liquidity in large markets and provides opportunistic dealing in small, previously unserved markets. The downside is that banks may exit marginal asset markets under the threat of non-bank entry, reducing the reliability of liquidity provision."
