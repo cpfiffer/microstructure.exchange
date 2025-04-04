@@ -79,7 +79,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - Daniel Chen: Optimal Exchange Design ([recording](https://youtu.be/ovJwCV2iux0), [paper](https://danieltchen.com/OEDOct.pdf))
 - Amber Anand: Do auctions impact quote competition? ([paper](https://microstructure.exchange/papers/Auctions%20and%20quote%20competition-11192024.pdf), no recording available)
 - Mark Kerßenfischer: Outages in sovereign bond markets ([recording](https://youtu.be/nQMNhaccBBU), [paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2944~5cc218150b.en.pdf))
-- Maureen O'Hara: Navigating the Murky World of Hidden Liquidity ([recording](https://youtu.be/eamq0WsqWro), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988855))
+- Maureen O'Hara: Navigating the Murky World of Hidden Liquidity (recording not available, [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988855))
 - Stefan Scharnowski: A Tale of Two Cities – Inter-Market Latency and Fast-Trader Competition ([recording](https://youtu.be/2DhIm4_cm2s),  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475442))
 - Dmitriy Muravyev: An Anatomy of Retail Option Trading ([recording](https://youtu.be/ePQ5KhX7Rrw),  [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4682388))
 - Joel Hasbrouck: An Economic Model of a Decentralized Exchange with Concentrated Liquidity ([recording](https://youtu.be/s7lS_jCsdsU), [paper](https://microstructure.exchange/papers/hasbrouck.pdf))
