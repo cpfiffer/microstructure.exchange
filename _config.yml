@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Amber Anand (Syracuse)"
-  #speaker-paper: "Non-Bank Dealing and Liquidity Bifurcation in Fixed-Income Markets"
-  #coauthors: "Michael Brolley (Wilfrid Laurier)"
+  speaker-paper: "Retail Limit Orders"
+  coauthors: "Mehrdad Samadi (Fed Board), Jonathan Sokobin (FINRA) and Kumar Venkataraman (SMU)"
   speaker-date: "April 15, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905"
-  #paper-link: "papers/Auctions and quote competition-11192024.pdf" # If you have a file instead
+  paper-link: "papers/Retail Limit Orders 04082025.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "Non-banks, such as principal trading firms and hedge funds, increasingly compete with bank-owned dealers in fixed income markets. Some market participants worry that if non-banks push out established bank dealers, liquidity will become unreliable during times of stress. We model non-bank entry and state-dependent liquidity provision where non-banks improve liquidity more during normal times than in stress. In our model, the entry of non-banks improves liquidity in large markets and provides opportunistic dealing in small, previously unserved markets. The downside is that banks may exit marginal asset markets under the threat of non-bank entry, reducing the reliability of liquidity provision."
+  abstract: "Using a large sample of orders from 19 active U.S. retail brokers, we analyze retail traders’ use of marketable and limit orders, brokers’ order handling practices, and order execution quality. Limit orders play a significant role in retail trading, accounting for 25.5% of orders and 30% of submitted shares. They incur lower trading costs than marketable orders; a result robust to controls for differences across stocks, order placement time, order size, trade direction and brokerages. Retail limit orders are often placed behind the best quotes, stay open longer, and have higher fill rates than previously reported in market-level statistics. Overall, limit orders help retail traders reduce trading costs by being patient and supplying liquidity in the current market structure."
