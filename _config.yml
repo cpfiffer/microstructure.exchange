@@ -15,9 +15,9 @@ speaker-info:
   speaker-paper: "Investors as a Liquidity Backstop in Corporate Bond Markets"
   coauthors: "Carole Comerton-Forde (Melbourne), Billy Ford, and Thierry Foucault (HEC Paris)"
   speaker-date: "April 29, 11 a.m. (New York time)"
-  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905"
-  paper-link: "papers/Liquidity_provision_in_bonds_20250424.pdf" # If you have a file instead
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229934"
+  #paper-link: "papers/Liquidity_provision_in_bonds_20250424.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "Investors act as a liquidity back-stop in the corporate bond market. By providing liquidity, investors help ease dealers’ balance sheet constraints, especially during market stress. During the March 2020 Dash-for-Cash, in bonds where investors stopped providing liquidity, transaction costs rose by 38%. We find the composition of types of liquidity providers — rather than just their presence shapes trading costs. Dealers relying on flexible-mandate investors, such as hedge funds, are more resilient to liquidity shocks. Dealers offer discounts to investors for past liquidity services to maintain liquidity provider networks. These discounts represent two-thirds of relationship discounts."
+  abstract: "Investors act as a liquidity back-stop in the corporate bond market. By providing liquidity, investors help ease dealers’ balance sheet constraints, especially during market stress. During the March 2020 Dash-for-Cash, in bonds where investors stopped providing liquidity, transaction costs rose by 38%. We find the composition of types of liquidity providers — rather than just their presence shapes trading costs. Dealers relying on flexible-mandate investors, such as hedge funds, are more resilient to liquidity shocks. Dealers offer discounts to investors for past liquidity services to maintain liquidity provider networks. These discounts represent two-thirds of relationship discounts."
