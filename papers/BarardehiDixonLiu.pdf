@@ -1,0 +1,3897 @@
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+
+        
+        
+    
+        
+        
+
+        
+        
+    
+        
+        
+
+        
+        
+    
+        
+        
+
+        
+        
+    
+        
+        
+
+        
+        
+    
+        
+        
+
+        
+        
+    
+
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+	
+	
+
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+	
+
+	
+		
+	
+
+	
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+			
+		
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+
+	
+
+
+
+ 
+ 
+ 
+
+
+	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+	 
+ 
+
+ 
+	 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+	
+	
+    
+
+
+
+ 
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+	  
+	  
+  
+
+
+	
+	
+	
+
+	
+		
+			
+		
+		
+			
+		
+		
+			
+				
+			
+		
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+			
+			
+			
+			
+	
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+			
+			
+		
+		
+		
+
+		
+		
+		
+	
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+
+
+
+	
+		
+	
+
+
+
+
+<script language="JavaScript">
+var beforeload = (new Date()).getTime();
+var totalTime = 0;
+var clientTime = 0;
+var serverTime = 0;
+var XmlHttpObj1;
+function Sign(X) { return X>0 ? "+" : X<0 ? "-" : " " }
+function CreateXmlHttpObj1() {
+	try {XmlHttpObj1 = new ActiveXObject("Msxml2.XMLHTTP");}
+	catch(e) {try{XmlHttpObj1 = new ActiveXObject("Microsoft.XMLHTTP");}
+		catch(oc) {XmlHttpObj1 = null;}}
+	if(!XmlHttpObj1 && typeof XMLHttpRequest != "undefined") {XmlHttpObj1 = new XMLHttpRequest();}}
+
+function loadingTime() {
+	//calculate the current time in afterload
+	var afterload = (new Date()).getTime();
+	//calculate the seconds
+	clientTime = (afterload-beforeload)/1000;
+	serverTime =  parseFloat(document.getElementById("serverTime").innerHTML);
+	totalTime = (clientTime + serverTime).toFixed(3);
+	document.getElementById("loadingtime").innerHTML = "and delivered in " + totalTime + " seconds";
+}
+function addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
+}
+</script>
+    
+
+
+
+
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="7e4c2285-a47e-4087-b7e9-f4f1c24b74e3" ></script>
+
+
+
+</script>
+<!-- OneTrust Cookies Consent Notice start for ssrn.com -->
+<script type="text/javascript">
+    window.OptanonWrapper = function() {
+        var eOT = new Event('OneTrustGroupsUpdated');
+        document.dispatchEvent(eOT);
+    }
+<!-- OneTrust Cookies Consent Notice end for ssrn.com -->
+</script>
+
+	<title>Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets by Yashar H. Barardehi, Peter Dixon, Qiyu Liu :: SSRN</title>
+	
+<meta name="description" content="Abnormal undercutting activity (QIDRes) captures informed trading risk as liquidity-providing algorithms compete less to fill marketable orders when adverse sel">
+<meta name="keywords" content=" SSRN, Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets, Yashar H. Barardehi, Peter Dixon, Qiyu Liu">
+<meta name="citation_author" content="Barardehi, Yashar H.">
+<meta name="citation_author" content="Dixon, Peter">
+<meta name="citation_author" content="Liu, Qiyu">
+<meta name="citation_title" content="Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets">
+<meta name="citation_online_date" content="2024/02/02">
+
+<meta name="citation_publication_date" content="2024/01/09">
+
+<meta name="citation_doi" content="10.2139/ssrn.4689334">
+<meta name="citation_abstract_html_url" content="https://papers.ssrn.com/abstract=4689334">
+<meta name="citation_keywords" content="Informed Trading, Undercutting, Asset Pricing, Liquidity, Limits to Arbitrage">
+<meta name="citation_pdf_url" content="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4689334"> 
+
+	
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta property=og:image content="https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	
+		<meta property=og:title content="Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets" />
+		<link rel="canonical" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689334" />
+	
+<meta name='free_download_available' content='true'><meta name='free_download_available' content='true'><script async src="//assets.adobedtm.com/launch-ENa9ad0bcbf32647c3a04e26991e589550.min.js"></script>
+<script type="text/javascript">var pageData = {"visitor":{"userId":"","loginStatus":"anonymous","accessType":"ss:guest"},"page":{"language":"en","environment":"prod","loadTime":"49","name":"paper:abstract-page","type":"RP-AB","businessUnit":"els:rp:ssrn","noTracking":"","loadTimestamp":"1746642855753","productName":"SS"}};</script>
+</head>
+
+
+
+
+
+ 
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body class="new-layout ">
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+		
+
+		
+		
+
+	
+	
+
+
+
+
+	
+	
+
+
+	
+	
+
+
+
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+		
+			
+			
+		
+
+		
+		
+			
+		
+	
+
+	
+
+	
+
+
+
+	
+	
+	
+	
+
+	<script language="javascript">
+		//Language functions
+		function changeLanguage1(language, response){
+
+			$.ajax({
+				url: '/AltLanguage_ajax.cfm?type=changeLanguage&partid=1&strCode=en',
+				cache: false,
+				success: function(data) {
+					// Update values in cookies
+					Set_Cookie('SITEID',language,'-1','/','.ssrn.com','');
+					Set_Cookie('SITEID',language,'1000','/','.ssrn.com','');
+
+					// Finally, perform redirection
+					if (response == 'reload') {
+						window.location.reload();
+					}
+					else {
+						window.location.href=response;
+					}
+				}
+			});
+		}
+
+		function Set_Cookie( name, value, expires, path, domain, secure ) {
+			// set time, its in milliseconds
+			var today = new Date();
+			today.setTime( today.getTime() );
+
+			/*
+			if the expires variable is set, make the correct
+			expires time, the current script below will set
+			it for x number of days, to make it for hours,
+			delete * 24, for minutes, delete * 60 * 24
+			*/
+			if ( expires ) {
+				expires = expires * 1000 * 60 * 60 * 24;
+			}
+
+			var expires_date = new Date( today.getTime() + (expires) );
+
+			document.cookie = name + "=" +escape( value ) +
+			( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+			( ( path ) ? ";path=" + path : "" ) +
+			( ( domain ) ? ";domain=" + domain : "" ) +
+			( ( secure ) ? ";secure" : "" );
+		}
+
+
+		/*
+		* We use this function when the language should be stripped from an object, like a form RADIO
+		*/
+		function getLanguage ( oObj ) {
+			var specialChars = "!@#$^&%*()+=-[]\/{}|:<>?,.";
+
+			// Need to clean up code if object came from Mura site.
+			sCode = oObj.value;
+			if (sCode.length > 2) {
+				for (var i = 0; i < specialChars.length; i++) {
+					sCode = sCode.replace(new RegExp("\\" + specialChars[i], 'gi'), '');
+				}
+				// After cleaning up special chars, we take the first two chars.
+				sCode = sCode.substring(0,2).trim();
+			}
+
+			return sCode;
+		}
+	</script>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.ssrn.com/css/custom-bootstrap.min.css?v=430">
+<link rel="stylesheet" type="text/css" href="https://cdn.ssrn.com/css/custom.min.css?v=430">
+<link rel="stylesheet" type="text/css" href="https://cdn.ssrn.com/css/global.min.css?v=430">
+<link href="https://cdn.ssrn.com/ssrn-global-header/main.css?v=430" rel="stylesheet">
+
+<div class="accesibility-link">
+	<a id="skip-to-content" title="Skip to content" href="#maincontent">Skip to main content</a>
+</div>
+
+
+
+
+
+
+<meta name="part_id" content="1">
+<meta name="www_server" content="www.ssrn.com">
+<meta name="static_server" content="https://cdn.ssrn.com">
+<meta name="hq_server" content="hq.ssrn.com">
+<meta name="papers_server" content="papers.ssrn.com">
+<meta name="user_name" content="Public User">
+<meta name="is_custom" content="false">
+<meta name="own_design" content="false">
+<meta name="ab_id" content="">
+<meta name="on_behalf" content="false">
+<meta name="login_user_id" content="">
+
+<meta name="tdm-reservation" content="1" />
+<meta name="tdm-policy" content="https://www.elsevier.com/tdm/tdmrep-policy.json" />
+
+
+
+
+<!--GLOBAL HEADER-->
+<header id="global-header" data-id-plus-auth-enabled="false"></header>
+
+
+
+
+
+	
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">if(typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='https://#strStaticServer#/libraries/JQuery/v1.12.4/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+}</script>
+
+
+<script>
+	function sentEmailValidation(lngLoginID, forwardURL){
+		var parameters = {
+			"lngLoginID" : lngLoginID,
+			"strForwardURL" : forwardURL
+		};
+		$.ajax({
+			type: "POST",
+			url: "https://static.ssrn.com/cfc/webservices/loginServices.cfc?method=sentValidationEmailNew",
+			data: parameters,
+			dataType: "jsonp",
+			async: false,
+			success: function(data) {
+				if(data.RESULT == 1){
+					$("#errorMessageLogin").html(data.MESSAGE);
+				}
+			},
+			error: function(jqXHR, textStatus, errorThrown) {
+				console.log(textStatus, errorThrown);
+			}
+		});
+	};
+</script>
+<script>
+$( document ).ready(function() {
+
+	// Show translation notice on footer on load
+	var hebrewIsSelected = $('.dropdown-lang option:last-child').is(':selected'),
+			$body = $('body'),
+			$loginBox = $('.loginBox'),
+			$menuMain = $('.menu-main'),
+			$profileMenu = $('.profileMenu');
+
+	if (hebrewIsSelected) {
+		toggleTranslationNote();
+	}
+
+    
+    $('#global-header .auth-menu > div > a:first-child').on('click', function() {
+        appData.push({
+            event: 'conversionDriverClick',
+            conversionDriver: {
+                name : 'ssrn-header:register'
+            }
+        });
+    });
+
+    $('#global-header .auth-menu > div > a:last-child').click(function(e) {
+        appData.push({
+            event: 'conversionDriverClick',
+            conversionDriver: {
+                name : 'ssrn-header:sign-in-or-register'
+            }
+        });
+    });
+
+    $('#global-header a[href$="/rankings/Ranking_display.cfm?TRN_gID=10"]').on('click', function() {
+        appData.push({
+            event: 'conversionDriverClick',
+            conversionDriver: {
+                name : 'rankings-top-papers'
+            }
+        });
+    });
+
+    $('#global-header a[href$="/submissions/CreateNewAbstract.cfm"]').on('click', function() {
+        appData.push({
+            event: 'conversionDriverClick',
+            conversionDriver: {
+                name : 'ssrn-header:submit-article'
+            }
+        });
+    });
+
+	$('#btnMenu').on('click', function() {
+		$body.addClass('nav-is-open');
+		$menuMain.addClass('open');
+	});
+
+	$('.mo-nav-close-btn').on('click', function() {
+		$body.removeClass('nav-is-open');
+		$(this).closest('.mo-nav').removeClass('open');
+	});
+
+	$('.mo-nav-search-btn').on('click', function() {
+		$menuMain.find('.menu-search').toggleClass('open');
+	});
+
+	
+	
+	$(document).on('click','#profile', function(e){
+		e.preventDefault();
+		$body.toggleClass('nav-is-open');
+		$profileMenu.toggleClass('open');
+	});
+	
+
+	/* Cleaning the email text*/
+	$('#txtLogin').bind("change keyup input",function() {
+		$(".error_show_login").hide();
+		$("#txtLogin").removeClass("loginError");
+		$("#errorMessageLogin").hide();
+	});
+
+	/* Cleaning the password text*/
+	$('.password-inp').bind("change keyup input",function() {
+		$(".error_show_pass").hide();
+		$("#txtPasswordLogin").removeClass("loginError");
+		$("#errorMessageLogin").hide();
+	});
+
+	/*Function for encrypt*/
+	function encrypt(key1, key2, key3){
+		var key = btoa(key1 + "|" + key2 + "|" + key3);
+		return key;
+	};
+
+	
+	function validateFields (){
+		var emptyLogin = false;
+		var emptyPass = false;
+
+		if(document.getElementById("txtLogin") == null || document.getElementById("txtLogin").value == "")
+		{
+		$("#txtLogin").addClass('loginError');
+		$(".error_show_login").show();
+		emptyLogin = true;
+		}
+		if(document.getElementById("txtPasswordLogin") == null || document.getElementById("txtPasswordLogin").value == "" )
+		{
+			$("#txtPasswordLogin").addClass('loginError');
+			$(".error_show_pass").show();
+			emptyPass = true;
+		}
+		if(emptyLogin == true || emptyPass == true){
+			return false;
+		}
+		return true;
+	};
+
+	
+	$('.password-inp').keypress(function(event) {
+		if (event.keyCode == 13 || event.which == 13) {
+			event.preventDefault();
+			login();
+		}
+	});
+
+	
+	$('#txtLogin').keypress(function(event) {
+		if (event.keyCode == 13 || event.which == 13) {
+			event.preventDefault();
+			login();
+		}
+	});
+
+	
+	$("#signin").click(function() {
+		login();
+	});
+
+	
+	function login(){
+		if (validateFields() != false) {
+		    var pageLoadData;
+			var user = document.getElementById("txtLogin").value;
+			var pass = document.getElementById("txtPasswordLogin").value;
+			var remember = $('.remember-me-check').prop('checked');
+			var keyUser = encrypt(user, pass, remember);
+			var parameters = {
+				"key" : keyUser
+			};
+			$.ajax({
+				type: "POST",
+				url: "https://static.ssrn.com/cfc/webservices/loginServices.cfc?method=signinService",
+				data: parameters,
+				dataType: "jsonp",
+				async: false,
+				success: function(data) {
+					if(data.ILOGINRESULT == 0) {
+						var lngPartLogedIn = data.USER.PART_ID;
+						buildmenu(lngPartLogedIn);
+						$("#name-header div.user-name-overflow").text(data.USER.FULLNAME);
+						$("#name-mo-header").text(data.USER.FULLNAME);
+						$('#profile').show();
+						$("#btnSignin").hide();
+						$("#btnRegister").hide();
+						$loginBox.removeClass('open');
+						$body.removeClass('nav-is-open');
+						
+						pageData.visitor.loginSuccess = "true";
+						pageData.visitor.loginStatus = "logged in";
+						pageData.visitor.accessType = "ss:registered-user";
+						pageData.visitor.userId = data.USER.ENCRYPT_PART_ID;
+						pageLoadData = pageData;
+                        pageLoadData['event'] = 'pageLoad';
+                        appData.push(pageLoadData);
+						
+					} else {
+						
+						pageData.visitor.loginSuccess = "false";
+                        pageLoadData = pageData;
+                        pageLoadData['event'] = 'pageLoad';
+                        appData.push(pageLoadData);
+						
+						$("#errorMessageLogin").html(data.MESSAGETOSHOW);
+						$("#errorMessageLogin").show();
+					}
+				}
+			});
+		} else {
+			return false;
+		};
+	};
+
+	
+	function buildmenu(lngPartLogedIn){
+		$("#personal").attr("href", "https://hq.ssrn.com/Participant.cfm?rectype=edit&partid=" + lngPartLogedIn + "&perinf=y");
+		$("#affil").attr("href", "https://hq.ssrn.com/affiliations/AffiliationList.cfm?partid=" + lngPartLogedIn);
+		$("#suscr").attr("href", "https://hq.ssrn.com/Subscriptions.cfm?partId=" + lngPartLogedIn);
+		$("#mypapers").attr("href", "https://hq.ssrn.com/submissions/MyPapers.cfm?partid=" + lngPartLogedIn);
+	};
+
+	
+	$(document).click(function(event) {
+		if(!$(event.target).closest('.header-tooltip').length && $(event.target)[0] != $('#btnSignin')[0] && $(event.target)[0] != $('#profile')[0] ) {
+			if($('.header-tooltip').is(":visible") && $('.mo-nav-header').is(":hidden")) {
+				$body.removeClass('nav-is-open');
+				$('.header-tooltip').removeClass('open');
+			}
+		}
+
+		// Makes the submenu links accesible by keyboard
+		$('.has-sub-menu a')
+			.focus(function() {
+				$(this).parents("li").addClass("focus");
+			})
+			.blur(function() {
+				$(this).parents("li").removeClass("focus");
+			});
+	});
+
+	// Show translation notice on change
+	$('.dropdown-lang').on('change', function() {
+		toggleTranslationNote();
+	});
+
+	// Accordion functionality on Footer MO
+	var $collapseBtn = $('h4[data-toggle="collapse"]'),
+			$collapsableContent = $('.collapsable');
+
+	$collapseBtn.on('click', function(){
+		var $this = $(this),
+				$parent = $this.parent(),
+				$thisCollapsable = $parent.find('.collapsable');
+
+		$collapsableContent.slideUp('fast');
+
+		if ( !$thisCollapsable.is(":visible") ) {
+			$thisCollapsable.slideDown('fast');
+		}
+	});
+
+	// Show translation notice on footer
+	function toggleTranslationNote() {
+		$('.translation-notice').toggle();
+	}
+});
+
+	//Language function
+	function changeLanguage(lang){
+        var curretUrl = window.location.href;
+        if(curretUrl.indexOf('&lng') != -1) {
+            var new_url = curretUrl.substring(0, curretUrl.indexOf('&lng'));
+        }else{
+            var new_url = window.location.href;
+        }
+        window.location.href=new_url+'&lng='+lang;
+    }
+</script>
+<script type="text/javascript" src="https://cdn.ssrn.com/ssrn-global-header/app.bundle.js?v=430"></script>
+<script type="text/javascript" async="async" src="https://static.ssrn.com/js/image-lazy-load.js"></script>
+
+
+	
+	<link href="https://cdn.ssrn.com/ssrn-vor-banner-widget/style.bundle.css" rel="stylesheet" type="text/css"/>
+	<script src="https://cdn.ssrn.com/ssrn-vor-banner-widget/app.bundle.js" defer="defer"></script>
+	<div id="vor-banner" data-api-url = "https://api.ssrn.com/content/v1/paperstatus/" data-abstract-id="4689334"></div>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" crossorigin="anonymous">
+	
+	<link rel="stylesheet" type="text/css" href="https://cdn.ssrn.com/css/custom.min.css?v=430">
+	<link rel="stylesheet" type="text/css" href="https://cdn.ssrn.com/css/abstract.min.css?v=430">
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+			
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+	
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="genericToastr" class="generic-toastr">
+	<div class="toastr-icon">
+		<i id="toastrIcon"></i>
+	</div>
+	<div id="toastrMessage" class="toastr-mesage"></div>
+	<div class="toastr-close">
+		<i class="icon icon-gizmo-delete" onclick="closeToastr()"></i>
+	</div>
+	<div class="toastr-link"><a id="toastrLink" href="#"></a></div>
+</div>
+
+
+
+
+	<main>
+		<div class="container abstract-body" id="maincontent">
+		
+		<div class="row" id="ssrn-paper-rpsbranding-widget" data-bindings-api-url="https://api.ssrn.com/bindings"
+			data-abstract-id="4689334" data-journal-endpoint="https://papers.ssrn.com/sol3/JelJour_Results.cfm?form_name=journalBrowse&journal_id="></div>
+		<script type="module" src="https://cdn.ssrn.com/ssrn-paper-rpsbranding-widget/app.bundle.js"></script>
+		<style type="text/css">
+			#ssrn-paper-rpsbranding-widget { padding: 17px 0 16px; }
+			#ssrn-paper-rpsbranding-widget img { margin: 5px; }
+		</style>
+		
+		<div class="row">
+			<div class="col-sm-8 abstract-main-col">
+				
+				
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+<div class="abstract-buttons ">
+
+    
+        
+        
+        
+            
+            
+
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="Delivery.cfm/4689334.pdf?abstractid=4689334&mirid=1" class="button-link primary " data-abstract-id='4689334' data-abstract-title='Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets' onclick='sendLeadBoxerEvent()' >
+                    <span><img alt='PDF icon' src='https://static.ssrn.com/cfincludes/img/icons/icon-adobe-pdf.svg' title='PDF icon' />Download This Paper</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+            
+            
+                
+
+                
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="Delivery.cfm/4689334.pdf?abstractid=4689334&mirid=1&type=2" class="button-link secondary " data-abstract-id='4689334' data-abstract-title='Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets' onclick='sendLeadBoxerEvent()'  >
+                    <span>Open PDF in Browser</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+            
+        
+
+    
+
+
+
+
+
+
+    
+        
+    
+
+
+    
+            <div class="star-container">
+            
+                
+            
+            <a href="#" aria-label="Add to your Library" aria-pressed="false" role="button">
+                <i class="icon icon-gizmo-star-outline" data-user-id="1" data-abstract-id="4689334" data-abstract-url="static.ssrn.com" data-abstract-auth="false"></i>
+        <span>Add Paper to My Library</span>
+        </a>
+        </div>
+    
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+ 
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+			</div>
+			<div class="col-sm-4 abstract-side-col">
+				
+				
+				
+				
+				
+						
+				
+				
+				
+					<div class="share-container">
+						Share:
+						<ul class="list-unstyled">
+							<li><a id="socialFacebook" title="Share on Facebook" aria-label="Share on Facebook" role="button" href="#"
+								onclick='openPopup("http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D4689334","Share_Facebook")'
+								><i class="icon icon-social-facebook" aria-hidden="true"></i></a></li>
+							<li><a id="socialTwitter" title="Share on Twitter" aria-label="Share on Twitter" role="button" href="#"
+								onclick='openPopup("https://twitter.com/intent/tweet?text=Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets @SSRN&url=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D4689334","Share_Twitter")'
+								><i class="icon icon-social-twitter" aria-hidden="true"></i></a></li>
+							
+								<li><a id="socialEmail" title="Share by Email" aria-label="Share by Email" role="button" href="#"
+										onClick='openPopup("Email_Friend.cfm?abid=4689334","Email_Friend")';
+									><i class="icon icon-gizmo-email" aria-hidden="true"></i></a></li>
+							
+							<li><a id="permalink" title="Get Permalink" aria-label="Get Permalink" role="button" href="#"
+								><i class="icon icon-gizmo-link" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+					<script type="text/javascript">
+						function openPopup(url, name) {
+							var newwindow = window.open(url, name || 'window' + Math.floor(Math.random() * 10000 + 1),
+									'width=600,height=400,menubar=no,location=no,toolbar=no,status=no,scrollbars=yes,resizable=yes');
+							if (window.focus) {	newwindow.focus(); }
+						}
+						function trackEventSocial(platform){
+							appData.push({
+								event: 'socialShare',
+								social: {
+									sharePlatform: platform
+								}
+							});
+						}
+						jQuery('#socialFacebook').click(function(e) {
+							trackEventSocial('Facebook');
+						});
+						jQuery('#socialTwitter').click(function(e) {
+							trackEventSocial('Twitter');
+						});
+						jQuery('#socialEmail').click(function(e) {
+							trackEventSocial('Email');
+						});
+						jQuery('#permalink').click(function(e) {
+							trackEventSocial('Permalink');
+						});
+					</script>
+				
+				
+				
+
+
+
+<script type="text/javascript">
+var _ll = _ll || [];
+
+var trackAbstractView = function(providerId, abstractId, abstractDoi, abstractTitle, publishDate, publishYear) {
+
+   _ll.push(['trackItemInvestigation', {
+         "aid":"_oa", 
+         "aname": "Open Access",
+         "pid": providerId,
+         "plname": "SSRN Platform",
+         "im": {
+            "title": abstractTitle,
+            "dtype": "article",
+            "id": abstractId,
+            "doi": abstractDoi,
+            "yop": publishYear,
+            "pdate": publishDate,
+        }
+    }]);
+}	
+
+var abstractID = "4689334";
+var abstractDoi = "https://dx.doi.org/10.2139/ssrn.4689334";
+var abstractTitle = "Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets";
+var publishDate = "2 Feb 2024";
+var publishYear =  "2024";
+var providerId =   "de79db8afafe43c3"
+
+trackAbstractView(providerId, abstractID, abstractDoi, abstractTitle, publishDate, publishYear);
+
+(function() {
+   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+   g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://connect.liblynx.com/log/js/counter5.min.js'; s.parentNode.insertBefore(g,s);
+})();
+
+</script>
+				
+				
+
+    
+        
+        
+        
+            
+
+		
+		
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+
+		
+            
+
+		
+		
+		
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+			
+				
+			
+		
+			
+		
+
+		
+            
+
+            
+        
+
+        <script type="text/javascript">
+
+            function ot_onload() { /* Lead Boxer setup function - called automatically by Lead Pixel lib */
+                let jsPageLeadBoxerJson = {"NetworkIds":"[267307,267307,2764335,267307,2764335,1152021]","RpsJournalIds":"[2978227,2914615,2978266]","AbstractId":"4689334"} ;
+                if (typeof jsPageLeadBoxerJson !== "undefined") {
+                    // Page has data about a specific paper
+                    _otmap.put("AbstractId", jsPageLeadBoxerJson.AbstractId);
+                    _otmap.put("NetworkIds", jsPageLeadBoxerJson.NetworkIds);
+                    _otmap.put("RpsJournalIds", jsPageLeadBoxerJson.RpsJournalIds);
+                    ot_log_state();
+                }
+            }
+        </script>
+    
+
+    <script type="text/javascript">
+
+        function parseLeadBoxerJson(leadBoxerJson) {
+            const lbMap = new OTMap();
+            let leadBoxerObject = JSON.parse(leadBoxerJson);
+
+            lbMap.put('AbstractId', leadBoxerObject.AbstractId);
+            lbMap.put('NetworkIds', leadBoxerObject.NetworkIds);
+            lbMap.put('RpsJournalIds', leadBoxerObject.RpsJournalIds);
+
+            return lbMap;
+        }
+
+        function sendLeadBoxerEventJson(leadBoxerJson) {
+
+            let lbMap = parseLeadBoxerJson(leadBoxerJson);
+            OTLogService.sendEvent("pdf-download", lbMap);
+        }
+
+        function sendLeadBoxerEvent() {
+
+            OTLogService.sendEvent("pdf-download", _otmap);
+        }
+
+    </script>
+
+
+    <script type="text/javascript" defer="defer"
+            src="https://script.leadboxer.com/?dataset=5a0d335609d04d8eca60f4ef8e0b2117"></script>
+
+
+
+
+				
+				<div class="permalink-tooltip">
+					<div class="tooltip-bg"></div>
+					<div class="tooltip-container">
+					<div class="permalink-title">Permalink</div>
+						<div class="permalink-description">Using these links will ensure access to this page indefinitely</div>
+						<div class="permalink-url">
+							<input type="text" id="parmalinkURL" readonly class="permalink-input" value="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689334">
+							<a href="#" id="copyURL" title="Copy Permalink URL" class="btn-blue-outline btn-blue-outline-copy">Copy URL</a>
+						</div>
+						
+							<div class="permalink-doi">
+								<input type="text" id="parmalinkDOI" readonly class="permalink-input" value="https://dx.doi.org/10.2139/ssrn.4689334">
+								<a href="#" id="copyDOI" title="Copy DOI URL" class="btn-blue-outline btn-blue-outline-copy">Copy DOI</a>
+								</div>
+							</div>
+						
+				</div>
+				
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-8 abstract-main-col">
+				
+				
+
+
+<div class="box-container box-abstract-main">
+
+	
+	
+		
+	
+
+	
+	
+		
+		
+	
+
+	
+	
+
+	
+	
+	
+	<h1>Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets</h1>
+	
+    
+        <div class="reference-info">
+            
+            
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+			
+        </div>
+    
+	
+
+	
+	<p class="note note-list">
+		
+		
+			<span>72 Pages</span>
+		
+		
+
+		<span>Posted: 2 Feb 2024</span>
+		
+			<span>Last revised: 9 Dec 2024</span>
+		
+		
+	</p>
+	
+		<div class="authors authors-full-width">
+			
+			
+
+
+
+
+	<a class='lead-author-profile-link' href=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2103537 target='_blank' title='View other papers by this author'><span>See all articles by Yashar H. Barardehi</span><i class='icon icon-gizmo-navigate-right' aria-hidden='true'></i></a><h2><A HREF=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2103537 target='_blank' title='View other papers by this author'>Yashar H. Barardehi</a></h2><p>Chapman University - The George L. Argyros College of Business and Economics</p><h2><A HREF=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2458197 target='_blank' title='View other papers by this author'>Peter Dixon</a></h2><p>U.S. Securities and Exchange Commission </p><h2><A HREF=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1172467 target='_blank' title='View other papers by this author'>Qiyu Liu</a></h2><p>U.S. Securities and Exchange Commission</p>
+
+		</div>
+	
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	
+		
+		
+	
+	
+		
+			<p>Date Written: January 9, 2024</p>
+		
+	
+
+	
+	
+		
+		
+	
+
+	
+	
+		
+	
+	<div class="abstract-text">
+		<h3>Abstract</h3>
+		<p>Abnormal undercutting activity (QIDRes) captures informed trading risk as liquidity-providing algorithms compete less to fill marketable orders when adverse selection exposure rises. Unlike existing measures of informed trading risk, daily/intradaily&nbsp;QIDRes&nbsp;is easily constructed for any security with trade and quote data and is uncorrelated with liquidity. When examined around information events,&nbsp;QIDRes&nbsp;behaves similarly to existing measures and predicts arrivals of imminent information events. Moreover, higher&nbsp;QIDRes&nbsp;coincides with weaker subsequent price reversals and increased short-seller and informed institutional-investor activity. Further,&nbsp;QIDRes&nbsp;predicts daily and monthly stock returns, which we attribute to limits-to-arbitrage and informed investors’ order type choices. <P></p>
+	</div>
+	
+
+	<center>
+		
+		
+
+
+	
+
+	
+	
+
+		
+		
+
+	
+	
+
+
+	</center>
+
+	
+	
+	
+		
+	
+	
+	
+
+	
+	
+		
+		
+			
+				
+			
+		
+		<p><strong>Keywords:</strong> Informed Trading, Undercutting, Asset Pricing, Liquidity, Limits to Arbitrage</p>
+	
+	
+
+	
+    <div id="ssrn-paper-declarations-widget" data-papers-api-url="https://api.ssrn.com/papers"
+		data-abstract-id="4689334"></div>
+    <script type="module" src="https://cdn.ssrn.com/ssrn-paper-declarations-widget/app.bundle.js"></script>
+	
+
+	
+	
+		<p><strong>JEL Classification:</strong> G14</p>
+	
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    	
+	
+				
+	
+	
+	
+   	
+	
+	
+	
+	
+	            
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+
+
+
+
+	<p>
+		<strong class="hidden-xs hidden-sm">Suggested Citation:</strong>
+		<a href="#" class="suggested-citation-btn btn-link visible-xs visible-sm">Suggested Citation<i class="icon icon-gizmo-navigate-right"></i></a>
+	</p>
+	<div id="selectable" onclick="selectText('selectable')" class="suggested-citation">
+		
+			Barardehi,  Yashar and Dixon,  Peter and Liu,  Qiyu, Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets (January 9, 2024).  Available at SSRN: <a href="https://ssrn.com/abstract=4689334"  target="_blank">https://ssrn.com/abstract=4689334</a> or <a href="https://dx.doi.org/10.2139/ssrn.4689334" class="textlink" target="_blank">http://dx.doi.org/10.2139/ssrn.4689334 </a>
+		
+	</div>
+	
+
+	
+	
+	
+
+	<a href="#" class="show-contact-btn btn-link" role="button" aria-label="Show contact information">
+		<span aria-hidden="true"></span><i class="icon icon-gizmo-navigate-right" aria-hidden="true"></i>
+	</a>
+
+	
+
+	
+	<div class="contact-information">
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="author">
+
+		
+
+		
+
+		
+		
+		
+
+		
+		
+			
+				
+					
+						<h3><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2103537" target='_blank'>Yashar Barardehi (Contact Author)</a></h3>
+					
+			
+		
+
+		
+		
+		
+		
+
+		
+		<div class="block-quote">
+			
+				
+			
+
+			
+				
+				
+				
+					
+					
+					
+					
+				
+					
+					
+					
+						
+					
+				
+			
+
+			
+				
+				
+				
+
+
+				<h4>Chapman University - The George L. Argyros College of Business and Economics  ( <a href="javascript:void(0)" onClick="
+						appData.push({
+							event: 'conversionDriverClick',
+							conversionDriver: {
+								name: 'article-page:email'
+							}
+						});
+						window.open('GetAuthorEmail.cfm?abid=4689334&pag=papers','Author_Email','toolbar=no,menubar=no,scrollbars=yes,resizable=no,width=700,height=470')">email</a> )</h4>
+			
+
+			
+			
+				
+				
+				<p>
+					<span>1 University Drive<br>Orange, CA  92866<br>United States<br></span>
+				</p>
+				
+			
+
+			
+				
+				<p>
+					<span>HOME PAGE: <a href="https://sites.google.com/site/barardehi/" target="HOMEPAGE" title="http://sites.google.com/site/barardehi/">http://sites.google.com/site/barardehi/</a></span>
+				</p>
+			
+
+		</div>
+		
+	</div>
+	
+
+	
+	<div class="author">
+
+		
+
+		
+
+		
+		
+		
+
+		
+		
+			
+				
+					
+						<h3><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2458197" target='_blank'>Peter Dixon</a></h3>
+					
+			
+		
+
+		
+		
+		
+		
+
+		
+		<div class="block-quote">
+			
+				
+			
+
+			
+				
+				
+				
+					
+					
+					
+					
+				
+					
+					
+					
+						
+					
+				
+			
+
+			
+				<h4>U.S. Securities and Exchange Commission   ( <a href="javascript:void(0)" onClick="
+						appData.push({
+							event: 'conversionDriverClick',
+							conversionDriver: {
+								name: 'article-page:email'
+							}
+						});
+						window.open('GetAuthorEmail.cfm?abid=4689334&pag=papers','Author_Email','toolbar=no,menubar=no,scrollbars=yes,resizable=no,width=700,height=470')">email</a> )</h4>
+			
+
+			
+			
+				
+				
+				<p>
+					<span>450 Fifth Street, NW<br>Washington, DC  20549-1105<br>United States<br></span>
+				</p>
+				
+			
+
+			
+
+		</div>
+		
+	</div>
+	
+
+	
+	<div class="author">
+
+		
+
+		
+
+		
+		
+		
+
+		
+		
+			
+				
+					
+						<h3><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1172467" target='_blank'>Qiyu Liu</a></h3>
+					
+			
+		
+
+		
+		
+		
+		
+
+		
+		<div class="block-quote">
+			
+				
+			
+
+			
+				
+				
+				
+					
+					
+					
+					
+				
+					
+					
+					
+						
+					
+				
+			
+
+			
+				<h4>U.S. Securities and Exchange Commission  ( <a href="javascript:void(0)" onClick="
+						appData.push({
+							event: 'conversionDriverClick',
+							conversionDriver: {
+								name: 'article-page:email'
+							}
+						});
+						window.open('GetAuthorEmail.cfm?abid=4689334&pag=papers','Author_Email','toolbar=no,menubar=no,scrollbars=yes,resizable=no,width=700,height=470')">email</a> )</h4>
+			
+
+			
+			
+				
+				
+				<p>
+					<span>100 F Street, NE<br>Washington, DC  20549<br>United States<br></span>
+				</p>
+				
+			
+
+			
+
+		</div>
+		
+	</div>
+	
+
+
+
+
+
+	</div>
+	
+
+	
+	
+		
+	
+
+	<div id="mendeley-data-widget" data-abstract-id="4689334" data-mendeley-url="https://api.ssrn.com/mendeley/" data-assets="https://cdn.ssrn.com/ssrn-mendeley-data-widget/"></div>
+	<script type="text/javascript" async="async" src="https://cdn.ssrn.com/ssrn-mendeley-data-widget/app.bundle.js"></script>
+	<link rel="stylesheet" href="https://cdn.ssrn.com/ssrn-mendeley-data-widget/style.bundle.css" type="text/css"/>
+</div>
+
+				
+				
+				
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div class="abstract-buttons bottom">
+
+    
+        
+        
+        
+            
+            
+
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="Delivery.cfm/4689334.pdf?abstractid=4689334&mirid=1" class="button-link primary " data-abstract-id='4689334' data-abstract-title='Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets' onclick='sendLeadBoxerEvent()' >
+                    <span><img alt='PDF icon' src='https://static.ssrn.com/cfincludes/img/icons/icon-adobe-pdf.svg' title='PDF icon' />Download This Paper</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+            
+            
+                
+
+                
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="Delivery.cfm/4689334.pdf?abstractid=4689334&mirid=1&type=2" class="button-link secondary " data-abstract-id='4689334' data-abstract-title='Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets' onclick='sendLeadBoxerEvent()'  >
+                    <span>Open PDF in Browser</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+            
+        
+
+    
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+ 
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+				<div class="clearfix"></div>
+				<div>
+					
+						<link rel="stylesheet" href="https://cdn.ssrn.com/ssrn-paper-references-widget/bundle.css" type="text/css"/>
+						<script type="text/javascript" async="async" src="https://cdn.ssrn.com/ssrn-paper-references-widget/bundle.js"></script>
+						<div id="paper-references-widget" data-paper-id="4689334" data-user-id="1"
+							data-references-api-url="https://static.ssrn.com/cfc/abstract/abstract.cfc?method=getReferences"></div>
+						<link rel="stylesheet" href="https://cdn.ssrn.com/ssrn-paper-citations-widget/bundle.css" type="text/css"/>
+						<script type="text/javascript" async="async" src="https://cdn.ssrn.com/ssrn-paper-citations-widget/bundle.js"></script>
+						<div id="paper-citations-widget" data-paper-id="4689334" data-user-id="1"
+							 data-citations-api-url="https://static.ssrn.com/cfc/abstract/abstract.cfc?method=getCitedbys"></div>
+					
+				</div>
+			</div>
+
+			<div class="col-sm-4 abstract-side-col no-padding">
+				
+					<div class="row">
+						
+						
+	
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	    
+
+
+
+
+
+
+
+	<div class="box-container box-registration-call-out">
+		<h2 class="section-title">Do you have a job opening that you would like to promote on SSRN?</h2>
+		<div class="stats row">
+			
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="https://www.ssrn.com/index.cfm/en/Announcements-Jobs/" class="button-link primary "  >
+                    <span>Place Job Opening</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+		</div>
+	</div>
+
+
+					</div>
+				
+				<div class="row">
+					
+					
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+<div class="box-paper-statics">
+	<div class="row">
+		<div class="col-xs-12">
+			<h2>Paper statistics</h2>
+		</div>
+	</div>
+
+	<div class="stats row">
+		
+		 
+			<div class="stat col-lg-4">
+				<div class="lbl">Downloads</div>
+				<div class="number" title="">      399</div>
+			</div>
+		
+		
+		<div class="stat col-lg-4">
+			<div class="lbl">Abstract Views</div>
+			<div class="number" title="">    1,496</div>
+		</div>
+		
+		 
+		<div class="stat col-lg-4">
+			<div title="SSRN compiles rankings of Papers in our system
+based on a number of measures,
+such as downloads and citations.
+To be ranked, a paper must be a publicly available
+scholarly full-text paper on SSRN.
+Privately available papers
+are not considered in these rankings." class="lbl">Rank</div>
+			<div class="number" title="">  161,699</div>
+		</div>
+		
+	</div>
+
+	
+
+	
+		<div class="references-citations">
+			<a href="#paper-references-widget" title="Jump to the references for this paper.">
+				<span>       82</span> References</a>
+		</div>
+	
+</div>
+<div class="row">
+	<div class="stat plumx col-lg-6">
+		<div class="lbl">PlumX Metrics</div>
+		<div class="hidden-xs">
+			<a href="https://plu.mx/ssrn/a/?ssrn_id=4689334" class="plumx-plum-print-popup" data-popup="left" data-hide-when-empty="false" data-site="ssrn" data-hide-usage="false" data-badge="false"></a>
+		</div>
+		<div class="visible-xs">
+			<a href="https://plu.mx/ssrn/a/?ssrn_id=4689334" class="plumx-plum-print-popup" data-popup="right" data-hide-when-empty="false" data-site="ssrn" data-hide-usage="false" data-badge="false"></a>
+		</div>
+	</div>
+</div>
+
+
+				</div>
+
+				
+				
+				<div class="row">
+					
+
+    
+        <div class="box-container box-related-journals">
+            <h2 class="section-title">Related eJournals</h2>
+        <ul class="quick-links">
+        
+            
+            
+
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=1504395">Behavioral & Experimental Finance eJournal</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_1504395&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">Behavioral & Experimental Finance eJournal</h4>
+                                <p class="rj-description">
+                                    Subscribe to this free journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    3,721</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">   18,007</div>
+                                    </div>
+                                </div>
+                                
+                                    <div class="rj-information">
+                                        <div>This Journal is curated by:</div>
+                                        <div><b>Victor Ricciardi</b> at Ursinus College</div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+
+            
+        
+            
+            
+
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=1504403">Capital Markets: Market Efficiency eJournal</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_1504403&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">Capital Markets: Market Efficiency eJournal</h4>
+                                <p class="rj-description">
+                                    Subscribe to this fee journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    2,869</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">   24,935</div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+
+            
+        
+            
+            
+
+            
+                <div class="more quick-links">
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=2978227">S&P Global Market Intelligence Research Paper Series</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_2978227&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">S&P Global Market Intelligence Research Paper Series</h4>
+                                <p class="rj-description">
+                                    Subscribe to this free journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    2,639</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">   44,291</div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+
+            
+        
+            
+            
+
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=1504404">Capital Markets: Market Microstructure eJournal</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_1504404&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">Capital Markets: Market Microstructure eJournal</h4>
+                                <p class="rj-description">
+                                    Subscribe to this fee journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    2,366</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">    8,481</div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+
+            
+        
+            
+            
+
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=2914615">Wharton Research Data Services (WRDS) Research Paper Series</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_2914615&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">Wharton Research Data Services (WRDS) Research Paper Series</h4>
+                                <p class="rj-description">
+                                    Subscribe to this free journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    2,010</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">    4,959</div>
+                                    </div>
+                                </div>
+                                
+                                    <div class="rj-information">
+                                        <div>This Journal is curated by:</div>
+                                        <div><b>Robert Zarazowski</b> at Wharton Research Data Services (WRDS), <b>Rui Dai</b> at Wharton Research Data Services (WRDS), <b>Jun Wu</b> at Wharton Research Data Services (WRDS)</div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+
+            
+        
+            
+            
+
+            
+
+            
+                
+                
+
+                <li class="related-journal">
+                    <p><a href="https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=1546261">Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal</a></p>
+                    <div class="rj-btn-container">
+                        
+                        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="javascript:void(0);" class="button-link primary " onclick=trackEventsArticle('https://hq.ssrn.com/jourInvite.cfm?jourid=CMBO_1546261&abid=4689334','related-journal'); >
+                    <span>Follow</span>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+
+                        <i class="icon icon-gizmo-information" aria-hidden="true"></i>
+
+                        <div class="related-journals-tooltip">
+                            <div class="tooltip-bg"></div>
+                            <i class="icon icon-gizmo-delete" aria-label="Close Tooltip" role="button"></i>
+                            <div class="tooltip-container">
+                                <h4 class="rj-title">Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal</h4>
+                                <p class="rj-description">
+                                    Subscribe to this fee journal for more curated articles on this topic
+                                </p>
+                                <div class="rj-statistics">
+                                    <div class="rj-followers">
+                                        <div class="rjs-title">FOLLOWERS</div>
+                                        <div class="rjs-description">    1,193</div>
+                                    </div>
+                                    <div class="rj-papers">
+                                        <div class="rjs-title">PAPERS</div>
+                                        <div class="rjs-description">   11,727</div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            
+
+            
+                </div>
+                
+            
+
+            
+        
+        </ul>
+        
+                <a href="#" class="view-more" aria-label="View more" role="button"> <i class="icon icon-gizmo-navigate-right" aria-hidden="true"></i></a>
+        
+        </div>
+    
+
+
+				</div>
+
+				<div class="row">
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				</div>
+			</div>
+		</div>
+
+		<div class="feedback-tab-container">
+				<div class="feedback-tab" role="button" tabindex="0">
+					<span>Feedback</span>
+					<i class="icon icon-gizmo-comment" aria-hidden="true"></i>
+				</div>
+			</div>
+			
+
+<div id="feedbackModule" class="modal-wrapper">
+	<div class="modal-custom feedback">
+		<i class="icon-gizmo-delete modal-close" aria-label="Close modal" title="Close modal" role="button" tabindex="0"></i>
+		<div class="feedback-title">Feedback to SSRN</div>
+		<form name="formSuggestions" role="suggestions">
+			<div class="feedback-description">
+				<label for="txtFeedback">
+					<span class="feedback-label">Feedback</span>
+					<span class="feedback-required">&nbsp;(required)</span>
+				</label>
+				<textarea id="txtFeedback" name="txtFeedback" maxlength="1000" placeholder="(1,000 Characters Max)" required></textarea>
+			</div>
+			<div class="feedback-email">
+				<label for="txtEmail">
+					<span class="feedback-label">Email</span>
+					<span class="feedback-required">&nbsp;(required)</span>
+				</label>
+				<input type="email" id="txtEmail" name="txtEmail" value="" required>
+			</div>
+			<button class="btn-orange btn-add-to-cart feedback-submit">
+				Submit
+				<i class="icon-gizmo-navigate-right" aria-hidden="true"></i>
+			</button>
+		</form>
+		<div class="modal-divider"></div>
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+	
+		var strServer = "papers.ssrn.com";
+		var strSugPageName = "/papers.ssrn.com/sol3/papers.cfm";
+		var strIP = "71.63.85.101";
+		var strFullUrl = "papers%2Essrn%2Ecom%2Fpapers%2Essrn%2Ecom%2Fsol3%2Fpapers%2Ecfm%3Fabstract%5Fid%3D4689334";
+		var sEmail = "";
+	
+</script>
+
+
+	</div>
+	</main>
+	<footer>
+		
+		
+
+	
+
+
+
+
+	
+	
+
+
+
+
+
+  
+  
+
+	
+	
+		
+	
+
+
+	
+	
+		
+			
+			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+				
+			
+			
+		
+	
+		
+	
+		
+			
+				
+			
+			
+		
+	
+		
+	
+		
+	
+		
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+		
+		
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+
+
+
+
+
+
+
+
+<!--FOOTER-->
+<nav aria-label="footer-navigation" class="footer-integration footer-redesigned ">
+	<div class="container">
+		<div class="row">
+			
+				<div class="footer-col">
+                    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+        
+            <div class="button-wrapper inline">
+                <a href="https://hq.ssrn.com/submission.cfm" class="button-link secondary submit-paper-btn"  >
+                    <span>Submit a Paper</span>
+                    
+                        <i class="icon icon-gizmo-navigate-right"></i>
+                    
+                </a>
+            </div>
+        
+    
+        
+    
+					<a class="section-508-link" href="https://www.ssrn.com/index.cfm/en/section-508/" title="Section 508 Text Only Pages">Section 508 Text Only Pages</a>
+				</div>
+			
+			<div class="footer-col">
+				<h4 data-toggle="collapse">SSRN Quick Links <i class="icon-gizmo-navigate-down" aria-hidden="true"></i></h4>
+				<ul class="footer-links collapsable">
+					<li><a target="_blank" href="https://www.elsevier.com/solutions/ssrn" title="SSRN Solutions">SSRN Solutions</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/rps/" title="Research Paper Series">Research Paper Series</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/conferences/" title="Conference Papers">Conference Papers</a></li>
+					<li><a href="https://papers.ssrn.com/sol3/DisplayPipPublishers.cfm" title="Partners in Publishing">Partners in Publishing</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/Announcements-Jobs/" title="Jobs &amp; Announcements">Jobs &amp; Announcements</a></li>
+               <li><a href="https://www.ssrn.com/index.cfm/en/special-topic-hubs/" title="Jobs &amp; Announcements">Special Topic Hubs</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h4 data-toggle="collapse">SSRN Rankings <i class="icon-gizmo-navigate-down" aria-hidden="true"></i></h4>
+				<ul class="footer-links collapsable">
+					<li><a href="https://hq.ssrn.com/rankings/Ranking_display.cfm?TRN_gID=10" title="Top Papers">Top Papers</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/top-authors/" title="Top Authors">Top Authors</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/top-organizations/" title="Top Organizations">Top Organizations</a></li>
+				</ul>
+			</div>
+			<div class="footer-col">
+				<h4 data-toggle="collapse">About SSRN <i class="icon-gizmo-navigate-down" aria-hidden="true"></i></h4>
+				<ul class="footer-links collapsable">
+					<li><a href="https://www.ssrn.com/index.cfm/en/network-directors/" title="Network Directors">Network Directors</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/recent-announcements/" title="Announcements">Announcements</a></li>
+					<li><a href="https://www.ssrn.com/index.cfm/en/contactus/" title="Contact us">Contact us</a></li>
+					<li><a href="https://service.elsevier.com/app/home/supporthub/ssrn/" title="FAQs">FAQs</a></li>
+				</ul>
+			</div>
+			
+		</div>
+		<ul class="footer-social-links">
+			<li><a target="_blank" href="https://www.facebook.com/SSRNcommunity/" title="SSRN on Facebook" aria-label="Facebook" role="link"><i class="icon icon-social-facebook" aria-hidden="true"></i></a></li>
+			<li><a target="_blank" href="https://www.linkedin.com/company/493409?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_493409%2Cidx%3A0" title="SSRN on Linkedin" aria-label="Linkedin" role="link"><i class="icon icon-social-linkedin" aria-hidden="true"></i></a></li>
+			<li><a target="_blank" href="https://twitter.com/SSRN" title="SSRN on Twitter" aria-label="Twitter" role="link"><i class="icon icon-social-twitter" aria-hidden="true"></i></a></li>
+		</ul>
+		<div class="footer-elsevier">
+			<div class="footer-left">
+				<a class="logo-elsevier" target="_blank" href="http://www.elsevier.com/" title="Elsevier"></a>
+			</div>
+			<div class="footer-left">
+				<div class="footer-links">
+					<a href="https://www.ssrn.com/index.cfm/en/dmca-notice-policy/" title="Copyright">Copyright</a>
+					<a href="https://www.ssrn.com/index.cfm/en/terms-of-use/" title="Terms and Conditions">Terms and Conditions</a>
+					<a target="_blank" href="https://www.elsevier.com/legal/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+				</div>
+				<div class="footer-text">
+					<p style="padding-bottom: 0.8em">All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.</p>
+					<p>We use cookies to help provide and enhance our service and tailor content.</p>
+					<p>To learn more, visit
+					<button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>.
+					<span class="icon-gizmo-lightning alwaysshowme">
+						<span class="tooltip top" role="tooltip">
+							<span class="tooltip-arrow"></span>
+							<span class="tooltip-inner">This page was processed by aws-apollo-l100 in <span id="serverTime">  0.049</span> seconds <span id="loadingtime"></span></span>
+						</span>
+					</span>
+					</p>
+				</div>
+			</div>
+			<div class="footer-right">
+				<a class="logo-relx" target="_blank" href="http://www.relx.com/" title="RELX"></a>
+			</div>
+		</div>
+	</div>
+</nav>
+<!--END FOOTER-->
+
+
+
+
+
+
+	
+		
+		
+		
+		
+
+
+    
+        
+        
+        
+
+        
+        
+                
+                
+                    <script type="text/javascript">
+                        var d = new Date("{ts '2024-02-02 00:00:00'}");
+                        var seconds = Math.floor(d.getTime() / 1000);
+                        var abstractObj = {
+                            format : 'MIME-HTML',
+                            id : "4689334",
+                            onlineDate : "" + seconds + "",
+                            title : "Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets",
+                            type : 'XOCS-JOURNAL:SCOPE-ABSTRACT:PREPRINT'
+                        }
+                        var arrAbstract=[];
+                        arrAbstract.push(abstractObj);
+                        pageData["content"] = arrAbstract;
+                        pageData["researchNetworks"] = ["6A3","Ckf","q5A","7nX","VWn","6A5"];
+                    </script>
+                
+            
+    
+
+    <script>
+        window.appData = window.appData || [];
+        var pageLoadData = pageData;
+        pageLoadData['event'] = 'pageLoad';
+        appData.push(pageLoadData);
+    </script>
+
+    
+
+
+		
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+<script type="text/javascript" language="JavaScript">
+
+    var participantId="";;
+    var ssrnEnv="production";;
+    var userName="";;
+    var isAuthor="";;
+    var emailAddress="";;
+    var firstName="";;
+    var lastName="";;
+    var remoteIpAddr="71.63.85.101";;
+    var cfSessionId="SSRN_b4a55576-d5a7-4e3d-acd1-1723deb458e8_0";;
+
+
+
+    var pendoAAUserId = pageData.visitor.userId;
+    var pendoAAVisitorId ;
+    if (typeof window.pageDataTracker !== 'undefined') {
+        pendoAAVisitorId = window.pageDataTracker.getVisitorId();
+    }
+</script>
+
+
+<script type="text/javascript" language="JavaScript">
+    (function(apiKey){
+        (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
+            v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
+                o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
+            y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/'+apiKey+'/pendo.js';
+            z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
+
+        // Call this whenever information about your visitors becomes available
+        // Please use Strings, Numbers, or Bools for value types.
+        pendo.initialize({
+            visitor: {
+                id:                 participantId,   // Required if user is logged in
+                email:              emailAddress,
+                // full_name:    // Recommended if using Pendo Feedback
+                // role:         // Optional
+
+                // You can add any additional visitor level key-values here,
+                // as long as it's not one of the above reserved names.
+                env:                ssrnEnv,
+                userName:           userName,
+                isAuthor:           isAuthor,
+                emailAddress:       emailAddress,
+                firstName:          firstName,
+                lastName:           lastName,
+                remoteIpAddress:    remoteIpAddr,
+                AAUserId:           pendoAAUserId,
+                AAVisitorId:        pendoAAVisitorId,
+                CFSessionId:        cfSessionId,
+            },
+
+            account: {
+                id:           'ACCOUNT-UNIQUE-ID' // Highly recommended
+                // name:         // Optional
+                // is_paying:    // Recommended if using Pendo Feedback
+                // monthly_value:// Recommended if using Pendo Feedback
+                // planLevel:    // Optional
+                // planPrice:    // Optional
+                // creationDate: // Optional
+
+                // You can add any additional account level key-values here,
+                // as long as it's not one of the above reserved names.
+            }
+        });
+    })('16bd5dd1-e029-4c34-7a4c-3482b1250970');
+</script>
+
+	
+
+
+		<a href="https://papers.ssrn.com/sol3/updateInformationLog.cfm?process=true"><img src="header/pixel.gif" border="0" alt=" " aria-hidden="true" width="1" height="1"></a>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js?v=430"></script>
+		<script src="https://static.ssrn.com/cfincludes/generic-toastr/generic-toastr.js?v=430"></script>
+		<script src="https://static.ssrn.com/cfincludes/copy2clipboard/copy2clipboard.js?v=430"></script>
+		<script src="https://static.ssrn.com/cfincludes/feedback-module/feedback-module.js?v=430"></script>
+		<script src="https://papers.ssrn.com/sol3/scripts/versions-groups.js?v=430"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js?v=430" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="scripts/papers.js?v=430" type="text/javascript"></script>
+		<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js?v=430"></script>
+		
+		<script id='cf-program-p68qz5' src='https://digitalfeedback.us.confirmit.com/api/digitalfeedback/loader?programKey=p68qz5' async></script>
+	</footer>
+</body>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+</html>
