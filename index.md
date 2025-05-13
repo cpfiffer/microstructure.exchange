@@ -72,6 +72,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Peter Dixon: Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets ([recording](https://youtu.be/9XnOySV4WYM), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689334))
 - Simon Jurkatis: Investors as a Liquidity Backstop in Corporate Bond Markets ([recording](https://youtu.be/5NQv2gQu-Sw), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229934))
 - Amber Anand: Retail Limit Orders (recording not available, [paper](https://microstructure.exchange/papers/Retail%20Limit%20Orders%2004082025.pdf))
 - David Cimon: Non-Bank Dealing and Liquidity Bifurcation in Fixed-Income Markets ([recording](https://youtu.be/68jL8D6bIcE), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905))
