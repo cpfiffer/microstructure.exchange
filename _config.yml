@@ -12,12 +12,12 @@ github:
 
 speaker-info:
   speaker-name: "Claudia Moise (NYU)"
-  #speaker-paper: "Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets"
+  speaker-paper: "Circuit Breakers, Illiquidity, and the COVID-19 Crisis"
   #coauthors: "Yashar Barardehi (Chapman) and Qiyu Liu (SEC)"
   speaker-date: "May 27, 11 a.m. (New York time)"
-  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689334"
+  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937"
   #paper-link: "papers/BarardehiDixonLiu.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  #abstract: "Abnormal undercutting activity (QIDRes) captures informed trading risk as liquidity-providing algorithms compete less to fill marketable orders when adverse selection exposure rises. Unlike existing measures of informed trading risk, daily/intradaily QIDRes is easily constructed for any security with trade and quote data and is uncorrelated with liquidity. When examined around information events, QIDRes behaves similarly to existing measures and predicts arrivals of imminent information events. Moreover, higher QIDRes coincides with weaker subsequent price reversals and increased short-seller and informed institutional-investor activity. Further, QIDRes predicts daily and monthly stock returns, which we attribute to limits-to-arbitrage and informed investors’ order type choices."
+  abstract: "I identify the economic triggers behind the recently introduced stock-level circuit breakers and evaluate their market impact during the COVID-19 crisis. Although designed to halt trading in volatile markets caused by informational shocks, these circuit breakers are often triggered by short-term liquidity shocks instead. This results in halts that are followed by reduced liquidity across all securities and worse price discovery in smaller securities. The liquidity depletion in lit markets is driven, to some extent, by increased dark pool trading in larger securities and the widespread use of Intermarket Sweep Orders (ISOs) in smaller ones, revealing market fragmentation. Additionally, circuit breakers inadvertently facilitate the transmission of toxic equity volatility to the derivatives market. To mitigate these unintended consequences, I propose refinements to the existing mechanism to minimize the impact of trading halts and improve the management of rare events like the COVID-19 crisis."
