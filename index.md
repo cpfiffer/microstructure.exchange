@@ -43,7 +43,7 @@ To receive updates about upcoming seminars, please subscribe to our [mailing lis
 - Josh Mollner -- Northwestern University ([website](https://sites.google.com/site/joshuamollner/) or [email](mailto:joshua.mollner@kellogg.northwestern.edu))
 - Andreas Park -- University of Toronto ([website](https://sites.google.com/site/parkandreas/), [twitter](https://twitter.com/financeutm), or [email](mailto:andreas.park@rotman.utoronto.ca))
 - Cameron Pfiffer -- Stanford University ([website](https://cameron.pfiffer.org), [twitter](https://twitter.com/cameron_pfiffer), or [email](mailto:cpfiffer@stanford.edu))
-- Andriy Shkilko -- Wilfrid Laurier University ([website](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/andriy-shkilko/index.html), [twitter](https://twitter.com/AndriyShkilko), or [email](mailto:ashkilko@wlu.ca))
+- Andriy Shkilko -- University of Georgia ([website](https://www.terry.uga.edu/directory/andriy-shkilko/), [twitter](https://twitter.com/AndriyShkilko), or [email](mailto:ashkilko@uga.edu))
 
 ## Contact
 
