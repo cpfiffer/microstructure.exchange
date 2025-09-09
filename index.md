@@ -12,10 +12,10 @@ Speakers are invited to present their work over Zoom. Seminars last for about an
 <!-- The Microstructure Exchange is accepting submissions for the Fall 2025. <br>
 
 Please <a href="https://www.research.net/r/TME-Fall-2025">submit your paper here</a>. The deadline is June 26, 2025  (11:59 pm PT).<br>
-<br> -->
+<br> 
 </div>
 
-<hr>
+<hr> -->
 
 ## Upcoming talk
 
