@@ -16,7 +16,7 @@ speaker-info:
   coauthors: "Kumar Venkataraman (SMU) and David X. Xu (SMU)"
   speaker-date: "September 16, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937"
-  #paper-link: "papers/BarardehiDixonLiu.pdf" # If you have a file instead
+  paper-link: "papers/JVX_20250904.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
