@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Claudia Moise (NYU)"
-  speaker-paper: "Circuit Breakers, Illiquidity, and the COVID-19 Crisis"
-  #coauthors: "Yashar Barardehi (Chapman) and Qiyu Liu (SEC)"
-  speaker-date: "May 27, 11 a.m. (New York time)"
-  paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937"
+  speaker-name: "Stacey Jacobsen (SMU)"
+  speaker-paper: "Illiquidity Meets Intelligence: AI-Driven Price Discovery in Corporate Bonds"
+  coauthors: "Kumar Venkataraman (SMU) and David X. Xu (SMU)"
+  speaker-date: "September 16, 11 a.m. (New York time)"
+  #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937"
   #paper-link: "papers/BarardehiDixonLiu.pdf" # If you have a file instead
-  webinar-link: "https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1"
+  webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "I identify the economic triggers behind the recently introduced stock-level circuit breakers and evaluate their market impact during the COVID-19 crisis. Although designed to halt trading in volatile markets caused by informational shocks, these circuit breakers are often triggered by short-term liquidity shocks instead. This results in halts that are followed by reduced liquidity across all securities and worse price discovery in smaller securities. The liquidity depletion in lit markets is driven, to some extent, by increased dark pool trading in larger securities and the widespread use of Intermarket Sweep Orders (ISOs) in smaller ones, revealing market fragmentation. Additionally, circuit breakers inadvertently facilitate the transmission of toxic equity volatility to the derivatives market. To mitigate these unintended consequences, I propose refinements to the existing mechanism to minimize the impact of trading halts and improve the management of rare events like the COVID-19 crisis."
+  abstract: "We study the contribution of AI-generated reference prices to intraday price discovery in markets with infrequent trading. Using corporate bond transactions and MarketAxess CP+ quotes, we find that CP+ is more informative about future trade prices than the last trade. Regression analysis shows that CP+ quote updates are systematically related to market-wide movements in bond, equity, and options markets, as well as bond-specific non-public information from the RFQ process. CP+ provides broad coverage across bonds and trading days. Its contribution to price discovery exhibits a bell-shaped relationship with liquidity and increases under market uncertainty. Following a trade report, CP+ updates quickly in the direction of the trade. We show that this can limit its contribution during periods driven by large transitory price shocks."
