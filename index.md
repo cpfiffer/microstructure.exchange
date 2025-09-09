@@ -20,7 +20,7 @@ Please <a href="https://www.research.net/r/TME-Fall-2025">submit your paper here
 ## Upcoming talk
 
 <!-- {% include upcoming-speaker.html %} -->
-#The Microstructure Exchange is on a break and will be back in September.  
+The Microstructure Exchange is on a break and will be back in September.  
 
 ## Calendar 
 
@@ -28,7 +28,7 @@ Seminars take place on Tuesdays at 11:00.000000 a.m., NYSE time (or, if you are 
 
 The calendar is available as a [Google calendar](https://calendar.google.com/calendar/embed?src=906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com&ctz=America%2FNew_York) or in [iCal](https://calendar.google.com/calendar/ical/906bt212ejrvu8qnhtmv5ejms0%40group.calendar.google.com/public/basic.ics) format.
 
-The Zoom link for this season is [here](https://us06web.zoom.us/j/86070822952?pwd=NJiITDJTcek6eQNKmttaao34HWsysw.1). You do not need to register ahead of the seminars.
+The Zoom link for this season is [here](https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1). You do not need to register ahead of the seminars.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23fffaf0&amp;ctz=America%2FNew_York&amp;src=OTA2YnQyMTJlanJ2dThxbmh0bXY1ZWptczBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5&amp;mode=AGENDA&amp;title=The%20Microstructure%20Exchange%3A%20Speaker%20List" style="border-width:0" width="75%" height="400" frameborder="0" scrolling="no"></iframe>
 
