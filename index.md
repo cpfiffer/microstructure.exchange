@@ -63,9 +63,11 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 <!-- ### Courses
 - [Market Microstructure Summer School](https://microstructure-course.com/), June 16-20, 2025, at University of Edinburgh. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2024.**  -->
 
+<hr>
 ### Conferences
 - [NYSE Market Microstructure Conference](https://www.nyse.com/data-insights/the-2026-nyse-market-microstructure-conference), Feb 9, 2026, at the NYSE, New York. Calling all academics with papers on covering the real-world application of market microstructure. **Application deadline: September 30, 2025.**
-  
+<br>
+
 ### Data
 
 - [Level 2 order book data trials](https://wrds-www.wharton.upenn.edu/login/?next=/pages/get-data/nyse-trade-and-quote-trial/nyse-order-book-sample/) from WRDS. WRDS is inviting faculty to trial the NYSE and ARCA level 2 order book data (TAQ Integrated Feed) and collecting interest in subscribing. WRDS is receiving academic feedback for this candidate database. We hope to make these data available to the microstructure research community soon. To join the subscription wish list or seek additional information, please contact [WRDS](https://wrds-support.wharton.upenn.edu/hc/en-us/requests/new?ticket_form_id=114093978532). [Data manual](https://wrds-www.wharton.upenn.edu/login/?next=/documents/1736/TAQ_Pillar_Products_Client_Specification_v2.3f.pdf). For papers using these data, please see [Battalio et al. (2021)](https://www.sciencedirect.com/science/article/pii/S1386418120300367?casa_token=ccSQ6pL5bZMAAAAA:3pfY1G2tZj6mj3gzlL73-3VIL8FUKkOklGNlGNBSgxXCkDQOM2BMv_cA6k26mq7LC4P4V23hL_E) and [Holden et al. (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4441422).
