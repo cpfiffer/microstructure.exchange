@@ -63,10 +63,8 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 <!-- ### Courses
 - [Market Microstructure Summer School](https://microstructure-course.com/), June 16-20, 2025, at University of Edinburgh. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2024.**  -->
 
-<hr>
 ### Conferences
 - [NYSE Market Microstructure Conference](https://www.nyse.com/data-insights/the-2026-nyse-market-microstructure-conference), Feb 9, 2026, at the NYSE, New York. Calling all academics with papers on covering the real-world application of market microstructure. **Application deadline: September 30, 2025.**
-<br>
 
 ### Data
 
