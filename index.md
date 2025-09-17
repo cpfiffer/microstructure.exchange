@@ -52,7 +52,7 @@ Email [contact@microstructure.exchange](mailto:contact@microstructure.exchange) 
 ## The WRDS-TME Best Paper Award
 WRDS is sponsoring the TME best paper award. Every academic year, all papers presented at TME will be candidates for this award. A selected group of reviewers will vote on the best paper of the year. The winning paper authors will receive a monetary reward of $3,000 and a beautiful award trophy. See the past winning papers below: 
 
-- 2025, _Optimal Exchange Design_, by Daniel Chen
+- 2025, _Optimal Exchange Design_, by Daniel Chen ([recording](https://youtu.be/ovJwCV2iux0), [paper](https://danieltchen.com/OEDOct.pdf))
 - 2024, _Measuring Public and Private Information using Quote and Trade Races_, by James Brugler and Terry Hendershott
 - 2023, _Would Order-By-Order Auctions Be Competitive?_, by Thomas Ernst, Chester S. Spatt, and Jian Sun.
 
@@ -73,6 +73,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Stacey Jacobesen: Illiquidity Meets Intelligence: AI-Driven Price Discovery in Corporate Bonds ([recording](https://youtu.be/3U1U3WOpEPc), [paper](https://microstructure.exchange/papers/JVX_20250904.pdf)) 
 - Claudia Moise: Circuit Breakers, Illiquidity, and the COVID-19 Crisis ([recording](https://youtu.be/r8NBGD3z1IM), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937))
 - Peter Dixon: Detecting Informed Trading Risk from Undercutting Activity in Limit Order Markets ([recording](https://youtu.be/9XnOySV4WYM), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689334))
 - Simon Jurkatis: Investors as a Liquidity Backstop in Corporate Bond Markets ([recording](https://youtu.be/5NQv2gQu-Sw), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229934))
