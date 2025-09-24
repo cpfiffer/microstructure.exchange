@@ -13,7 +13,7 @@ github:
 speaker-info:
   speaker-name: "Andrei Kirilenko (Cambridge)"
   speaker-paper: "ETF (Mis)pricing"
-  #coauthors: "Kumar Venkataraman (SMU) and David X. Xu (SMU)"
+  coauthors: "Wladimir Kraus (FCA), Oliver Linton (Cambridge), and Mingmei Xiao (Cambridge / FCA)"
   speaker-date: "September 30, 11 a.m. (New York time)"
   paper-link: "www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
   #paper-link: "papers/JVX_20250904.pdf" # If you have a file instead
