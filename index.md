@@ -80,7 +80,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - Amber Anand: Retail Limit Orders (recording not available, [paper](https://microstructure.exchange/papers/Retail%20Limit%20Orders%2004082025.pdf))
 - David Cimon: Non-Bank Dealing and Liquidity Bifurcation in Fixed-Income Markets ([recording](https://youtu.be/68jL8D6bIcE), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089905))
 - Yashar Barardehi: You can only lend what you own: Inferring daily institutional trading from security lending supply ([recording](https://youtu.be/vowFSp6tBuw), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025126))
-- Albert Menkveld: Pricing Variance in a Model with Fire Sales ([recording](https://youtu.be/jbtQGXIKi7k), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043741))
+- Albert Menkveld: Pricing Variance in a Model with Fire Sales ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5043741))
 - Zhenkai Ran: Value versus Values: The Effect of Stock Liquidity Shocks on Corporate Environmental Policies ([recording](https://youtu.be/95nj1717YTQ), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032975))
 - Daniel Chen: Optimal Exchange Design ([recording](https://youtu.be/ovJwCV2iux0), [paper](https://danieltchen.com/OEDOct.pdf))
 - Amber Anand: Do auctions impact quote competition? ([paper](https://microstructure.exchange/papers/Auctions%20and%20quote%20competition-11192024.pdf), no recording available)
