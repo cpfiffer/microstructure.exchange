@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Andrei Kirilenko (Cambridge)"
-  speaker-paper: "ETF (Mis)pricing"
-  coauthors: "Wladimir Kraus (FCA), Oliver Linton (Cambridge), and Mingmei Xiao (Cambridge / FCA)"
-  speaker-date: "September 30, 11 a.m. (New York time)"
-  paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
+  speaker-name: "Alexander Ober (Rice)"
+  #speaker-paper: "ETF (Mis)pricing"
+  #coauthors: "Wladimir Kraus (FCA), Oliver Linton (Cambridge), and Mingmei Xiao (Cambridge / FCA)"
+  speaker-date: "October 14, 11 a.m. (New York time)"
+  #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
   #paper-link: "papers/JVX_20250904.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Authorised Participants (APs), primarily market makers, create and redeem ETF shares in response to investor demand, making their behaviour crucial for ETF liquidity and price alignment. We formulate a dynamic equilibrium model of APs' trading decisions, explicitly capturing their inventory management incentives and arbitrage motives, and derive predictions linking ETF mispricing to inventory risk and aggregate demand shocks. Using a novel regulatory dataset covering primary and secondary market trades for 128 ETFs between 2018 and 2022, we empirically validate our model's predictions. Results confirm that APs' real-time inventory positions and investor demand significantly explain ETF price deviations from net asset values (NAVs), offering insights beyond traditional economic and fundamental factors. Our model further clarifies APs' incentives and sheds light on mechanisms underlying the severe mispricing episodes observed in March 2020 across various ETF classes."
+  #abstract: "Authorised Participants (APs), primarily market makers, create and redeem ETF shares in response to investor demand, making their behaviour crucial for ETF liquidity and price alignment. We formulate a dynamic equilibrium model of APs' trading decisions, explicitly capturing their inventory management incentives and arbitrage motives, and derive predictions linking ETF mispricing to inventory risk and aggregate demand shocks. Using a novel regulatory dataset covering primary and secondary market trades for 128 ETFs between 2018 and 2022, we empirically validate our model's predictions. Results confirm that APs' real-time inventory positions and investor demand significantly explain ETF price deviations from net asset values (NAVs), offering insights beyond traditional economic and fundamental factors. Our model further clarifies APs' incentives and sheds light on mechanisms underlying the severe mispricing episodes observed in March 2020 across various ETF classes."
