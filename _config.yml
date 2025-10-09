@@ -12,8 +12,8 @@ github:
 
 speaker-info:
   speaker-name: "Alexander Ober (Rice)"
-  #speaker-paper: "ETF (Mis)pricing"
-  #coauthors: "Wladimir Kraus (FCA), Oliver Linton (Cambridge), and Mingmei Xiao (Cambridge / FCA)"
+  speaker-paper: "Is 24/7 Trading Better?"
+  coauthors: "Patrick Blonien (Carnegie Mellon)"
   speaker-date: "October 14, 11 a.m. (New York time)"
   #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
   #paper-link: "papers/JVX_20250904.pdf" # If you have a file instead
