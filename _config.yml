@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Alexander Ober (Rice)"
-  speaker-paper: "Is 24/7 Trading Better?"
-  coauthors: "Patrick Blonien (Carnegie Mellon)"
-  speaker-date: "October 14, 11 a.m. (New York time)"
+  speaker-name: "Mao Ye (Cornell)"
+  speaker-paper: "TBA"
+  #coauthors: "Patrick Blonien (Carnegie Mellon)"
+  speaker-date: "October 28, 11 a.m. (New York time)"
   #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
-  paper-link: "papers/trading_hours.pdf" # If you have a file instead
+  #paper-link: "papers/trading_hours.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "In a dynamic model of large traders who manage inventory risk, we show that a daily market closure coordinates liquidity. Some length of closure is welfare-improving relative to 24/7 trade, as the coordination of liquidity improves allocative efficiency, fully offsetting the costs of the closure. A long closure is optimal for traders in small markets, while traders in large markets would benefit from extending trading hours to near 24/7. A calibration of our model to several large equity exchanges that have proposed extending trading hours suggests that implementing such proposals would benefit traders."
+  #abstract: "In a dynamic model of large traders who manage inventory risk, we show that a daily market closure coordinates liquidity. Some length of closure is welfare-improving relative to 24/7 trade, as the coordination of liquidity improves allocative efficiency, fully offsetting the costs of the closure. A long closure is optimal for traders in small markets, while traders in large markets would benefit from extending trading hours to near 24/7. A calibration of our model to several large equity exchanges that have proposed extending trading hours suggests that implementing such proposals would benefit traders."
