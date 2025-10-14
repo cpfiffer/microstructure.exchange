@@ -63,8 +63,8 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 <!-- ### Courses
 - [Market Microstructure Summer School](https://microstructure-course.com/), June 16-20, 2025, at University of Edinburgh. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2024.**  -->
 
-### Conferences
-- [NYSE Market Microstructure Conference](https://www.nyse.com/data-insights/the-2026-nyse-market-microstructure-conference), Feb 9, 2026, at the NYSE, New York. Calling all academics with papers on covering the real-world application of market microstructure. **Application deadline: September 30, 2025.**
+<!-- ### Conferences
+- [NYSE Market Microstructure Conference](https://www.nyse.com/data-insights/the-2026-nyse-market-microstructure-conference), Feb 9, 2026, at the NYSE, New York. Calling all academics with papers on covering the real-world application of market microstructure. **Application deadline: September 30, 2025.** **  -->
 
 ### Data
 
@@ -73,7 +73,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
-https://youtu.be/-OVIAs967AI
+- Alexander Ober: Is 24/7 Trading Better? ([recording](https://youtu.be/79cGXKNoQpo), [paper](https://microstructure.exchange/papers/trading_hours.pdf)) 
 - Andrei Kirilenko: ETF (Mis)pricing ([recording](https://youtu.be/-OVIAs967AI), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing)) 
 - Stacey Jacobsen: Illiquidity Meets Intelligence: AI-Driven Price Discovery in Corporate Bonds ([recording](https://youtu.be/3U1U3WOpEPc), [paper](https://microstructure.exchange/papers/JVX_20250904.pdf)) 
 - Claudia Moise: Circuit Breakers, Illiquidity, and the COVID-19 Crisis ([recording](https://youtu.be/r8NBGD3z1IM), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768937))
