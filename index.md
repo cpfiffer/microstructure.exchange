@@ -73,6 +73,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Jason Zou: Asset Prices and Investor Behavior under Randomized Supply Shocks ([recording](https://www.youtube.com/watch?v=ikBC3Gx9Ho8), [paper](https://microstructure.exchange/papers/Zou_Ye.pdf)) 
 - Alexander Ober: Is 24/7 Trading Better? ([recording](https://youtu.be/79cGXKNoQpo), [paper](https://microstructure.exchange/papers/trading_hours.pdf)) 
 - Andrei Kirilenko: ETF (Mis)pricing ([recording](https://youtu.be/-OVIAs967AI), [paper](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing)) 
 - Stacey Jacobsen: Illiquidity Meets Intelligence: AI-Driven Price Discovery in Corporate Bonds ([recording](https://youtu.be/3U1U3WOpEPc), [paper](https://microstructure.exchange/papers/JVX_20250904.pdf)) 
