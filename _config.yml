@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Jason Zou (Cornell)"
-  speaker-paper: "Asset Prices and Investor Behavior under Randomized Supply Shocks"
-  coauthors: "Shidong Shao (CUHK), Chen Yao (CUHK), and Mao Ye (Cornell)"
-  speaker-date: "October 28, 11 a.m. (New York time)"
+  speaker-name: "Amit Goyal (Lausanne)"
+  #speaker-paper: "Asset Prices and Investor Behavior under Randomized Supply Shocks"
+  #coauthors: "Shidong Shao (CUHK), Chen Yao (CUHK), and Mao Ye (Cornell)"
+  speaker-date: "November 11, 11 a.m. (New York time)"
   #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
-  paper-link: "papers/Zou_Ye.pdf" # If you have a file instead
+  #paper-link: "papers/Zou_Ye.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Although supply shocks are central to identifying demand elasticity in other areas of economics, the asset pricing literature has relied on demand-side instruments. We fill this gap by exploiting a unique shock to shares outstanding: the 2016 Tick Size Pilot. While treatment and control firms announced similar levels of repurchases, treatment firms ultimately bought 20% fewer shares due to unforeseen conflicts between the pilot and repurchase regulations. The random assignment of stocks also allows us to account for price spillovers. We estimate a price multiplier of 2.01 and show that households and investment advisors (e.g., hedge funds) absorb most of supply shocks."
+  #abstract: "Although supply shocks are central to identifying demand elasticity in other areas of economics, the asset pricing literature has relied on demand-side instruments. We fill this gap by exploiting a unique shock to shares outstanding: the 2016 Tick Size Pilot. While treatment and control firms announced similar levels of repurchases, treatment firms ultimately bought 20% fewer shares due to unforeseen conflicts between the pilot and repurchase regulations. The random assignment of stocks also allows us to account for price spillovers. We estimate a price multiplier of 2.01 and show that households and investment advisors (e.g., hedge funds) absorb most of supply shocks."
