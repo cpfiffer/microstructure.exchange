@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Amit Goyal (Lausanne)"
-  speaker-paper: "On The Drivers of Corporate Bond Lending"
-  coauthors: "Yoshio Nozawa (Toronto) and Yancheng Qiu (U Sydney)"
-  speaker-date: "November 11, 11 a.m. (New York time)"
+  speaker-name: "Patrick Chang (Oxford)"
+  #speaker-paper: "On The Drivers of Corporate Bond Lending"
+  #coauthors: "Yoshio Nozawa (Toronto) and Yancheng Qiu (U Sydney)"
+  speaker-date: "November 25, 11 a.m. (New York time)"
   #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
-  paper-link: "papers/Ownership_and_Bond_Lending.pdf" # If you have a file instead
+  #paper-link: "papers/Ownership_and_Bond_Lending.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "In the corporate bond market, short sellers are mainly dealers rather than speculative customers.  On days when bond lending increases, dealer sales, the half spread of customer buy trades, and bond returns all increase, implying that bond lending is driven by buying pressure. Using a novel empirical framework that decomposes the variance of securities lending, we find that market-making activities account for 66% of lending variation. The role of customer speculation intensifies in a small segment of special bonds, but its share never exceeds 50%. Our findings caution against extending the insights from the equity short selling literature to the corporate bond market."
+  #abstract: "In the corporate bond market, short sellers are mainly dealers rather than speculative customers.  On days when bond lending increases, dealer sales, the half spread of customer buy trades, and bond returns all increase, implying that bond lending is driven by buying pressure. Using a novel empirical framework that decomposes the variance of securities lending, we find that market-making activities account for 66% of lending variation. The role of customer speculation intensifies in a small segment of special bonds, but its share never exceeds 50%. Our findings caution against extending the insights from the equity short selling literature to the corporate bond market."
