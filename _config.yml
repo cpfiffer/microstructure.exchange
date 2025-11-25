@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Patrick Chang (Oxford)"
-  speaker-paper: "Anonymity, Signaling, and Collusion in Limit Order Books"
-  coauthors: "Álvaro Cartea (Oxford) and Rob Graumans (AFM)"
-  speaker-date: "November 25, 11 a.m. (New York time)"
+  speaker-name: "Chester Spatt (Carnegie Mellon)"
+  #speaker-paper: "Anonymity, Signaling, and Collusion in Limit Order Books"
+  #coauthors: "Álvaro Cartea (Oxford) and Rob Graumans (AFM)"
+  speaker-date: "December 16, 11 a.m. (New York time)"
   #paper-link: "https://www.fca.org.uk/publications/occasional-papers/occasional-paper-68-etf-mispricing"
-  paper-link: "papers/Signaling.pdf" # If you have a file instead
+  #paper-link: "papers/Signaling.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84303454366?pwd=b4JaIdm1lx0w7n5vaMuYW1hWJ7YggF.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "A key feature in the design of a limit order book is the anonymity of limit orders. However, we analyze data with trader identification and find that market makers break the anonymity of limit orders. Market makers use limit orders with large volumes to signal themselves to other market makers to avoid trading with each other and to snipe retail limit orders. We explain the behavior of market makers with a model that considers competitive and collusive equilibria. The model shows that the behavior of market makers is consistent with that in a collusive equilibrium where market makers use signals to avoid sniping each other’s limit orders. Signaling enables market makers to share the profitable benign flow from retail limit orders, and simultaneously limit competition from retail limit orders, which enables market makers to receive additional benign flow from impatient investors who would have otherwise traded with a retail investor’s limit order."
+  #abstract: "A key feature in the design of a limit order book is the anonymity of limit orders. However, we analyze data with trader identification and find that market makers break the anonymity of limit orders. Market makers use limit orders with large volumes to signal themselves to other market makers to avoid trading with each other and to snipe retail limit orders. We explain the behavior of market makers with a model that considers competitive and collusive equilibria. The model shows that the behavior of market makers is consistent with that in a collusive equilibrium where market makers use signals to avoid sniping each other’s limit orders. Signaling enables market makers to share the profitable benign flow from retail limit orders, and simultaneously limit competition from retail limit orders, which enables market makers to receive additional benign flow from impatient investors who would have otherwise traded with a retail investor’s limit order."
