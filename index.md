@@ -6,7 +6,7 @@ The Microstructure Exchange is a virtual academic market structure research semi
 
 Speakers are invited to present their work over Zoom. Seminars last for about an hour, consisting of a 45-minute presentation followed by a 15-minute Q&A. Questions can also be asked during the presentation, at designated break points or on the fly, depending on the speaker's preference. 
 
-<div class="cfp">
+<!-- <div class="cfp">
 <hr> 
 
 The Microstructure Exchange is accepting submissions for the spring 2026. <br>
@@ -15,12 +15,12 @@ Please <a href="https://form.jotform.com/parkandreas/TME-spring-2026">submit you
 <br> 
 </div>
 
-<hr> 
+<hr> -->
 
 ## Upcoming talk
 
-{% include upcoming-speaker.html %}
-<!-- The Microstructure Exchange is on a break and will be back in September.   -->
+<!-- {% include upcoming-speaker.html %} -->
+The Microstructure Exchange is on a break and will be back in February 2026.    
 
 ## Calendar 
 
@@ -73,6 +73,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+- Chester Spatt: Dark Crypto ([recording](https://youtu.be/0KBs4oQ9w9w), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551)) 
 - Patrick Chang: Anonymity, Signaling, and Collusion in Limit Order Books ([recording](https://youtu.be/PZ0jGTwhGCM), [paper](https://microstructure.exchange/papers/Signaling.pdf)) 
 - Amit Goyal: On The Drivers of Corporate Bond Lending ([recording](https://youtu.be/oZ8qg8o7kP8), [paper](https://microstructure.exchange/papers/Ownership_and_Bond_Lending.pdf)) 
 - Jason Zou: Asset Prices and Investor Behavior under Randomized Supply Shocks ([recording](https://www.youtube.com/watch?v=ikBC3Gx9Ho8), [paper](https://microstructure.exchange/papers/Zou_Ye.pdf)) 
