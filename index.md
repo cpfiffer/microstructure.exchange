@@ -64,7 +64,7 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Market Microstructure Summer School](https://microstructure-course.com/), June 16-20, 2025, at University of Edinburgh. A one-week full-time intensive PhD level course taught by Thierry Foucault (HEC Paris) and Albert Menkveld (VU Amsterdam). Graduate students, faculty members, and advanced practitioners are invited to apply. **Application deadline: December 1, 2024.**  -->
 
 ### Conferences
-- [NBER SI 2026 Financial Market Structure](https://www.nber.org/conferences/si-2026-financial-market-structure), July 18, 2026, Cambridge, MA. **Application deadline: March 26, 2026.**  
+- [NBER SI 2026 Financial Market Structure](https://www.nber.org/conferences/si-2026-financial-market-structure), July 18, 2026, Cambridge, MA. **Submission deadline: March 26, 2026.**  
 
 ### Data
 
