@@ -19,8 +19,8 @@ Please <a href="https://form.jotform.com/parkandreas/TME-spring-2026">submit you
 
 ## Upcoming talk
 
-<!-- {% include upcoming-speaker.html %} -->
-The Microstructure Exchange is on a break and will be back in February 2026.    
+{% include upcoming-speaker.html %}
+<!-- The Microstructure Exchange is on a break and will be back in February 2026.   -->  
 
 ## Calendar 
 
