@@ -11,10 +11,10 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Mohan (Fred) Sun (Cornell)"
-  speaker-paper: "Best Execution Puzzles"
-  coauthors: "Indira Puri (NYU) and Mao Ye (Cornell)"
-  speaker-date: "March 3, 11 a.m. (New York time)"
+  speaker-name: "Ryan Riordan (LMU Munich)"
+  speaker-paper: "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape"
+  coauthors: "Lisa Kaminski (LMU) and Ralf Laschinger (LMU)"
+  speaker-date: "March 17, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551"
   #paper-link: "papers/Signaling.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84504721258?pwd=I2cR9GtVjSa0myOQKYdxRTvQ1PHENW.1"
