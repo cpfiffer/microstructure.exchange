@@ -73,6 +73,9 @@ The Microstructure Exchange will host resources, tools, and data for microstruct
 - [Quote-to-trade ratios](https://drive.google.com/file/d/1H8wMvA_59-N5Y_xiDPGTbpBsX5BFwOIV/view) from the paper [_Quoting activity and the cost of capital_ ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3005928) by Ioanid Rosu, Elvira Sojli, and Wing Wah Tham. Wharton Research Data Services (WRDS) data was used in preparing this output.
 
 ## Past talks
+
+- Ryan Riordan: The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape ([recording](https://www.youtube.com/watch?v=U_aOJ6MN5aI), [paper](https://microstructure.exchange/papers/ebbo_20260313.pdf)) 
+- Fred Sun: Best Execution Puzzles (no recording or paper available) 
 - Chester Spatt: Dark Crypto ([recording](https://youtu.be/0KBs4oQ9w9w), [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551)) 
 - Patrick Chang: Anonymity, Signaling, and Collusion in Limit Order Books ([recording](https://youtu.be/PZ0jGTwhGCM), [paper](https://microstructure.exchange/papers/Signaling.pdf)) 
 - Amit Goyal: On The Drivers of Corporate Bond Lending ([recording](https://youtu.be/oZ8qg8o7kP8), [paper](https://microstructure.exchange/papers/Ownership_and_Bond_Lending.pdf)) 
