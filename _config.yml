@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Ryan Riordan (LMU Munich)"
-  speaker-paper: "The European Best Bid and Offer (EBBO): From Fragmented Feeds to a Consolidated Tape"
-  coauthors: "Lisa Kaminski (LMU) and Ralf Laschinger (LMU)"
-  speaker-date: "March 17, 11 a.m. (New York time)"
+  speaker-name: "Chaojun Wang (Wharton)"
+  speaker-paper: "China Walls"
+  coauthors: "Tomy Lee (Central European University) and Daniel Nathan (Hong Kong Polytechnic University)"
+  speaker-date: "March 31, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551"
-  paper-link: "papers/ebbo_20260313.pdf" # If you have a file instead
+  #paper-link: "papers/ebbo_20260313.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84504721258?pwd=I2cR9GtVjSa0myOQKYdxRTvQ1PHENW.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "We construct the first nanosecond-level European Best Bid and Offer (EBBO) by consolidating direct-feed quotes from ten major venues for Eurostoxx50 constituents between 2020 and 2024. The EBBO reveals that consolidation halves quoted spreads and nearly triples displayed depth, yet only 79–86% of marketable orders execute at the best available price. Geographic latency, routing frictions, and incomplete connectivity generate welfare losses of more than €50 million per year. These results quantify some of the costs of fragmentation and demonstrate how a consolidated European benchmark could enhance execution quality, transparency, and competition—directly informing the design of the Markets in Financial Instruments Directive III’s (MiFID III) Consolidated Tape."
+  #abstract: "We construct the first nanosecond-level European Best Bid and Offer (EBBO) by consolidating direct-feed quotes from ten major venues for Eurostoxx50 constituents between 2020 and 2024. The EBBO reveals that consolidation halves quoted spreads and nearly triples displayed depth, yet only 79–86% of marketable orders execute at the best available price. Geographic latency, routing frictions, and incomplete connectivity generate welfare losses of more than €50 million per year. These results quantify some of the costs of fragmentation and demonstrate how a consolidated European benchmark could enhance execution quality, transparency, and competition—directly informing the design of the Markets in Financial Instruments Directive III’s (MiFID III) Consolidated Tape."
