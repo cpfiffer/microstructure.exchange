@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Vincent Maurin (HEC Paris)"
-  speaker-paper: "Dealers as Record Keepers"
-  coauthors: "John Chi-Fong Kuong (CUHK)"
-  speaker-date: "April 14, 11 a.m. (New York time)"
+  speaker-name: "Vincent van Kervel (Universidad de los Andes)"
+  speaker-paper: "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
+  coauthors: "Mauricio Larrain (Universidad de los Andes) and Jorge Sabat (Universidad Andres Bello)"
+  speaker-date: "April 28, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551"
-  paper-link: "papers/Kuong_Maurin_Relationship_Dealers.pdf" # If you have a file instead
+  #paper-link: "papers/Kuong_Maurin_Relationship_Dealers.pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84504721258?pwd=I2cR9GtVjSa0myOQKYdxRTvQ1PHENW.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Trading relationships in over-the-counter (OTC) markets are persistent and often exclusive, despite technological advances that have expanded clients' access to dealers. We rationalize this pattern in a model where trading relationships allow dealers to learn their clients' trading motives from their trading records. Relationship dealers set record-contingent quotes, generating price discrimination that mitigates adverse selection for liquidity-driven clients. Moreover, we show that clients prefer exclusive relationships to keep their record private. As a result, post-trade transparency and trading protocols that facilitate public inference of clients' trading records by dealers (e.g., Request for Quote relative to Request for Market) may reduce gains from trade."
+  #abstract: "Trading relationships in over-the-counter (OTC) markets are persistent and often exclusive, despite technological advances that have expanded clients' access to dealers. We rationalize this pattern in a model where trading relationships allow dealers to learn their clients' trading motives from their trading records. Relationship dealers set record-contingent quotes, generating price discrimination that mitigates adverse selection for liquidity-driven clients. Moreover, we show that clients prefer exclusive relationships to keep their record private. As a result, post-trade transparency and trading protocols that facilitate public inference of clients' trading records by dealers (e.g., Request for Quote relative to Request for Market) may reduce gains from trade."
