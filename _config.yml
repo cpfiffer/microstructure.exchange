@@ -11,9 +11,9 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Vincent van Kervel (Universidad de los Andes)"
+  speaker-name: "Vincent van Kervel (University of los Andes, Chile)"
   speaker-paper: "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
-  coauthors: "Mauricio Larrain (Universidad de los Andes) and Jorge Sabat (Universidad Andres Bello)"
+  coauthors: "Mauricio Larrain (University of los Andes, Chile) and Jorge Sabat (Universidad Andrés Bello)"
   speaker-date: "April 28, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551"
   paper-link: "papers/Paper_DMM (8).pdf" # If you have a file instead
