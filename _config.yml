@@ -11,13 +11,13 @@ github:
   owner_name: Cameron Pfiffer
 
 speaker-info:
-  speaker-name: "Vincent van Kervel (University of los Andes, Chile)"
-  speaker-paper: "Scale Economies in Liquidity Provision: Evidence from Designated Market Makers"
-  coauthors: "Mauricio Larrain (University of los Andes, Chile) and Jorge Sabat (Universidad Andrés Bello)"
-  speaker-date: "April 28, 11 a.m. (New York time)"
+  speaker-name: "Win Monroe (Copenhagen Business School)"
+  speaker-paper: "Dealers, Information, and Liquidity Crises in Safe Assets"
+  coauthors: "Robert Czech (Bank of England)"
+  speaker-date: "May 12, 11 a.m. (New York time)"
   #paper-link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186551"
-  paper-link: "papers/Paper_DMM (8).pdf" # If you have a file instead
+  #paper-link: "papers/Paper_DMM (8).pdf" # If you have a file instead
   webinar-link: "https://us06web.zoom.us/j/84504721258?pwd=I2cR9GtVjSa0myOQKYdxRTvQ1PHENW.1"
   # discussant: "Michael Noe (Eurex), Amit Goyal (SFI/Lausanne), and Eric Uhlmann (INSEAD)"
   # slides-link: /slides/RobinhoodSlides_TME.pdf
-  abstract: "Stock markets in emerging economies often suffer from severe illiquidity. Exploiting a Chilean tax regulation, we identify a large negative causal effect of designated market maker (DMM) adoption on bid–ask spreads. A novel intraday spread distribution analysis shows that the improvement is roughly split between the DMM's binding spread obligation and equilibrium spillovers. These spillovers arise from economies of scale in liquidity provision: tighter spreads increase trading volume, lowering liquidity suppliers' average operating costs and enabling further tightening."
+  #abstract: "Stock markets in emerging economies often suffer from severe illiquidity. Exploiting a Chilean tax regulation, we identify a large negative causal effect of designated market maker (DMM) adoption on bid–ask spreads. A novel intraday spread distribution analysis shows that the improvement is roughly split between the DMM's binding spread obligation and equilibrium spillovers. These spillovers arise from economies of scale in liquidity provision: tighter spreads increase trading volume, lowering liquidity suppliers' average operating costs and enabling further tightening."
